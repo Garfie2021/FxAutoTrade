@@ -1,0 +1,209 @@
+﻿default=enu
+[enu]
+codepage=1252
+name=Chande Momentum Oscillator
+description=Measures overbought and oversold levels, trendiness and divergence based on the recent losses and gains.
+param_P_name=Number of periods
+param_P_description=The number of periods.
+param_CMO_color_name=Line color
+param_CMO_color_description=The color of the Chande Momentum line.
+param_CMO_width_name=Line width
+param_CMO_width_description=The width of the Chande Momentum line.
+param_CMO_style_name=Line style
+param_CMO_style_description=The style of the Chande Momentum line.
+
+[rus]
+codepage=1251
+name=Осциллятор ценовых моментов Чанде
+description=Измеряет уровни перекупленности и перепроданности, силу тренда и расхождение, основываясь на недавних прибылях и убытках.
+param_P_name=Количество периодов
+param_P_description=Количество периодов.
+param_CMO_color_name=Цвет линии
+param_CMO_color_description=Цвет линии ценовых моментов Чанде.
+param_CMO_width_name=Ширина линии
+param_CMO_width_description=Ширина линии осциллятора ценовых моментов Чанде.
+param_CMO_style_name=Стиль линии
+param_CMO_style_description=Стиль линии осциллятора ценовых моментов Чанде.
+
+[ara]
+codepage=1256
+name=مؤشر Chande Momentum Oscillator
+description=يقيس مستويات الزيادة بالشراء والزيادة بالبيع، الاتجاه والاختلاف على أساس الأرباح والخسائر الأخيرة.
+param_P_name=عدد الفترات
+param_P_description=عدد الفترات.
+param_CMO_color_name=لون خط
+param_CMO_color_description=لون خط مؤشر Chande Momentum Oscillator
+param_CMO_width_name=عرض الخط
+param_CMO_width_description=عرض الخط الخاص بمؤشر تشاند للزخم
+param_CMO_style_name=نوع الخط
+param_CMO_style_description=نوع الخط الخاص بمؤشر تشاند للزخم
+
+[chs]
+codepage=936
+name=钱德动量摆动指标
+description=根据最近亏损及盈利, 量度超买及超卖水平, 趋势及背驰
+param_P_name=时期数目
+param_P_description=时期数目
+param_CMO_color_name=线颜色
+param_CMO_color_description=钱德动量摆动指标线颜色
+param_CMO_width_name=线宽
+param_CMO_width_description=钱德动量摆动线宽度
+param_CMO_style_name=线样式
+param_CMO_style_description=钱德动量摆动线样式
+
+[cht]
+codepage=950
+name=錢德動量擺動指標
+description=根據最近虧損及盈利, 量度超買及超賣水平, 趨勢及背馳
+param_P_name=時期數目
+param_P_description=時期數目
+param_CMO_color_name=線顏色
+param_CMO_color_description=錢德動量擺動指標線顏色
+param_CMO_width_name=線寬
+param_CMO_width_description=錢德動量擺動線寬度
+param_CMO_style_name=線樣式
+param_CMO_style_description=錢德動量擺動線樣式
+
+[cze]
+codepage=1250
+name=Chande Momentum Oscilátor
+description=Meří hranice přeprodanosti a překoupenosti, trendovost a divergenci na základě minulých zisků a ztrát.
+param_P_name=Počet period
+param_P_description=Počet period.
+param_CMO_color_name=Barva linky
+param_CMO_color_description=Barva linky Chande Momentum Oscilátoru.
+param_CMO_width_name=Šíře linky
+param_CMO_width_description=Šíře linky Chande Momentum.
+param_CMO_style_name=Styl linky
+param_CMO_style_description=Styl linky Chande Momentum.
+
+[deu]
+codepage=1252
+name=Chande Momentum Oszillator
+description=Misst überkauft und überverkauft Level, Trendstärke und Divergenz auf Basis der kürzlichen Verluste und Gewinne.
+param_P_name=Anzahl der Perioden
+param_P_description=Die Anzahl der Perioden
+param_CMO_color_name=Linienfarbe
+param_CMO_color_description=Die Farbe der Chande Momentum Linie
+param_CMO_width_name=Linienbreite
+param_CMO_width_description=Breite der Chande Momentum Linie
+param_CMO_style_name=Linienstil
+param_CMO_style_description=Art der Chande Momentum Linie
+
+[fra]
+codepage=1252
+name=Oscillateur Momemtum Chande
+description=Mesure les niveaux de surachat et survente, la tendance et la divergence sur la base des récents gains et pertes
+param_P_name=Nombre de périodes
+param_P_description=Le nombre de périodes
+param_CMO_color_name=Couleur de la ligne
+param_CMO_color_description=La couleur de la ligne Momemtum Chande
+param_CMO_width_name=Largeur de la ligne
+param_CMO_width_description=La largeur de la ligne Chande Momentum
+param_CMO_style_name=Style de la ligne
+param_CMO_style_description=Le style de la ligne Chande Momentum
+
+[gre]
+codepage=1253
+name=Ταλαντωτής Chande Momentum
+description=Μετρά τα υπεραγορασμένα και υπερπουλημένα επίπεδα, την τάση και την απόκλιση με βάση τις πρόσφατες απώλειες και κέρδη.
+param_P_name=Αριθμός περιόδων
+param_P_description=Ο αριθμός των περιόδων
+param_CMO_color_name=Χρώμα γραμμής
+param_CMO_color_description=Το χρώμα της γραμμής του Chande Momentum.
+param_CMO_width_name=Πάχος γραμμής
+param_CMO_width_description=Το πλάτος της γραμμής του Chande Momentum.
+param_CMO_style_name=Στυλ γραμμής
+param_CMO_style_description=Το στυλ της γραμμής του Chande Momentum.
+
+[heb]
+codepage=1255
+name=מתנד המומנטום של צ'נדה
+description=מודד מכירת-יתר וקניית-יתר, מגמתיות וסטייה, בהתאם לעליות והירידות האחרונות.
+param_P_name=מספר תקופות
+param_P_description=מספר התקופות.
+param_CMO_color_name=צבע קו
+param_CMO_color_description=צבע קו המומנטום של צ'נדה.
+param_CMO_width_name=רוחב קו
+param_CMO_width_description=רוחב קו המומנטום של אינדיקטור שאנדה
+param_CMO_style_name=סגנון קו
+param_CMO_style_description=סגנון קו המומנטום של אינדיקטור שאנדה
+
+[ita]
+codepage=1252
+name=Chande Momentum Oscillator
+description=Misura livelli di ipercomprato e ipervenduto, tendenza e divergenza basati sui recenti guadagni e perdite
+param_P_name=Numero di periodi
+param_P_description=Il numero dei periodi
+param_CMO_color_name=Colore linea
+param_CMO_color_description=Il colore della linea Chande Momentum
+param_CMO_width_name=Spessore della linea
+param_CMO_width_description=Lo spessore della linea del Chande Momentum
+param_CMO_style_name=Stile della linea
+param_CMO_style_description=Lo stile della linea del Chande Momentum
+
+[jpn]
+codepage=932
+name=シャンデ・モメンタム・オシレーター
+description=最近の騰落に基づき、トレンド発生の有無や売られすぎ・買われすぎ水準を測ります。
+param_P_name=期間の数
+param_P_description=期間の数
+param_CMO_color_name=ラインの色
+param_CMO_color_description=Chande Momentumラインの色
+param_CMO_width_name=ラインの幅
+param_CMO_width_description=CMO ラインの幅
+param_CMO_style_name=ラインのスタイル
+param_CMO_style_description=CMO ラインのスタイル
+
+[tur]
+codepage=1254
+name=Chande Momentum Osilatörü
+description=Son kayıp ve kazançlara dayanarak aşırı alış ve aşırı satış seviyelerini, trend durumunu ve sapmaları ölçer.
+param_P_name=Periyot sayısı
+param_P_description=Periyotların sayısı.
+param_CMO_color_name=Çizgi rengi
+param_CMO_color_description=Chande Momentum çizgi rengi.
+param_CMO_width_name=Çizgi kalınlığı
+param_CMO_width_description=Chande Momentum çizgi kalınlığı.
+param_CMO_style_name=Çizgi biçimi
+param_CMO_style_description=Chande Momentum çizgi biçimi.
+
+[pol]
+codepage=1250
+name=Chande Momentum Oscillator
+description=Mierzy poziom nadwymiarowych zakupów i sprzedaży, trend i zbieżność oparta na ostatnich stratach i zyskach.
+param_P_name=Liczna okresów
+param_P_description=Liczba okresów
+param_CMO_color_name=Kolor lini
+param_CMO_color_description=Kolor lini
+param_CMO_width_name=Grubość linii
+param_CMO_width_description=The width of the Chande Momentum line.
+param_CMO_style_name=Styl linii
+param_CMO_style_description=The style of the Chande Momentum line.
+
+[por]
+codepage=1252
+name=Oscilador de Movimento de Chande
+description=Mede níveis de sobrecompra e sobrevenda, tendências e a divergência com base em perdas e ganhos recentes.
+param_P_name=Número de períodos
+param_P_description=O número de períodos.
+param_CMO_color_name=Cor da linha
+param_CMO_color_description=A cor da linha do Movimento de Chande.
+param_CMO_width_name=Largura da linha
+param_CMO_width_description=A largura da linha do Movimento de Chande.
+param_CMO_style_name=Estilo da linha
+param_CMO_style_description=O estilo da linha do Movimento de Chande.
+
+[esp]
+codepage=1252
+name=Oscilador Momentum Chande
+description=Mida niveles de sobrecompra o sobreventa, tendencia y divergencia basado en recientes perdidas y ganancias
+param_P_name=Numero de periodos
+param_P_description=El numero de periodos
+param_CMO_color_name=Color de la línea
+param_CMO_color_description=El color de la línea Momentum Chande
+param_CMO_width_name=Amplitud de la línea
+param_CMO_width_description=La amplitud de la línea Chande Momentum.
+param_CMO_style_name=Estilo de la línea
+param_CMO_style_description=El estilo de la línea Chande Momentum.
+

@@ -1,0 +1,307 @@
+﻿default=enu
+[enu]
+codepage=1252
+name=Parabolic Time/Price System
+description=Helps to define the direction of the prevailing trend and the moment to close positions opened during the reversal.
+param_Step_name=Step
+param_Step_description=The sensitivity of SAR.
+param_Max_name=Max
+param_Max_description=The maximum value of Step.
+param_clrUp_name=Up line color
+param_clrUp_description=The color of up lines.
+param_widthUP_name=Up line width
+param_widthUP_description=The width of up lines.
+param_clrDown_name=Down line color
+param_clrDown_description=The color of down lines.
+param_widthDOWN_name=Down line width
+param_widthDOWN_description=The width of down lines.
+
+[ara]
+codepage=1256
+name=مؤشر اس اي ار
+description=يساعد على تعرف عن اتجاه العام و الزخم لاغلاق المراكز المفتوحة في حال الانعكاسات في السوق
+param_Step_name=خطوة
+param_Step_description=مؤشر حساسية الـ SAR
+param_Max_name=الحد الأقصى
+param_Max_description=الحد الأقصى لقيمة الخطوة
+param_clrUp_name=لون الخط العلوي
+param_clrUp_description=لون الخطوط العلوية
+param_widthUP_name=عرض الخط العلوي
+param_widthUP_description=عرض الخطوط العلوية.
+param_clrDown_name=لون الخط السفلي
+param_clrDown_description=لون الخطوط السفلية
+param_widthDOWN_name=عرض الخط السفلي
+param_widthDOWN_description=عرض الخطوط السفلية
+
+[chs]
+codepage=936
+name=抛物线转向系统
+description=帮助辨别价格波动的主要趋势以及反转时的出场时机
+param_Step_name=步長
+param_Step_description=SAR敏锐度
+param_Max_name=最大
+param_Max_description=步长最大值
+param_clrUp_name=上升线颜色
+param_clrUp_description=上升线颜色
+param_widthUP_name=上升线宽度
+param_widthUP_description=上升线宽度
+param_clrDown_name=下跌线颜色
+param_clrDown_description=下跌线颜色
+param_widthDOWN_name=下跌线宽度
+param_widthDOWN_description=下跌线宽度
+
+[cht]
+codepage=950
+name=拋物線轉向系統
+description=幫助辨別價格波動的主要趨勢以及反轉時的出場時機
+param_Step_name=步長
+param_Step_description=SAR敏銳度
+param_Max_name=最大
+param_Max_description=步長最大值
+param_clrUp_name=上升線顏色
+param_clrUp_description=上升線顏色
+param_widthUP_name=上升線寬度
+param_widthUP_description=上升線寬度
+param_clrDown_name=下跌線顏色
+param_clrDown_description=下跌線顏色
+param_widthDOWN_name=下跌線寬度
+param_widthDOWN_description=下跌線寬度
+
+[ctt]
+codepage=950
+name=拋物線轉向系統
+description=幫助辨別價格波動的主要趨勢以及反轉時的出場時機
+param_Step_name=
+param_Step_description=
+param_Max_name=
+param_Max_description=
+param_clrUp_name=
+param_clrUp_description=
+param_widthUP_name=
+param_widthUP_description=
+param_clrDown_name=
+param_clrDown_description=
+param_widthDOWN_name=
+param_widthDOWN_description=
+
+[deu]
+codepage=1252
+name=Parabolisches Zeit/Preis-System
+description=Dient als Basis den Lauf einer aktuellen Tendenz festzustellen und den Augenblick zu bestimmen, wobei die während der Trendumkehr geöffneten Positionen sich schließen lassen.
+param_Step_name=Stufe
+param_Step_description=SAR Empfindlichkeit
+param_Max_name=Max
+param_Max_description=Maximaler Wert der Stufe
+param_clrUp_name=Farbe der obigen Linie
+param_clrUp_description=Farbe der obigen Linie
+param_widthUP_name=Breite der Aufwärtslinie
+param_widthUP_description=Die Breite der Aufwärtslinie
+param_clrDown_name=Farbe der unteren Linie
+param_clrDown_description=Farbe der unteren Linie
+param_widthDOWN_name=Breite der Abwärtslinie
+param_widthDOWN_description=Die Breite der Abwärtslinie
+
+[esp]
+codepage=1252
+name=Tiempo Parabólico/Sistema de Precios
+description=Ayuda a definir la dirección de la tendencia y el momento para cerrar posiciones durante un retroceso.
+param_Step_name=Paso
+param_Step_description=La sensibilidad del SAR.
+param_Max_name=Max
+param_Max_description=El valor máximo del Paso
+param_clrUp_name=Color de la línea ascendente
+param_clrUp_description=Color de las líneas ascendentes
+param_widthUP_name=Amplitud de las líneas ascendentes
+param_widthUP_description=La amplitud de las líneas ascendentes.
+param_clrDown_name=Color de la línea descendente
+param_clrDown_description=Color de las líneas descendentes.
+param_widthDOWN_name=Amplitud de las líneas descendentes
+param_widthDOWN_description=La amplitud de las líneas descendentes.
+
+[fra]
+codepage=1252
+name=Temps parabolique/Système de prix
+description=Aide à définir la direction de la tendance dominante et le moment pour fermer les positions ouvertes pendant le renversement.
+param_Step_name=Step
+param_Step_description=La sensibilité du SAR
+param_Max_name=Max
+param_Max_description=La valeur maximum de Step
+param_clrUp_name=Couleur de la ligne du haut
+param_clrUp_description=La couleur des lignes du haut
+param_widthUP_name=Largeur de la ligne du haut
+param_widthUP_description=La largeur des lignes du haut
+param_clrDown_name=Couleur de la ligne du bas
+param_clrDown_description=La couleur des lignes du bas
+param_widthDOWN_name=Largeur de la ligne du bas
+param_widthDOWN_description=La largeur des lignes du bas
+
+[jpn]
+codepage=932
+name=パラボリック Time/Price システム
+description=相場反転時にオープンされたポジションを閉じる時期及び優勢なトレンドの方向を明示するのに役立ちます。
+param_Step_name=ステップ
+param_Step_description=SARの感度。
+param_Max_name=最大値
+param_Max_description=ステップの最大値。
+param_clrUp_name=上昇ラインの色
+param_clrUp_description=上昇ラインの色。
+param_widthUP_name=アップラインの幅
+param_widthUP_description=アップラインの幅を設定します
+param_clrDown_name=下降ラインの色
+param_clrDown_description=下降ラインの色。
+param_widthDOWN_name=ダウンラインの幅
+param_widthDOWN_description=ダウンラインの幅を設定します
+
+[kor]
+codepage=949
+name=SAR (Parabolic Time/Price System)
+description=우세한 경향방향을 정하고 반전 상황에서의 오픈이나 클로즈 포지션을 정하는데 도움을 줌.
+param_Step_name=
+param_Step_description=
+param_Max_name=
+param_Max_description=
+param_clrUp_name=
+param_clrUp_description=
+param_widthUP_name=
+param_widthUP_description=
+param_clrDown_name=
+param_clrDown_description=
+param_widthDOWN_name=
+param_widthDOWN_description=
+
+[rus]
+codepage=1251
+name=Параболическая система времени/цены
+description=Определяет направление преобладающего тренда и время для закрытия позиций, открытых во время разворота.
+param_Step_name=Шаг
+param_Step_description=Чувствительность SAR.
+param_Max_name=Максимум
+param_Max_description=Максимальное значение Шага.
+param_clrUp_name=Цвет линий вверх
+param_clrUp_description=Цвет линий вверх.
+param_widthUP_name=Ширина линий вверх
+param_widthUP_description=Ширина линий вверх.
+param_clrDown_name=Цвет линий вниз
+param_clrDown_description=Цвет линий вниз.
+param_widthDOWN_name=Ширина линий вниз
+param_widthDOWN_description=Ширина линий вниз.
+
+[tur]
+codepage=1254
+name=Parabolik Zaman/Fiyat Sistemi
+description=Mevcut trendin yönünü ve dönüş hareketi sırasında açılan pozisyonların kapanış zamanını belirlemeye yardımcı olur.
+param_Step_name=Adım
+param_Step_description=SAR göstergesinin hassasiyeti
+param_Max_name=Max
+param_Max_description=En yüksek adım değeri
+param_clrUp_name=Üst çizgi rengi
+param_clrUp_description=Üst çizginin rengi
+param_widthUP_name=Üst çizgi kalınlığı.
+param_widthUP_description=Üst çizginin kalınlığı.
+param_clrDown_name=Alt çizgi rengi
+param_clrDown_description=Alt çizginin rengi.
+param_widthDOWN_name=Alt çizgi kalınlığı.
+param_widthDOWN_description=Alt çizginin kalınlığı.
+
+[ita]
+codepage=1252
+name=Parabolic Time/Price System
+description=Aiuta a definire la direzione del trend prevalente al momento della chiusura delle posizioni aperte durante l'inversione
+param_Step_name=Step
+param_Step_description=La sensitività di SAR.
+param_Max_name=Max
+param_Max_description=Il valore massimo di Step
+param_clrUp_name=Colore di Up line
+param_clrUp_description=Il colore delle up lines.
+param_widthUP_name=Spessore della linea Up
+param_widthUP_description=Lo spessore delle linee Up
+param_clrDown_name=Colore di Down line
+param_clrDown_description=Il colore delle down lines.
+param_widthDOWN_name=Spessore della linea Down
+param_widthDOWN_description=Lo spessore delle linee Down
+
+[heb]
+codepage=1255
+name=זמן פרבולי\מערכת מחיר
+description=מסייע להגדיר את כיוון המגמה השלטת ולקבוע מהו הרגע הנכון לסגור פוזיציות שנפתחו בזמן היפוך.
+param_Step_name=צעד
+param_Step_description=הרגישות של ה-SAR
+param_Max_name=מקסימום
+param_Max_description=הערך המקסימלי של הצעד.
+param_clrUp_name=צבע קו עליון
+param_clrUp_description=הצבע של הקווים העליונים.
+param_widthUP_name=רוחב קו עליון
+param_widthUP_description=הרוחב של הקווים העליונים.
+param_clrDown_name=צבע קו תחתון
+param_clrDown_description=הצבע של הקווים התחתונים
+param_widthDOWN_name=רוחב קו תחתון
+param_widthDOWN_description=הרוחב של הקווים התחתונים
+
+[pol]
+codepage=1250
+name=Parabolic
+description=Pomaga określić kierunek obecnego trendu i moment zamknięcia pozycji w trakcie odwrócenia
+param_Step_name=Step
+param_Step_description=Czułość SAR.
+param_Max_name=Maks
+param_Max_description=Maksymalna wartość Step.
+param_clrUp_name=Kolor linii górnej
+param_clrUp_description=Kolor linii górnej.
+param_widthUP_name=Grubość linii górnej
+param_widthUP_description=Grubość linii górnej.
+param_clrDown_name=Kolor linii dolnej
+param_clrDown_description=Kolor linii dolnej.
+param_widthDOWN_name=Grubość linii dolnej
+param_widthDOWN_description=Grubość linii dolnej.
+
+[cze]
+codepage=1250
+name=Parabolic Time/Price Systém
+description=Pomoc k určení směru převládajícího trendu a momentu k zavření pozic, které byly otevřeny během obratu.
+param_Step_name=Krok
+param_Step_description=Citlivost indikátoru SAR
+param_Max_name=Maximum
+param_Max_description=Maximální hodnota kroku
+param_clrUp_name=Barva horní linky
+param_clrUp_description=Barva horních linek
+param_widthUP_name=Šíře horní linky
+param_widthUP_description=Šíře horních linek.
+param_clrDown_name=Barva spodní linky
+param_clrDown_description=Barva spodních linek
+param_widthDOWN_name=Šíře spodní linky
+param_widthDOWN_description=Šíře spodních linek.
+
+[por]
+codepage=1252
+name=Tempo Parabólico/Sistema de Preços
+description=Ajuda a definir a direção da tendencia y o momento para fechar posições durante um retrocesso.
+param_Step_name=Passo
+param_Step_description=A sensibilidade do SAR.
+param_Max_name=Max
+param_Max_description=O valor maximo do Step.
+param_clrUp_name=Cor da linha pra cima
+param_clrUp_description=A cor das linhas pra cima.
+param_widthUP_name=Largura das linhas pra cima.
+param_widthUP_description=A largura das linhas pra cima.
+param_clrDown_name=Cor da linha pra baixo
+param_clrDown_description=A cor das linhas pra baixo.
+param_widthDOWN_name=Largura das linhas pra baixo.
+param_widthDOWN_description=A largura das linhas pra baixo.
+
+[gre]
+codepage=1253
+name=Parabolic Time/Price System
+description=Βοηθά στον καθορισμό της υπερισχύουσας τάσης και της χρονικής στιγμής για το κλείσιμο θέσεων που ανοίχτηκαν κατά τη διάρκεια της αντιστροφής της τάσης.
+param_Step_name=Step
+param_Step_description=Η ευαισθησία του δείκτη SAR
+param_Max_name=Μέγιστο
+param_Max_description=Η μέγιστη τιμή του step
+param_clrUp_name=Χρώμα άνω γραμμής
+param_clrUp_description=Το χρώμα της των άνω γραμμών
+param_widthUP_name=Πάχος πάνω γραμμής
+param_widthUP_description=Το πάχος της πάνω γραμμής
+param_clrDown_name=Χρώμα κάτω γραμμής
+param_clrDown_description=Το χρώμα των κάτω γραμμών
+param_widthDOWN_name=Πάχος κάτω γραμμής
+param_widthDOWN_description=Το πάχος της κάτω γραμμής
+

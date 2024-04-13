@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="txt通貨ペア一覧.Text" xml:space="preserve">
+    <value>USD/JPY 米ドル/日本円 4% 4% 0.001日本円 
+EUR/JPY ユーロ/日本円 4% 4% 0.001日本円 
+AUD/JPY 豪ドル/日本円 4% 4% 0.001日本円 
+GBP/JPY 英ポンド/日本円 5% 5% 0.001日本円 
+NZD/JPY NZドル/日本円 4% 4% 0.001日本円 
+CAD/JPY カナダドル/日本円 4% 4% 0.001日本円 
+CHF/JPY スイスフラン/日本円 5% 5% 0.001日本円 
+ZAR/JPY 南アフリカランド/日本円 5% 5% 0.001日本円 
+EUR/USD ユーロ/米ドル 4% 2% 0.00001米ドル 
+GBP/USD 英ポンド/米ドル 5% 5% 0.00001米ドル 
+NZD/USD NZドル/米ドル 4% 3% 0.00001米ドル 
+AUD/USD 豪ドル/米ドル 4% 3% 0.00001米ドル 
+USD/CHF 米ドル/スイスフラン 5% 5% 0.00001スイスフラン 
+EUR/CHF ユーロ/スイスフラン 5% 5% 0.00001スイスフラン 
+GBP/CHF 英ポンド/スイスフラン 5% 5% 0.00001スイスフラン 
+EUR/GBP ユーロ/英ポンド 5% 5% 0.00001英ポンド 
+AUD/NZD 豪ドル/NZドル 4% 3% 0.00001NZドル 
+AUD/CAD 豪ドル/カナダドル 4% 3% 0.00001カナダドル 
+AUD/CHF 豪ドル/スイスフラン 5% 5% 0.00001スイスフラン 
+CAD/CHF カナダドル/スイスフラン 5% 5% 0.00001スイスフラン 
+EUR/AUD ユーロ/豪ドル 4% 3% 0.00001豪ドル 
+EUR/CAD ユーロ/カナダドル 4% 2% 0.00001カナダドル 
+EUR/DKK ユーロ/デンマーククローネ 4% 2% 0.00001デンマーククローネ 
+EUR/NOK ユーロ/ノルウェークローネ 4% 3% 0.00001ノルウェークローネ 
+EUR/NZD ユーロ/NZドル 4% 3% 0.00001NZドル 
+EUR/SEK ユーロ/スウェーデンクローナ 4% 3% 0.00001スウェーデンクローナ 
+GBP/AUD 英ポンド/豪ドル 5% 5% 0.00001豪ドル 
+GBP/CAD 英ポンド/カナダドル 5% 5% 0.00001カナダドル 
+GBP/NZD 英ポンド/NZドル 5% 5% 0.00001NZドル 
+NZD/CAD NZドル/カナダドル 4% 3% 0.00001カナダドル 
+NZD/CHF NZドル/スイスフラン 5% 5% 0.00001スイスフラン 
+USD/CAD 米ドル/カナダドル 4% 2% 0.00001カナダドル 
+USD/DKK 米ドル/デンマーククローネ 4% 2% 0.00001デンマーククローネ 
+USD/NOK 米ドル/ノルウェークローネ 4% 3% 0.00001ノルウェークローネ 
+USD/SEK 米ドル/スウェーデンクローナ 4% 3% 0.00001スウェーデンクローナ 
+AUD/HKD 豪ドル/香港ドル 5% 5% 0.00001香港ドル 
+AUD/SGD 豪ドル/シンガポールドル 5% 5% 0.00001シンガポールドル 
+CAD/HKD カナダドル/香港ドル 5% 5% 0.00001香港ドル 
+CAD/SGD カナダドル/シンガポールドル 5% 5% 0.00001シンガポールドル 
+CHF/HKD スイスフラン/香港ドル 5% 5% 0.00001香港ドル 
+CHF/ZAR スイスフラン/南アフリカランド 5% 5% 0.00001南アフリカランド 
+EUR/CZK ユーロ/チェコ・コルナ 5% 5% 0.00001チェコ・コルナ 
+EUR/HKD ユーロ/香港ドル 5% 5% 0.00001香港ドル 
+EUR/HUF ユーロ/ハンガリー・フォリント 5% 5% 0.001ハンガリー・フォリント 
+EUR/PLN ユーロ/ポーランドズロチ 5% 5% 0.00001ポーランドズロチ 
+EUR/SGD ユーロ/シンガポールドル 5% 5% 0.00001シンガポールドル 
+EUR/TRY ユーロ/トルコリラ 5% 5% 0.00001トルコリラ 
+EUR/ZAR ユーロ/南アフリカランド 5% 5% 0.00001南アフリカランド 
+GBP/HKD 英ポンド/香港ドル 5% 5% 0.00001香港ドル 
+GBP/PLN 英ポンド/ポーランドズロチ 5% 5% 0.00001ポーランドズロチ 
+GBP/SGD 英ポンド/シンガポールドル 5% 5% 0.00001シンガポールドル 
+GBP/ZAR 英ポンド/南アフリカランド 5% 5% 0.00001南アフリカランド 
+HKD/JPY 香港ドル/日本円 5% 5% 0.00001日本円 
+NZD/HKD NZドル/香港ドル 5% 5% 0.00001香港ドル 
+NZD/SGD NZドル/シンガポールドル 5% 5% 0.00001シンガポールドル 
+SGD/CHF シンガポールドル/スイスフラン 5% 5% 0.00001スイスフラン 
+SGD/HKD シンガポールドル/香港ドル 5% 5% 0.00001香港ドル 
+SGD/JPY シンガポールドル/日本円 5% 5% 0.001日本円 
+TRY/JPY トルコリラ/日本円 5% 5% 0.001日本円 
+USD/CNH 米ドル/中国人民元（オフショア） 5% 5% 0.00001中国人民元 
+USD/CZK 米ドル/チェコ・コルナ 5% 5% 0.00001チェコ・コルナ 
+USD/HKD 米ドル/香港ドル 5% 5% 0.00001香港ドル 
+USD/HUF 米ドル/ハンガリー・フォリント 5% 5% 0.001ハンガリー・フォリント 
+USD/INR 米ドル/インドルピー 5% 5% 0.001インドルピー 
+USD/MXN 米ドル/メキシコペソ 8% 8% 0.00001メキシコペソ 
+USD/PLN 米ドル/ポーランドズロチ 5% 5% 0.00001ポーランドズロチ 
+USD/SAR 米ドル/サウジ・リアル 5% 5% 0.00001サウジ・リアル 
+USD/SGD 米ドル/シンガポールドル 5% 5% 0.00001シンガポールドル 
+USD/THB 米ドル/タイバーツ 5% 5% 0.001タイバーツ 
+USD/TRY 米ドル/トルコリラ 5% 5% 0.00001トルコリラ 
+USD/ZAR 米ドル/南アフリカランド 5% 5% 0.00001南アフリカランド </value>
+  </data>
+</root>

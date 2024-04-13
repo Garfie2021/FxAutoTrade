@@ -1,0 +1,235 @@
+﻿default=enu
+[enu]
+codepage=1252
+name=Average True Range
+description=Measures market volatility.
+param_N_name=Number of periods
+param_N_description=The number of periods.
+param_clrATR_name=Line color
+param_clrATR_description=The color of the Average True Range line.
+param_widthATR_name=Line width
+param_widthATR_description=The width of the Average True Range line.
+param_styleATR_name=Line style
+param_styleATR_description=The style of the Average True Range line.
+
+[ara]
+codepage=1256
+name=معدل النطاق الحقيقي
+description=مقاييس تقلب السوق
+param_N_name=عدد الفترات
+param_N_description=عدد الفترات
+param_clrATR_name=لون الخط
+param_clrATR_description=لون خط المدى الحقيقي المتوسط
+param_widthATR_name=عرض الخط
+param_widthATR_description=عرض الخط الخاص بالمدى الحقيقي المتوسط.
+param_styleATR_name=نوع الخط
+param_styleATR_description=نوع الخط الخاص بالمدى الحقيقي المتوسط.
+
+[chs]
+codepage=936
+name=平均真实区域
+description=量度市场波幅
+param_N_name=时期数目
+param_N_description=时期数目
+param_clrATR_name=线颜色
+param_clrATR_description=平均真实区域线颜色
+param_widthATR_name=线宽
+param_widthATR_description=平均真实区域线的宽度
+param_styleATR_name=线样式
+param_styleATR_description=平均真实区域线样式
+
+[cht]
+codepage=950
+name=平均真實區域
+description=量度市場波幅
+param_N_name=時期數目
+param_N_description=时期数目
+param_clrATR_name=線顏色
+param_clrATR_description=平均真實區域線顏色
+param_widthATR_name=線寬
+param_widthATR_description=平均真實區域線的寬度
+param_styleATR_name=線樣式
+param_styleATR_description=平均真實區域線樣式
+
+[ctt]
+codepage=950
+name=平均真實區域
+description=量度市場波幅
+param_N_name=時期數目
+param_N_description=时期数目
+param_clrATR_name=線顏色
+param_clrATR_description=平均真實區域線顏色
+param_widthATR_name=
+param_widthATR_description=
+param_styleATR_name=
+param_styleATR_description=
+
+[deu]
+codepage=1252
+name=Average True Range
+description=Marktvolatilität wird gemessen
+param_N_name=Anzahl der Perioden
+param_N_description=Anzahl der Perioden
+param_clrATR_name=Linienfarbe
+param_clrATR_description=Farbe der Average-True-Range Linie
+param_widthATR_name=Linienbreite
+param_widthATR_description=Die Breite der Accumulation Swing Index Linie.
+param_styleATR_name=Linienstil
+param_styleATR_description=Der Stil der Accumulation Swing Index Linie.
+
+[esp]
+codepage=1252
+name=Promedio del Rango Real
+description=Mide la volatilidad del mercado
+param_N_name=Número de periodos
+param_N_description=El número de periodos
+param_clrATR_name=Color de la línea
+param_clrATR_description=El color de la línea de promedio de rango real
+param_widthATR_name=Amplitud de la línea
+param_widthATR_description=Amplitud de la línea de promedio de rango real.
+param_styleATR_name=Estilo de línea
+param_styleATR_description=Estilo de línea de la línea de promedio de Rango real.
+
+[fra]
+codepage=1252
+name=Etendue de la moyenne réelle
+description=Mesure la volatilité du marché
+param_N_name=Nombre de périodes
+param_N_description=Le nombre de périodes
+param_clrATR_name=Couleur de la ligne
+param_clrATR_description=La couleur de l'étendue de la moyenne réelle
+param_widthATR_name=Largeur de la ligne
+param_widthATR_description=La largeur de la ligne de l'Average True Range
+param_styleATR_name=Style de la ligne
+param_styleATR_description=Le style de la ligne de l'Average True Range
+
+[jpn]
+codepage=932
+name=トゥルー・レンジ平均
+description=マーケットの流動性を計ります
+param_N_name=期間数
+param_N_description=期間数
+param_clrATR_name=ラインの色
+param_clrATR_description=トゥルー・レンジ平均の色
+param_widthATR_name=ラインの幅
+param_widthATR_description=Average True Range ラインの幅
+param_styleATR_name=ラインのスタイル
+param_styleATR_description=Average True Range ラインのスタイル
+
+[kor]
+codepage=949
+name=ATR (Average True Range)
+description=시장의 변동성을 재다
+param_N_name=기간의 개수
+param_N_description=기간의 개수
+param_clrATR_name=선 색상
+param_clrATR_description=Average True Range 선의 색상
+param_widthATR_name=
+param_widthATR_description=
+param_styleATR_name=
+param_styleATR_description=
+
+[rus]
+codepage=1251
+name=Средний истинный диапазон
+description=Измеряет волатильность рынка.
+param_N_name=Количество периодов
+param_N_description=Количество периодов.
+param_clrATR_name=Цвет линии
+param_clrATR_description=Цвет линии среднего истинного диапазона.
+param_widthATR_name=Ширина линии
+param_widthATR_description=Ширина линии среднего истинного диапазона.
+param_styleATR_name=Стиль линии
+param_styleATR_description=Стиль линии среднего истинного диапазона.
+
+[tur]
+codepage=1254
+name=Ortalama Doğru Aralık
+description=Piyasa volatilitesini ölçer.
+param_N_name=Periyot sayısı
+param_N_description=Periyot sayısı.
+param_clrATR_name=Çizgi Rengi
+param_clrATR_description=Ortalama Doğru Aralık çizgi rengi.
+param_widthATR_name=Çizgi kalınlığı
+param_widthATR_description=Ortalama Doğru Aralık çizgi kalınlığı.
+param_styleATR_name=Çizgi biçimi
+param_styleATR_description=Ortalama Doğru Aralık çizgi biçimi
+
+[ita]
+codepage=1252
+name=Average True Range
+description=Misura la volatilità del mercato
+param_N_name=Numero di periodi
+param_N_description=Il numero di periodi
+param_clrATR_name=Colore della linea
+param_clrATR_description=Il colore della linea dell'Average True Range
+param_widthATR_name=Spessore della linea
+param_widthATR_description=Lo spessore della linea Average True Range.
+param_styleATR_name=Stile della linea
+param_styleATR_description=Lo stile delle linea Average True Range.
+
+[heb]
+codepage=1255
+name=ממוצע הטווח האמיתי (ATR)
+description=מודד את תנודתיות השוק
+param_N_name=מספר תקופות
+param_N_description=מספר התקופות.
+param_clrATR_name=צבע קו
+param_clrATR_description=צבע הקו של ממוצע הטווח האמיתי.
+param_widthATR_name=רוחב קו
+param_widthATR_description=רוחב קו ממוצע הטווח האמיתי.
+param_styleATR_name=סוג קו
+param_styleATR_description=סוג קו ממוצע הטווח האמיתי.
+
+[pol]
+codepage=1250
+name=Średni prawdziwy zakres zmiany
+description=Mierzy zmienność rynku
+param_N_name=Liczba okresów
+param_N_description=Liczba okresów
+param_clrATR_name=Kolor linii
+param_clrATR_description=Kolor linii średniego prawdziwego zakresu zmiany
+param_widthATR_name=Grubość linii
+param_widthATR_description=Grubość linii ATR
+param_styleATR_name=Styl linii
+param_styleATR_description=Styl linii ATR
+
+[cze]
+codepage=1250
+name=ATR
+description=Měří volatilitu trhu.
+param_N_name=Počet period
+param_N_description=Počet period.
+param_clrATR_name=Barva linky
+param_clrATR_description=Barva linky skutečného průměrného rozpětí.
+param_widthATR_name=Šíře linky
+param_widthATR_description=Šíře linky Average True Range.
+param_styleATR_name=Styl linky
+param_styleATR_description=Styl linky Average True Range.
+
+[por]
+codepage=1252
+name=Média do Intervalo Real
+description=Mede volatilidade do mercado
+param_N_name=Número de períodos
+param_N_description=O número de períodos
+param_clrATR_name=Cor da linha
+param_clrATR_description=A cor da linha da Média de Intervalo Real
+param_widthATR_name=Largura da linha
+param_widthATR_description=A largura da linha da Média de Intervalo Real.
+param_styleATR_name=Estilo da linha
+param_styleATR_description=O estilo da linha da Média de Intervalo Real.
+
+[gre]
+codepage=1253
+name=Average True Range (ATR)
+description=Μετρά την μεταβλητότητα της αγοράς.
+param_N_name=Αριθμός περιόδων
+param_N_description=Ο αριθμός των περιόδων.
+param_clrATR_name=Χρώμα γραμμής
+param_clrATR_description=Το χρώμα της γραμμής Average True Range.
+param_widthATR_name=Πάχος γραμμής
+param_widthATR_description=Το πάχος της γραμμής Average True Range
+param_styleATR_name=Στυλ γραμμής
+param_styleATR_description=Το στυλ της γραμμής Average True Range
+

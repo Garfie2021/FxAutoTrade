@@ -1,0 +1,22 @@
+USE OANDA_DemoB
+GO
+
+DROP PROCEDURE [cmn].[spDeleteALL通貨ペア]
+GO
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE PROCEDURE [cmn].[spDeleteALL通貨ペア]
+AS
+BEGIN
+
+	SET NOCOUNT ON;
+	
+	DELETE FROM [cmn].t通貨ペアMst;
+
+END
+
+GO

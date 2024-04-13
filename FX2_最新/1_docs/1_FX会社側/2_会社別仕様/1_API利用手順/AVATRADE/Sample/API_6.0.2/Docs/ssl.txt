@@ -1,0 +1,5 @@
+Instruction
+
+Release contains libeay32.dll, ssleay32.dll files. In order COMAPI support SSL,
+it is necessary to place these files in the same catalog where your launched 
+application module is located.

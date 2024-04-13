@@ -1,0 +1,209 @@
+﻿default=enu
+[enu]
+codepage=1252
+name=Wilders Moving Average
+description=Similar to the Exponential Moving Average, but it is a bit slower in reflecting price changes.
+param_N_name=Number of periods
+param_N_description=The number of periods.
+param_clrWMA_name=Line color
+param_clrWMA_description=The color of the Wilders Moving Average line.
+param_width_name=Line width
+param_width_description=The width of the Wilders Moving Average line.
+param_style_name=WMA style
+param_style_description=The style of the Wilders Moving Average line.
+
+[rus]
+codepage=1251
+name=Скользящее среднее Уайлдера
+description=Аналогичен экспоненциальному скользящему среднему, но немного медленнее отражает изменения цены.
+param_N_name=Количество периодов
+param_N_description=Количество периодов.
+param_clrWMA_name=Цвет линии
+param_clrWMA_description=Цвет линии скользящего среднего Уайлдера.
+param_width_name=Ширина линии
+param_width_description=Ширина линии скользящего среднего Уайлдера.
+param_style_name=Стиль линии
+param_style_description=Стиль линии скользящего среднего Уайлдера.
+
+[ara]
+codepage=1256
+name=متوسط فيلدرز المتحرك
+description=يشاه المتوسط المتحرك المضاعف، ولكنه أبطئ قليلاً بعكس التغييرات في الأسعار.
+param_N_name=عدد الفترات
+param_N_description=عدد الفترات.
+param_clrWMA_name=لون الخط
+param_clrWMA_description=لون خط متوسط فيلدرز المتحرك.
+param_width_name=خط العرض
+param_width_description=عرض خط متوسك فيلدرز المتحرك.
+param_style_name=نوع مؤشر الـ WMA
+param_style_description=نوع خط متوسط فيلدرز المتحرك.
+
+[chs]
+codepage=936
+name=威尔德移动平均线
+description=跟指数平均线相似, 但反映价格变动比较慢
+param_N_name=时期数目
+param_N_description=时期数目
+param_clrWMA_name=线颜色
+param_clrWMA_description=威尔德移动平均线颜色
+param_width_name=线宽度
+param_width_description=威尔德移动平均线宽度
+param_style_name=WMA样式
+param_style_description=威尔德移动平均线样式
+
+[cht]
+codepage=950
+name=威爾德移動平均線
+description=跟指數平均線相似, 但反映價格變動比較慢
+param_N_name=時期數目
+param_N_description=時期數目
+param_clrWMA_name=線顏色
+param_clrWMA_description=威爾德移動平均線顏色
+param_width_name=線寬度
+param_width_description=威爾德移動平均線寬度
+param_style_name=WMA樣式
+param_style_description=威爾德移動平均線樣式
+
+[cze]
+codepage=1250
+name=Wilderův klouzavý průměr
+description=Klouzavý průměr, který je podobný exponenciálnímu, jen je méně volatilní v porovnání se změnou ceny.
+param_N_name=Počet period
+param_N_description=Počet period.
+param_clrWMA_name=Barva linky
+param_clrWMA_description=Barva linky Wilderova klouzavého průměru.
+param_width_name=Šíře linky
+param_width_description=Šíře linky Wilderova klouzavého průměru.
+param_style_name=Styl Wilderova klouzavého průměru
+param_style_description=Styl linky Wilderova klouzavého průměru.
+
+[deu]
+codepage=1252
+name=Wilders Moving Average
+description=Ähnlich des Exponential Moving Averages, reflektiert aber langsamer die Preisänderungen
+param_N_name=Anzahl der Perioden
+param_N_description=Die Anzahl der Perioden
+param_clrWMA_name=Linienbfarbe
+param_clrWMA_description=Die Farbe der Wilders Moving Average Linie
+param_width_name=Linienbreite
+param_width_description=Die Breite der Wilders Moving Average Linie.
+param_style_name=WMA Stil
+param_style_description=Der Stil der Wilders Moving Average Linie
+
+[fra]
+codepage=1252
+name=Moyenne mobile Wilders
+description=Similaire à la moyenne mobile exponentielle, mais elle est légèrement plus lente à refléter les changements de prix
+param_N_name=Nombre de périodes
+param_N_description=Le nombre de périodes
+param_clrWMA_name=Couleur de la ligne
+param_clrWMA_description=La couleur de la ligne de moyenne mobile Wilders
+param_width_name=Largeur de la ligne
+param_width_description=La largeur de la ligne de moyenne mobile Wilders
+param_style_name=Style de la WMA
+param_style_description=Le style de la ligne de la moyenne mobile Wilders
+
+[gre]
+codepage=1253
+name=Wilders Moving Average
+description=Παρόμοιο με το Exponential Moving Average, αλλά λίγο πιο αργό στο να αντικατοπτρίζει τις μεταβολές των τιμών.
+param_N_name=Αριθμός περιόδων
+param_N_description=Ο αριθμός των περιόδων.
+param_clrWMA_name=Χρώμα γραμμής
+param_clrWMA_description=Το χρώμα της γραμμής του Wilders Moving Average.
+param_width_name=Πάχος γραμμής
+param_width_description=Το πάχος της γραμμής του Wilders Moving Average.
+param_style_name=Στυλ του WMA
+param_style_description=Το στυλ της γραμμής του Wilders Moving Average.
+
+[heb]
+codepage=1255
+name=הממוצע הנע של וילדר
+description=דומה לממוצע הנע האקספוננציאלי, אולם משקפת את המחיר באופן מעט איטי יותר.
+param_N_name=מספר תקופות
+param_N_description=מספר התקופות.
+param_clrWMA_name=צבע קו
+param_clrWMA_description=צבע הקו של הממוצע הנע של וילדר.
+param_width_name=רוחב קו
+param_width_description=רוחב הקו של הממוצע הנע של וילדר.
+param_style_name=סגנון WMA
+param_style_description=סגנון הקו של הממוצע הנע של וילדר.
+
+[ita]
+codepage=1252
+name=Wilders Moving Average
+description=Simile alla Media Mobile Esponenziale, ma è più lenta nel riflettere cambiamenti di prezzo
+param_N_name=Numero periodi
+param_N_description=Il numero dei periodi
+param_clrWMA_name=Colore linea
+param_clrWMA_description=Il colore della linea Wilders Moving Average
+param_width_name=Spessore linea
+param_width_description=Lo spessore della linea Wilders Moving Average
+param_style_name=WMA stile
+param_style_description=Lo stile della linea del Wilders Moving Average
+
+[jpn]
+codepage=932
+name=ワイルダー移動平均
+description=指数加重移動平均線（EMA)に似ていますが、最近のレート変動の影響を受けにくくしています。
+param_N_name=期間の数
+param_N_description=期間の数
+param_clrWMA_name=ラインの色
+param_clrWMA_description=ワイルダー移動平均線の色
+param_width_name=ラインの幅
+param_width_description=ワイルダー移動平均線の幅
+param_style_name=WMA スタイル
+param_style_description=ワイルダー移動平均線のスタイル
+
+[tur]
+codepage=1254
+name=Wilder Hareketli Ortalama
+description=Üssel Hareketli Ortalama’ya benzer ancak fiyat değişikliklerini biraz daha geç yansıtır.
+param_N_name=Periyot sayısı
+param_N_description=Periyot sayısı
+param_clrWMA_name=Çizgi rengi
+param_clrWMA_description=Wilders Hareketli Ortalama çizgi rengi.
+param_width_name=Çizgi kalınlığı
+param_width_description=Wilders Hareketli Ortalama çizgi kalınlığı.
+param_style_name=WHO biçimi
+param_style_description=Wilders Hareketli Ortalama çizgi biçimi.
+
+[pol]
+codepage=1250
+name=Średnia Kroczącza Wildera
+description=Podobnie do Eksponencjalnej Średniej Kroczącej, lecz trochę wolniej w odzwierciedleniu zmian ceny.
+param_N_name=Liczba okresów.
+param_N_description=Liczba okresów.
+param_clrWMA_name=Kolor lini
+param_clrWMA_description=Kolor lini Średniej Kroczące Wildersa.
+param_width_name=Szerokość lini
+param_width_description=Szerokość lini Średniej Kroczącej Wildersa.
+param_style_name=Styl WMA
+param_style_description=Styl lini Średniej Kroczącej Wildersa.
+
+[por]
+codepage=1252
+name=Média Móvel Wilders
+description=Semelhante à Média Móvel Exponencial, mas um pouco mais lenta a reflectir as alterações de preços.
+param_N_name=Número de períodos
+param_N_description=O número de períodos.
+param_clrWMA_name=Cor da linha
+param_clrWMA_description=A cor da linha da Média Móvel Wilders.
+param_width_name=Largura de linha
+param_width_description=A largura da linha da Média Móvel Wilders.
+param_style_name=Estilo WMA
+param_style_description=O estilo da linha da Média Móvel Wilders.
+
+[esp]
+codepage=1252
+name=Promedio Móvil Wilders
+description=Es similar al promedio móvil exponencial , pero es un poco lento para reflejar los cambiaron en los precios
+param_N_name=Numero de periodos
+param_N_description=El numero de periodos
+param_clrWMA_name=Color de la línea
+param_clrWMA_description=El color de la línea del Promedio Móvil Wilders
+param_width_name=Amplitud de la línea
+param_width_description=La amplitud de la línea del Promedio Móvil Wilders
+param_style_name=Estilo WMA
+param_style_description=Estilo de la línea del Promedio Móvil Wilders
+

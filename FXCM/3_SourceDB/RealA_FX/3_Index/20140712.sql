@@ -1,0 +1,14 @@
+USE [DemoA_FX]
+GO
+
+SET ANSI_PADDING ON
+go
+
+CREATE NONCLUSTERED INDEX [_dta_index_T_RateHistory_1m_7_941962432__K1] ON [dbo].[T_RateHistory_1m]
+(
+	[’Ê‰ÝƒyƒANo] ASC
+)WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+go
+
+
+

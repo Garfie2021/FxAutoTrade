@@ -1,0 +1,235 @@
+﻿default=enu
+[enu]
+codepage=1252
+name=Triangular Moving Average
+description=Re-averages a simple moving average to make it even smoother.
+param_N_name=Number of periods
+param_N_description=The number of periods.
+param_clrTMA_name=Line color
+param_clrTMA_description=The color of the Triangular Moving Average line.
+param_widthTMA_name=Line width
+param_widthTMA_description=The width of the Triangular Moving Average line.
+param_styleTMA_name=Line style
+param_styleTMA_description=The style of the Triangular Moving Average line.
+
+[ara]
+codepage=1256
+name=مؤشر مثلث المتوسط المتحرك
+description=إعادة المتوسطات للمتوسط المتحرك البسيط لجعلها أكثر سلاسة
+param_N_name=عدد الفترات
+param_N_description=عدد الفترات
+param_clrTMA_name=لون الخط
+param_clrTMA_description=لون خط متوسط المتحرك الثلاثي
+param_widthTMA_name=عرض الخط
+param_widthTMA_description=عرض الخط لمؤشر مثلث المتوسط المتحرك.
+param_styleTMA_name=نوع الخط
+param_styleTMA_description=نوع الخط لمؤشر مثلث المتوسط المتحرك.
+
+[chs]
+codepage=936
+name=三重移动平均线
+description=将移动平均线再平均使其更平滑
+param_N_name=时期数目
+param_N_description=时期数目
+param_clrTMA_name=线颜色
+param_clrTMA_description=三重移动平均线颜色
+param_widthTMA_name=线宽
+param_widthTMA_description=三重移动平均线宽度
+param_styleTMA_name=线样式
+param_styleTMA_description=三重移动平均线样式
+
+[cht]
+codepage=950
+name=三重移動平均線
+description=將移動平均線再平均使其更平滑
+param_N_name=時期數目
+param_N_description=時期數目
+param_clrTMA_name=線顏色
+param_clrTMA_description=三重移動平均線顏色
+param_widthTMA_name=線寬
+param_widthTMA_description=三重移動平均線寬度
+param_styleTMA_name=線樣式
+param_styleTMA_description=三重移動平均線樣式
+
+[ctt]
+codepage=950
+name=三重移動平均線
+description=將移動平均線再平均使其更平滑
+param_N_name=時期數目
+param_N_description=時期數目
+param_clrTMA_name=線顏色
+param_clrTMA_description=三重移動平均線顏色
+param_widthTMA_name=
+param_widthTMA_description=
+param_styleTMA_name=
+param_styleTMA_description=
+
+[deu]
+codepage=1252
+name=Triangular moving average
+description=Berechnet wieder den gleitenden Durchschnitt um den weiter zu glätten.
+param_N_name=Anzahl der Perioden
+param_N_description=Anzahl der Perioden
+param_clrTMA_name=Linienfarbe
+param_clrTMA_description=Farbe der Triangular-Moving-Average Linie
+param_widthTMA_name=Linienbreite
+param_widthTMA_description=Die Breite der dreieckigen gleitenden Durchschnittslinie
+param_styleTMA_name=Linienstil
+param_styleTMA_description=Der Stil der dreieckigen gleitenden Durchschnittslinie
+
+[esp]
+codepage=1252
+name=Media Móvil triangular
+description=Promedia de nuevo una Media Móvil para hacerla más simple
+param_N_name=Número de periodos
+param_N_description=El número de periodos
+param_clrTMA_name=Color de la línea
+param_clrTMA_description=El color de la línea media móvil triangular
+param_widthTMA_name=Amplitud de la línea
+param_widthTMA_description=La amplitud de la línea de la Media Móvil Triangular.
+param_styleTMA_name=Estilo de la línea
+param_styleTMA_description=El estilo de la línea de la Media Móvil Triangular.
+
+[fra]
+codepage=1252
+name=Moyenne mobile triangulaire
+description=Refait la moyenne de la moyenne mobile simple pour la rendre encore plus lisse.
+param_N_name=Nombre de périodes
+param_N_description=Le nombre de périodes.
+param_clrTMA_name=Couleur de la ligne
+param_clrTMA_description=La couleur de la ligne de la moyenne mobile triangulaire.
+param_widthTMA_name=Largeur de la ligne
+param_widthTMA_description=La largeur de la ligne de moyenne mobile triangulaire
+param_styleTMA_name=Style de la ligne
+param_styleTMA_description=Le style de la ligne de moyenne mobile triangulaire
+
+[jpn]
+codepage=932
+name=三角移動平均線
+description=単純移動平均線を再平均してさらに滑らかにします。
+param_N_name=期間数
+param_N_description=期間数
+param_clrTMA_name=ラインの色
+param_clrTMA_description=三角移動平均線ラインの色
+param_widthTMA_name=ラインの幅
+param_widthTMA_description=Triangular Moving Averageラインの幅
+param_styleTMA_name=ラインのスタイル
+param_styleTMA_description=Triangular Moving Averageラインのスタイル
+
+[kor]
+codepage=949
+name=삼각 이동평균 (Triangular Moving Average)
+description=간단한 이동평균을 재 평균을 내어 더 부드럽게 만듬
+param_N_name=기간의 개수
+param_N_description=기간의 개수
+param_clrTMA_name=선 색상
+param_clrTMA_description=삼각 이동편균선의 색상
+param_widthTMA_name=
+param_widthTMA_description=
+param_styleTMA_name=
+param_styleTMA_description=
+
+[rus]
+codepage=1251
+name=Треугольное скользящее среднее
+description=Представляет собой дважды сглаженное простое скользящее среднее.
+param_N_name=Количество периодов
+param_N_description=Количество периодов.
+param_clrTMA_name=Цвет линии
+param_clrTMA_description=Цвет линии треугольного скользящего среднего.
+param_widthTMA_name=Ширина линии
+param_widthTMA_description=Ширина линии треугольного скользящего среднего.
+param_styleTMA_name=Стиль линии
+param_styleTMA_description=Стиль линии треугольного скользящего среднего.
+
+[tur]
+codepage=1254
+name=Üçgensel Hareketli Ortalama
+description=Basit hareketli ortalamayı düzlemek için tekrar hareketli ortalaması hesaplanır.
+param_N_name=Periyot sayısı
+param_N_description=Periyot sayısı.
+param_clrTMA_name=Çizgi Rengi
+param_clrTMA_description=Üçgensel Hareketli Ortalama çizgi rengi.
+param_widthTMA_name=Çizgi kalınlığı
+param_widthTMA_description=Üçgensel Hareketli Ortalama çizgi kalınlığı.
+param_styleTMA_name=Çizgi biçimi
+param_styleTMA_description=Üçgensel Hareketli Ortalama çizgi biçimi.
+
+[ita]
+codepage=1252
+name=Triangular Moving Average
+description=Calcola la media di una simple moving average per renderla ulteriormente smorzata
+param_N_name=Numero di periodi
+param_N_description=Il numero di periodi
+param_clrTMA_name=Colore della linea
+param_clrTMA_description=Il colore della linea della Triangular Moving Average
+param_widthTMA_name=Spessore della linea
+param_widthTMA_description=Lo spessore della linea di Triangular Moving Average
+param_styleTMA_name=Stile della linea
+param_styleTMA_description=Lo stile della linea di Triangular Moving Average
+
+[heb]
+codepage=1255
+name=ממוצע נע משולש
+description=מחליק את הממוצע הנע הפשוט.
+param_N_name=מספר תקופות
+param_N_description=מספר התקופות.
+param_clrTMA_name=צבע קו
+param_clrTMA_description=צבע הקו של הממוצע הנע המשולש.
+param_widthTMA_name=רוחב קו
+param_widthTMA_description=רוחב הקו של הממוצע הנע המשולש.
+param_styleTMA_name=סגנון קו
+param_styleTMA_description=סגנון הקו של הממוצע הנע המשולש.
+
+[pol]
+codepage=1250
+name=Dwukrotnie uśredniana średnia krocząca
+description=Zwykła średnia krocząca ponownie uśredniania celem poprawienia stopnia wygładzenia
+param_N_name=Liczba okresów
+param_N_description=Liczba okresów
+param_clrTMA_name=Kolor linii
+param_clrTMA_description=Kolor linii dwukrotnie uśrednianej średniej kroczącej.
+param_widthTMA_name=Grubość linii
+param_widthTMA_description=Grubość linii dwukrotnie uśrednianej średniej kroczącej.
+param_styleTMA_name=Styl linii
+param_styleTMA_description=Styl linii dwukrotnie uśrednianej średniej kroczącej.
+
+[cze]
+codepage=1250
+name=Trojúhelníkový klouzavý průměr
+description=Znovuurčení jednoduchého klouzavého průměru.
+param_N_name=Počet period
+param_N_description=Počet period.
+param_clrTMA_name=Barva linky
+param_clrTMA_description=Barva trojúhelníkového klouzavého průměru.
+param_widthTMA_name=Šíře linky
+param_widthTMA_description=Šíře linky trojúhelníkového klouzavého průměru.
+param_styleTMA_name=Styl linky
+param_styleTMA_description=Styl linky trojúhelníkového klouzavého průměru.
+
+[por]
+codepage=1252
+name=Média Móvel triangular
+description=Faz uma outra média a médial movel simples para a fazer ainda mais simples.
+param_N_name=Número de períodos
+param_N_description=O número de períodos
+param_clrTMA_name=Cor da linha
+param_clrTMA_description=A cor da linha da média móvel triangular
+param_widthTMA_name=Largura da linha
+param_widthTMA_description=A largura da linha da média móvel triangular.
+param_styleTMA_name=Estilo da linha
+param_styleTMA_description=O estilo da linha da média móvel triangular.
+
+[gre]
+codepage=1253
+name=Triangular Moving Average
+description=Υπολογίζει εκ νέου τον απλό κινητό μέσο όρο για να τον εξομαλύνει ακόμη περισσότερο.
+param_N_name=Αριθμός περιόδων
+param_N_description=Ο αριθμός των περιόδων.
+param_clrTMA_name=Χρώμα γραμμής
+param_clrTMA_description=Το χρώμα της γραμμής του Τriangular Moving Average
+param_widthTMA_name=Πάχος γραμμής
+param_widthTMA_description=Το πάχος της γραμμής Triangular Moving Average
+param_styleTMA_name=Στυλ γραμμής
+param_styleTMA_description=Το στυλ της γραμμής Triangular Moving Average
+

@@ -1,0 +1,235 @@
+﻿default=enu
+[enu]
+codepage=1252
+name=Average Directional Index
+description=Determines the strength of a prevailing trend.
+param_N_name=Number of periods
+param_N_description=The number of periods.
+param_clrADX_name=Line color
+param_clrADX_description=The color of the Average Directional Index line.
+param_widthADX_name=Line width
+param_widthADX_description=The width of the Average Directional Index line.
+param_styleADX_name=Line style
+param_styleADX_description=The style of the Average Directional Index line.
+
+[ara]
+codepage=1256
+name=مؤشر معدل المتوجه
+description=تحديد القوة في الاتجاه السائد
+param_N_name=عدد الفترات
+param_N_description=عدد الفترات
+param_clrADX_name=لون الخط
+param_clrADX_description=لون خط الدليل الاتجاهي المتوسطي
+param_widthADX_name=عرض الخط
+param_widthADX_description=عرض الخط الخاص بالدليل الاتجاهي المتوسطي.
+param_styleADX_name=نوع الخط
+param_styleADX_description=نوع الخط الخاص بالدليل الاتجاهي المتوسطي.
+
+[chs]
+codepage=936
+name=平均移动方向指数
+description=决定当前趋势的强弱
+param_N_name=时期数目
+param_N_description=时期数目
+param_clrADX_name=线颜色
+param_clrADX_description=平均移动方向指数线颜色
+param_widthADX_name=线宽
+param_widthADX_description=平均移动方向指数线的宽度
+param_styleADX_name=线样式
+param_styleADX_description=平均移动方向指数线样式
+
+[cht]
+codepage=950
+name=平均移動方向指數
+description=決定當前趨勢的強弱
+param_N_name=時期數目
+param_N_description=時期數目
+param_clrADX_name=線顏色
+param_clrADX_description=平均移動方向指數線顏色
+param_widthADX_name=線寬
+param_widthADX_description=平均移動方向指數線的寬度
+param_styleADX_name=線樣式
+param_styleADX_description=平均移動方向指數線樣式
+
+[ctt]
+codepage=950
+name=平均移動方向指數
+description=決定當前趨勢的強弱
+param_N_name=時期數目
+param_N_description=時期數目
+param_clrADX_name=線顏色
+param_clrADX_description=平均移動方向指數線顏色
+param_widthADX_name=
+param_widthADX_description=
+param_styleADX_name=
+param_styleADX_description=
+
+[deu]
+codepage=1252
+name=Average directional movement index
+description=Bewertet die Nachhaltigkeit einer vorwiegenden Tendenz
+param_N_name=Anzahl der Perioden
+param_N_description=Anzahl der Perioden
+param_clrADX_name=Linienfarbe
+param_clrADX_description=Farbe der Average-Directional-Index Linie
+param_widthADX_name=Linienbreite
+param_widthADX_description=Die Breite der Durchsnitt Richtungsindex Linie
+param_styleADX_name=Linienstil
+param_styleADX_description=Der Stil der Durchschnitt Richtungsindex Linie
+
+[esp]
+codepage=1252
+name=Índice de promedio direccional (ADX)
+description=Determina la fuerza de una tendencia predominante
+param_N_name=Número de periodos
+param_N_description=El Número de periodos
+param_clrADX_name=Color de la línea
+param_clrADX_description=El color de la línea del índice de promedio direccional
+param_widthADX_name=Amplitud de la línea
+param_widthADX_description=Amplitud de la línea del índice promedio direccional.
+param_styleADX_name=Estilo de la línea
+param_styleADX_description=Estilo de la línea del índice promedio direccional.
+
+[fra]
+codepage=1252
+name=Indice de Mouvement directionnel moyen
+description=Détermine la force d'une tendance dominante
+param_N_name=Nombre de périodes
+param_N_description=Nombre de périodes
+param_clrADX_name=Couleur de la ligne
+param_clrADX_description=La couleur de la ligne de l'indice de Mouvement directionnel moyen
+param_widthADX_name=Largeur de la ligne
+param_widthADX_description=La largeur de la ligne de l'Indice de Direction Moyenne
+param_styleADX_name=Style de la ligne
+param_styleADX_description=La style de la ligne de l'Indice de Direction Moyenne
+
+[jpn]
+codepage=932
+name=アベレージ・ディレクショナル指数
+description=トレンドの強さを表す指数
+param_N_name=期間数
+param_N_description=期間数
+param_clrADX_name=ラインの色
+param_clrADX_description=アベレージ・ディレクショナル指数の色
+param_widthADX_name=ラインの幅
+param_widthADX_description=Average Directional Index ラインン幅
+param_styleADX_name=ラインのスタイル
+param_styleADX_description=Average Directional Index ラインスタイル
+
+[kor]
+codepage=949
+name=ADX (평균 방향이동지표)
+description=유력한 경향 강도 측정
+param_N_name=기간의 개수
+param_N_description=기간의 개수
+param_clrADX_name=선 색상
+param_clrADX_description=평균 인덱스 방향선의 색상
+param_widthADX_name=
+param_widthADX_description=
+param_styleADX_name=
+param_styleADX_description=
+
+[rus]
+codepage=1251
+name=Индекс среднего направления движения
+description=Показывает силу преобладающего тренда.
+param_N_name=Количество периодов
+param_N_description=Количество периодов.
+param_clrADX_name=Цвет линии
+param_clrADX_description=Цвет линии индекса среднего направления движения.
+param_widthADX_name=Ширина линии
+param_widthADX_description=Ширина линии индекса среднего направления движения.
+param_styleADX_name=Стиль линии
+param_styleADX_description=Стиль линии индекса среднего направления движения.
+
+[tur]
+codepage=1254
+name=Ortalama Yönelim Endeksi
+description=Varolan trendin gücünü gösterir.
+param_N_name=Periyot sayısı
+param_N_description=Periyot sayısı.
+param_clrADX_name=Çizgi Rengi
+param_clrADX_description=Ortalama Yönelim Endeksi çizgi rengi
+param_widthADX_name=Çizgi kalınlığı
+param_widthADX_description=Ortalama Yönelim Endeksi çizgi kalınlığı.
+param_styleADX_name=Çizgi biçimi
+param_styleADX_description=Ortalama Yönelim Endeksi çizgi biçimi.
+
+[ita]
+codepage=1252
+name=Average Directional Index
+description=Determina la forza del trend prevalente
+param_N_name=Numero di periodi
+param_N_description=Numero di periodi
+param_clrADX_name=Colore della linea
+param_clrADX_description=Il colore della linea del Average Directional Index
+param_widthADX_name=Spessore della linea
+param_widthADX_description=Lo spessore della linea Average Directional Index.
+param_styleADX_name=Stile della linea
+param_styleADX_description=Lo stile della linea Average Directional Index.
+
+[heb]
+codepage=1255
+name=מדד התנועה הממוצעת
+description=מודד את עוצמתה של המגמה השלטת
+param_N_name=מספר התקופות
+param_N_description=מספר התקופות.
+param_clrADX_name=צבע קו
+param_clrADX_description=צבע הקו של מדד הכיווניות הממוצעת
+param_widthADX_name=רוחב קו
+param_widthADX_description=רוחב קו מדד כיווניות ממוצעת
+param_styleADX_name=סוג קו
+param_styleADX_description=סוג קו מדד כיווניות ממוצעת
+
+[pol]
+codepage=1250
+name=Indeks przeciętnego ruchu kierunkowego
+description=Określa siłę obecnego trendu
+param_N_name=Liczba okresów
+param_N_description=Liczba okresów
+param_clrADX_name=Kolor linii
+param_clrADX_description=Kolor linii Average Directional Index
+param_widthADX_name=Grubość linii
+param_widthADX_description=Grubość linii Average Directional Index
+param_styleADX_name=Styl linii
+param_styleADX_description=Styl linii Average Directional Index
+
+[cze]
+codepage=1250
+name=ADX
+description=Vymezuje sílu převládajícího trendu
+param_N_name=Barva linky
+param_N_description=Počet period.
+param_clrADX_name=Barva linky
+param_clrADX_description=Barva linky ARSI.
+param_widthADX_name=Šíře linky
+param_widthADX_description=Šíře linky Average Directional Index.
+param_styleADX_name=Styl linky
+param_styleADX_description=Styl linky Average Directional Index.
+
+[por]
+codepage=1252
+name=Índice da Média direcional (ADX)
+description=Determina a força de uma tendência predominante
+param_N_name=Número de períodos
+param_N_description=Número de períodos
+param_clrADX_name=Cor da linha
+param_clrADX_description=A cor da linha do Índice da Média Direcional
+param_widthADX_name=Largura da linha
+param_widthADX_description=A largura da linha do Índice da Média Direcional
+param_styleADX_name=Estilo da linha
+param_styleADX_description=O estilo da linha do Índice da Média Direcional.
+
+[gre]
+codepage=1253
+name=Average Directional Index(ADX)
+description=Προσδιορίζει τη δύναμη μιας υπερισχύουσας τάσης.
+param_N_name=Αριθμός περιόδων
+param_N_description=Ο αριθμός των περιόδων.
+param_clrADX_name=Χρώμα γραμμής
+param_clrADX_description=Το χρώμα της γραμμής του Average Directional Index.
+param_widthADX_name=Πάχος γραμμής
+param_widthADX_description=Πάχος της γραμμής του Average Directional Index
+param_styleADX_name=Στυλ γραμμής
+param_styleADX_description=Στυλ της γραμμής του Average Directional Index
+

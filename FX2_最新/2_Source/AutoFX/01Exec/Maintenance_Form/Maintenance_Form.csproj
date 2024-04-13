@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{40EF46AD-ED02-4A5B-A3FF-130722A622B0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Maintenance_Form</RootNamespace>
+    <AssemblyName>Maintenance_Form</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DocumentFormat.OpenXml, Version=2.5.5631.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Maintenance_Form, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>obj\Debug\Maintenance_Form.exe</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="グラフ\F折れ線グラフ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="グラフ\F折れ線グラフ.Designer.cs">
+      <DependentUpon>F折れ線グラフ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="シュミレーション\Fシュミレーション.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="シュミレーション\Fシュミレーション.Designer.cs">
+      <DependentUpon>Fシュミレーション.cs</DependentUpon>
+    </Compile>
+    <Compile Include="シュミレーション\WMA反転.cs" />
+    <Compile Include="シュミレーション\シュミレーションログ.cs" />
+    <Compile Include="テスト\Fバグチェック.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="テスト\Fバグチェック.Designer.cs">
+      <DependentUpon>Fバグチェック.cs</DependentUpon>
+    </Compile>
+    <Compile Include="テスト\TradeOandaTest.cs" />
+    <Compile Include="データ加工\F日毎に横並び.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="データ加工\F日毎に横並び.Designer.cs">
+      <DependentUpon>F日毎に横並び.cs</DependentUpon>
+    </Compile>
+    <Compile Include="件数確認\FOANDAが扱っている通貨ペア一覧.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="件数確認\FOANDAが扱っている通貨ペア一覧.Designer.cs">
+      <DependentUpon>FOANDAが扱っている通貨ペア一覧.cs</DependentUpon>
+    </Compile>
+    <Compile Include="手動データ登録\F全通貨ペアで注文.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="手動データ登録\F全通貨ペアで注文.Designer.cs">
+      <DependentUpon>F全通貨ペアで注文.cs</DependentUpon>
+    </Compile>
+    <Compile Include="手動データ登録\F環境設定.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="手動データ登録\F環境設定.Designer.cs">
+      <DependentUpon>F環境設定.cs</DependentUpon>
+    </Compile>
+    <Compile Include="推移確認\F推移確認.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="推移確認\F推移確認.Designer.cs">
+      <DependentUpon>F推移確認.cs</DependentUpon>
+    </Compile>
+    <Compile Include="バグチェック.cs" />
+    <Compile Include="ユーザコントロール\ConnectDB.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ユーザコントロール\ConnectDB.Designer.cs">
+      <DependentUpon>ConnectDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="テスト\FDBスクリプト.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="テスト\FDBスクリプト.Designer.cs">
+      <DependentUpon>FDBスクリプト.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FMaintenance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FMaintenance.Designer.cs">
+      <DependentUpon>FMaintenance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="手動データ登録\FMstデータ再登録.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="手動データ登録\FMstデータ再登録.Designer.cs">
+      <DependentUpon>FMstデータ再登録.cs</DependentUpon>
+    </Compile>
+    <Compile Include="手動データ登録\FRate手動登録.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="手動データ登録\FRate手動登録.Designer.cs">
+      <DependentUpon>FRate手動登録.cs</DependentUpon>
+    </Compile>
+    <Compile Include="手動データ登録\FSwap手動登録.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="手動データ登録\FSwap手動登録.Designer.cs">
+      <DependentUpon>FSwap手動登録.cs</DependentUpon>
+    </Compile>
+    <Compile Include="テスト\Fテスト.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="テスト\Fテスト.Designer.cs">
+      <DependentUpon>Fテスト.cs</DependentUpon>
+    </Compile>
+    <Compile Include="件数確認\F件数確認.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="件数確認\F件数確認.Designer.cs">
+      <DependentUpon>F件数確認.cs</DependentUpon>
+    </Compile>
+    <Compile Include="手動データ登録\F口座登録.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="手動データ登録\F口座登録.Designer.cs">
+      <DependentUpon>F口座登録.cs</DependentUpon>
+    </Compile>
+    <Compile Include="レポート\F日次レポート.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="レポート\F日次レポート.Designer.cs">
+      <DependentUpon>F日次レポート.cs</DependentUpon>
+    </Compile>
+    <Compile Include="件数確認\F注文可能通貨ペア.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="件数確認\F注文可能通貨ペア.Designer.cs">
+      <DependentUpon>F注文可能通貨ペア.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F結果.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F結果.Designer.cs">
+      <DependentUpon>F結果.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F結果DGV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F結果DGV.Designer.cs">
+      <DependentUpon>F結果DGV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="レポート\F週次レポート.cs" />
+    <Compile Include="レポート\F週次レポート.Designer.cs">
+      <DependentUpon>F週次レポート.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Maintenance共通.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="イベントハンドラ.cs" />
+    <Compile Include="ユーザコントロール\Utxt環境情報.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ユーザコントロール\Utxt環境情報.Designer.cs">
+      <DependentUpon>Utxt環境情報.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="グラフ\F折れ線グラフ.resx">
+      <DependentUpon>F折れ線グラフ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="シュミレーション\Fシュミレーション.resx">
+      <DependentUpon>Fシュミレーション.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="テスト\Fバグチェック.resx">
+      <DependentUpon>Fバグチェック.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="データ加工\F日毎に横並び.resx">
+      <DependentUpon>F日毎に横並び.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="件数確認\FOANDAが扱っている通貨ペア一覧.resx">
+      <DependentUpon>FOANDAが扱っている通貨ペア一覧.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="手動データ登録\F全通貨ペアで注文.resx">
+      <DependentUpon>F全通貨ペアで注文.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="手動データ登録\F口座登録.resx">
+      <DependentUpon>F口座登録.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="手動データ登録\F環境設定.resx">
+      <DependentUpon>F環境設定.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="推移確認\F推移確認.resx">
+      <DependentUpon>F推移確認.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ユーザコントロール\ConnectDB.resx">
+      <DependentUpon>ConnectDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="テスト\FDBスクリプト.resx">
+      <DependentUpon>FDBスクリプト.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FMaintenance.resx">
+      <DependentUpon>FMaintenance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="手動データ登録\FMstデータ再登録.resx">
+      <DependentUpon>FMstデータ再登録.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="手動データ登録\FRate手動登録.resx">
+      <DependentUpon>FRate手動登録.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="手動データ登録\FSwap手動登録.resx">
+      <DependentUpon>FSwap手動登録.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="テスト\Fテスト.resx">
+      <DependentUpon>Fテスト.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="件数確認\F件数確認.resx">
+      <DependentUpon>F件数確認.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="レポート\F日次レポート.resx">
+      <DependentUpon>F日次レポート.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="件数確認\F注文可能通貨ペア.resx">
+      <DependentUpon>F注文可能通貨ペア.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F結果.resx">
+      <DependentUpon>F結果.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F結果DGV.resx">
+      <DependentUpon>F結果DGV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="レポート\F週次レポート.resx">
+      <DependentUpon>F週次レポート.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ユーザコントロール\Utxt環境情報.resx">
+      <DependentUpon>Utxt環境情報.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\02共通\Common\Common.csproj">
+      <Project>{0248fba3-e687-4618-8187-8284ed2307eb}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\02共通\SystemSetting\SystemSetting.csproj">
+      <Project>{1fb2081c-9211-4fb1-9206-3d789fd4b229}</Project>
+      <Name>SystemSetting</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\02共通\共通Data\共通Data.csproj">
+      <Project>{f9a21fe1-d3b3-4559-a6ae-c41be0fd855d}</Project>
+      <Name>共通Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\02共通\定数\定数.csproj">
+      <Project>{381e37a9-b55c-4b6a-8465-0411963cbd59}</Project>
+      <Name>定数</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\03DB\DB\DB.csproj">
+      <Project>{fb24d56f-034c-4158-a8e2-71dae7e2810a}</Project>
+      <Name>DB</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\03DB\DB_FXCM\DB_FXCM.csproj">
+      <Project>{833ea3f7-972c-4430-ae8d-1f4869230da7}</Project>
+      <Name>DB_FXCM</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\03DB\DB_Maintenance\DB_Maintenance.csproj">
+      <Project>{1e3da8aa-5b23-42df-abcf-399a97d91eb5}</Project>
+      <Name>DB_Maintenance</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\04FXAPI\FXCM\FXCMv2\FXCMv2.csproj">
+      <Project>{bb1eab3e-6583-4591-ae32-f6998c4c9e89}</Project>
+      <Name>FXCMv2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\04FXAPI\FXCM\FXCMv1\FXCMv1.csproj">
+      <Project>{701f0f07-856f-46a9-bf80-5044e583ce12}</Project>
+      <Name>FXCMv1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\04FXAPI\OANDA\OANDAv1\OANDAv1.csproj">
+      <Project>{34e3a021-4e91-4a72-95a1-8119ac9b06f3}</Project>
+      <Name>OANDAv1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\04FXAPI\FXAPI共通\FXAPI共通.csproj">
+      <Project>{0bbd8ff8-31f1-4c20-84d9-78a042367b3d}</Project>
+      <Name>FXAPI共通</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,235 @@
+﻿default=enu
+[enu]
+codepage=1252
+name=Simple Moving Average
+description=The average price for the last N periods.
+param_N_name=Number of periods
+param_N_description=The number of periods.
+param_clrDIP_name=Line color
+param_clrDIP_description=The color of the MVA line.
+param_widthDIP_name=Line width
+param_widthDIP_description=The width of the MVA line.
+param_styleDIP_name=Line style
+param_styleDIP_description=The style of the MVA line.
+
+[ara]
+codepage=1256
+name=مؤشر المتوسط المتحرك المبسط
+description=متوسط السعر للفترات الاخيرة ل N
+param_N_name=عدد الفترات
+param_N_description=عدد الفترات
+param_clrDIP_name=لون الخط
+param_clrDIP_description=لون خط المؤشر المتوسط المتحرك المبسط MVA
+param_widthDIP_name=عرض الخط
+param_widthDIP_description=عرض خط المؤشر المتوسط المتحرك المبسط MVA
+param_styleDIP_name=نوع الخط
+param_styleDIP_description=نوع خط المؤشر المتوسط المتحرك المبسط MVA
+
+[chs]
+codepage=936
+name=移动平均线
+description=过去N个周期平均价格
+param_N_name=时期数目
+param_N_description=时期数目
+param_clrDIP_name=线颜色
+param_clrDIP_description=移动平均线颜色
+param_widthDIP_name=线宽
+param_widthDIP_description=移动平均线的宽度
+param_styleDIP_name=线样式
+param_styleDIP_description=移动平均线样式
+
+[cht]
+codepage=950
+name=移動平均線
+description=過去N個週期平均價格
+param_N_name=時期數目
+param_N_description=時期數目
+param_clrDIP_name=線顏色
+param_clrDIP_description=移動平均線顏色
+param_widthDIP_name=線寬
+param_widthDIP_description=移動平均線的寬度
+param_styleDIP_name=線樣式
+param_styleDIP_description=移動平均線樣式
+
+[ctt]
+codepage=950
+name=移動平均線
+description=過去N個週期平均價格
+param_N_name=時期數目
+param_N_description=時期數目
+param_clrDIP_name=線顏色
+param_clrDIP_description=移動平均線顏色
+param_widthDIP_name=
+param_widthDIP_description=
+param_styleDIP_name=
+param_styleDIP_description=
+
+[deu]
+codepage=1252
+name=Einfacher gleitender Durchschnitt
+description=Durchschnittskurs der letzten N Perioden
+param_N_name=Anzahl der Perioden
+param_N_description=Anzahl der Perioden
+param_clrDIP_name=Linienfarbe
+param_clrDIP_description=Farbe der MVA Linie
+param_widthDIP_name=Linienbreite
+param_widthDIP_description=Die Breite der MVA Linie
+param_styleDIP_name=Linienstil
+param_styleDIP_description=Der Stil der MVA Linie
+
+[esp]
+codepage=1252
+name=Media Móvil Simple
+description=El precio promedio por los últimos N periodos
+param_N_name=Número de periodos
+param_N_description=El número de periodos
+param_clrDIP_name=Color de la línea
+param_clrDIP_description=El color de la línea MVA
+param_widthDIP_name=Amplitud de la línea
+param_widthDIP_description=La amplitud de la línea MVA.
+param_styleDIP_name=Estilo de la línea
+param_styleDIP_description=El estilo de la línea MVA.
+
+[fra]
+codepage=1252
+name=Moyenne mobile simple
+description=La moyenne de prix les N dernières périodes.
+param_N_name=Nombre de périodes
+param_N_description=Le nombre de périodes.
+param_clrDIP_name=Couleur de la ligne
+param_clrDIP_description=La couleur de la ligne MVA.
+param_widthDIP_name=Largeur de la ligne
+param_widthDIP_description=La largeur de la ligne MVA
+param_styleDIP_name=Style de la ligne
+param_styleDIP_description=Le style de la ligne MVA
+
+[jpn]
+codepage=932
+name=単純移動平均線
+description=最後の期間Nの平均プライス
+param_N_name=期間数
+param_N_description=期間数
+param_clrDIP_name=ラインの色
+param_clrDIP_description=移動平均線ラインの色
+param_widthDIP_name=ラインの幅
+param_widthDIP_description=MVAラインの幅
+param_styleDIP_name=ラインのスタイル
+param_styleDIP_description=MVAラインのスタイル
+
+[kor]
+codepage=949
+name=단순 이동평균 (Simple Moving Average)
+description=단순 이동평균 (Simple Moving Average)
+param_N_name=period의 개수
+param_N_description=period의 개수
+param_clrDIP_name=선 색상
+param_clrDIP_description=선 색상
+param_widthDIP_name=
+param_widthDIP_description=
+param_styleDIP_name=
+param_styleDIP_description=
+
+[rus]
+codepage=1251
+name=Простое скользящее среднее
+description=Средняя цена за последние N периодов.
+param_N_name=Количество периодов
+param_N_description=Количество периодов.
+param_clrDIP_name=Цвет линии
+param_clrDIP_description=Цвет линии простого скользящего среднего.
+param_widthDIP_name=Ширина линии
+param_widthDIP_description=Ширина линии простого скользящего среднего.
+param_styleDIP_name=Стиль линии
+param_styleDIP_description=Стиль линии простого скользящего среднего.
+
+[tur]
+codepage=1254
+name=Basit Hareketli Ortalama
+description=Son N periyot için ortalama fiyat.
+param_N_name=Periyot sayısı
+param_N_description=Periyot sayısı.
+param_clrDIP_name=Çizgi Rengi
+param_clrDIP_description=MVA çizgisinin rengi.
+param_widthDIP_name=Çizgi kalınlığı
+param_widthDIP_description=MVA çizgisinin kalınlığı.
+param_styleDIP_name=Çizgi biçimi
+param_styleDIP_description=MVA çizgisinin biçimi.
+
+[ita]
+codepage=1252
+name=Simple Moving Average
+description=Il prezzo medio degli ultimi N periodi
+param_N_name=Numero di periodi
+param_N_description=Il numero di periodi
+param_clrDIP_name=Colore della linea
+param_clrDIP_description=Il colore della linea MVA
+param_widthDIP_name=Spessore della linea
+param_widthDIP_description=Lo spessore della linea MVA
+param_styleDIP_name=Stile della linea
+param_styleDIP_description=Lo stile della linea MVA
+
+[heb]
+codepage=1255
+name=ממוצע נע פשוט
+description=ממוצע המחיר ב-N תקופות אחרונות.
+param_N_name=מספר תקופות
+param_N_description=מספר התקופות.
+param_clrDIP_name=צבע קו
+param_clrDIP_description=צבע הקו של ממוצע הנע הפשוט.
+param_widthDIP_name=רוחב קו
+param_widthDIP_description=רוחב הקו של ממוצע הנע הפשוט.
+param_styleDIP_name=סגנון קו
+param_styleDIP_description=סגנון הקו של ממוצע הנע הפשוט.
+
+[pol]
+codepage=1250
+name=Zwykła średnia krocząca
+description=Średnia cena z ostatnich n okresów
+param_N_name=Liczba okresów
+param_N_description=Liczba okresów
+param_clrDIP_name=Kolor linii
+param_clrDIP_description=Kolor linii MVA.
+param_widthDIP_name=Grubość linii
+param_widthDIP_description=Grubość linii MVA.
+param_styleDIP_name=Grubość linii
+param_styleDIP_description=Grubość linii MVA.
+
+[cze]
+codepage=1250
+name=Jednoduchý klouzavý průměr
+description=Průměrná cena pro poslední N periody.
+param_N_name=Počet period
+param_N_description=Počet period.
+param_clrDIP_name=Barva linky
+param_clrDIP_description=Barva linky MVA.
+param_widthDIP_name=Šíře linky
+param_widthDIP_description=Šíře linky MVA.
+param_styleDIP_name=Styl linky
+param_styleDIP_description=Styl linky MVA.
+
+[por]
+codepage=1252
+name=Media Móvel Simples
+description=O preço médio dos últimos N períodos
+param_N_name=Número de períodos
+param_N_description=O número de períodos
+param_clrDIP_name=Cor da linha
+param_clrDIP_description=A cor da linha MVA
+param_widthDIP_name=Largura da linha
+param_widthDIP_description=A largura da linha MVA.
+param_styleDIP_name=Estilo da linha
+param_styleDIP_description=O estilo da linha MVA.
+
+[gre]
+codepage=1253
+name=Simple Moving Average
+description=Η μέση τιμή των τελευταίων Ν περιόδων.
+param_N_name=Αριθμός περιόδων
+param_N_description=Ο αριθμός των περιόδων.
+param_clrDIP_name=Χρώμα γραμμής
+param_clrDIP_description=Το χρώμα της γραμμής MVA.
+param_widthDIP_name=Πάχος γραμμής
+param_widthDIP_description=Το πάχος της γραμμής MVA
+param_styleDIP_name=Στυλ γραμμής
+param_styleDIP_description=Το στυλ της γραμμής MVA
+

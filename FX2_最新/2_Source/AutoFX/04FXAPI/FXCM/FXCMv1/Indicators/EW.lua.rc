@@ -1,0 +1,343 @@
+﻿default=enu
+[enu]
+codepage=1252
+name=Elliot Wave Indicator
+description=Offers buy and sell signals.
+param_Trigger_name=Trigger value (%)
+param_Trigger_description=The trigger value (%).
+param_Period_name=Number of periods
+param_Period_description=The number of periods.
+param_clrEW_name=Line color
+param_clrEW_description=The color of the Elliot Wave Indicator line.
+param_widthEW_name=Line width
+param_widthEW_description=The width of the Elliot Wave Indicator line.
+param_styleEW_name=Line style
+param_styleEW_description=The style of the Elliot Wave Indicator line.
+param_FN_name=Fast Moving Average
+param_FN_description=The number of periods for Fast Moving Average.
+param_SN_name=Slow Moving Average
+param_SN_description=The number of periods for Slow Moving Average.
+
+[ara]
+codepage=1256
+name=مؤشر موجات أليوت
+description=عروض اشارات البيع والشراء
+param_Trigger_name=قيمة التحفيز(%)
+param_Trigger_description=قيمة التحفيز(%)
+param_Period_name=عدد الفترات
+param_Period_description=عدد الفترات
+param_clrEW_name=لون الخط
+param_clrEW_description=لون خط مؤشر موجة إليوت
+param_widthEW_name=عرض الخط
+param_widthEW_description=عرض الخط الخاص بمؤشر موجات أليوت.
+param_styleEW_name=نوع الخط
+param_styleEW_description=نوع الخط الخاص بمؤشر موجات أليوت.
+param_FN_name=المتوسط المتحرك السريع
+param_FN_description=المتوسط المتحرك السريع
+param_SN_name=المتوسط المتحرك البطيء
+param_SN_description=المتوسط المتحرك البطيء
+
+[chs]
+codepage=936
+name=艾略特波浪指标
+description=提供买进及卖出讯号
+param_Trigger_name=触发数值(%)
+param_Trigger_description=触发数值(%)
+param_Period_name=时期数目
+param_Period_description=时期数目
+param_clrEW_name=线颜色
+param_clrEW_description=艾略特波浪指标线颜色
+param_widthEW_name=线宽
+param_widthEW_description=艾略特波浪指标线的宽度
+param_styleEW_name=线样式
+param_styleEW_description=艾略特波浪指标线样式
+param_FN_name=快移动平均线
+param_FN_description=快移动平均线
+param_SN_name=慢移动平均线
+param_SN_description=慢移动平均线
+
+[cht]
+codepage=950
+name=艾略特波浪指標
+description=提供買進及賣出訊號
+param_Trigger_name=觸發數值(%)
+param_Trigger_description=觸發數值(%)
+param_Period_name=時期數目
+param_Period_description=時期數目
+param_clrEW_name=線顏色
+param_clrEW_description=艾略特波浪指標線顏色
+param_widthEW_name=線寬
+param_widthEW_description=艾略特波浪指標線的寬度
+param_styleEW_name=線樣式
+param_styleEW_description=艾略特波浪指標線樣式
+param_FN_name=快移動平均線
+param_FN_description=快移動平均線
+param_SN_name=慢移動平均線
+param_SN_description=慢移動平均線
+
+[ctt]
+codepage=950
+name=艾略特波浪指標
+description=提供買進及賣出訊號
+param_Trigger_name=觸發數值(%)
+param_Trigger_description=觸發數值(%)
+param_Period_name=時期數目
+param_Period_description=時期數目
+param_clrEW_name=線顏色
+param_clrEW_description=艾略特波浪指標線顏色
+param_widthEW_name=
+param_widthEW_description=
+param_styleEW_name=
+param_styleEW_description=
+param_FN_name=
+param_FN_description=
+param_SN_name=
+param_SN_description=
+
+[deu]
+codepage=1252
+name=Elliot wave indicator
+description=Bietet Kaufs- und Verkaufssignale.
+param_Trigger_name=Trigger-Wert (%)
+param_Trigger_description=Der Trigger-Wert (%)
+param_Period_name=Anzahl der Perioden
+param_Period_description=Anzahl der Perioden
+param_clrEW_name=Linienfarbe
+param_clrEW_description=Farbe der Elliott-Wave-Indikator Linie
+param_widthEW_name=Linienbreite
+param_widthEW_description=Die Breite der Elliot Wave Indikator Linie
+param_styleEW_name=Linienstil
+param_styleEW_description=Der Stil der Elliot Wave Indikator Linie
+param_FN_name=Schneller Gleitender Durchschnitt
+param_FN_description=Schneller Gleitender Durchschnitt
+param_SN_name=Langsamer Gleitender Durchschnitt
+param_SN_description=Langsamer Gleitender Durchschnitt
+
+[esp]
+codepage=1252
+name=Indicador de ondas Elliot
+description=Ofrece señales de compra y venta
+param_Trigger_name=Valor de activación (%)
+param_Trigger_description=El valor de activación (%)
+param_Period_name=Número de periodos
+param_Period_description=El número de periodos
+param_clrEW_name=Color de la línea
+param_clrEW_description=El color de la línea del indicador de ondas Elliot
+param_widthEW_name=Amplitud de la línea
+param_widthEW_description=La amplitud de la línea del indicador de ondas Elliot.
+param_styleEW_name=Estilo de la línea
+param_styleEW_description=El estilo de la línea del indicador de ondas Elliot.
+param_FN_name=Promedio Móvil Rápido
+param_FN_description=Promedio Móvil Rápido
+param_SN_name=Promedio Móvil Lento
+param_SN_description=Promedio Móvil Lento
+
+[fra]
+codepage=1252
+name=Indicateur de vague d'Elliott
+description=Offre des signaux d'achats et de vente.
+param_Trigger_name=Valeur de déclenchement (%)
+param_Trigger_description=La valeur de déclenchement (%).
+param_Period_name=Nombre de périodes
+param_Period_description=Le nombre de périodes.
+param_clrEW_name=Couleur de la ligne
+param_clrEW_description=La couleur de la ligne de l'indicateur de vague d'Eliott.
+param_widthEW_name=Largeur de la ligne
+param_widthEW_description=La largeur de la ligne de l'indicateur Vague d'Elliot
+param_styleEW_name=Style de la ligne
+param_styleEW_description=Le style de la ligne de l'indicateur Vague d'Elliot
+param_FN_name=Moyenne Mobile Rapide
+param_FN_description=Moyenne Mobile Rapide
+param_SN_name=Moyenne Mobile Lente
+param_SN_description=Moyenne Mobile Lente
+
+[jpn]
+codepage=932
+name=エリオット・ウェーブ指数
+description=買いと売りのシグナルを提供します
+param_Trigger_name=トリガー・バリュー（％）
+param_Trigger_description=トリガー・バリュー（％）
+param_Period_name=期間数
+param_Period_description=期間数
+param_clrEW_name=ラインの色
+param_clrEW_description=エリオット・ウェーブラインの色
+param_widthEW_name=ラインの幅
+param_widthEW_description=Elliot Wave Indicator ライン
+param_styleEW_name=ラインのスタイル
+param_styleEW_description=Elliot Wave Indicator ラインのスタイル
+param_FN_name=高速移動平均線
+param_FN_description=高速移動平均線
+param_SN_name=低速移動平均線
+param_SN_description=低速移動平均線
+
+[kor]
+codepage=949
+name=EW (Elliot Wave Indicator)
+description=매수 와 매도 신호 제공
+param_Trigger_name=트리거 가치 (%)
+param_Trigger_description=트리거 가치 (%)
+param_Period_name=기간의 개수
+param_Period_description=기간의 개수
+param_clrEW_name=선 색상
+param_clrEW_description=Elliot Wave 표지선의 색상
+param_widthEW_name=
+param_widthEW_description=
+param_styleEW_name=
+param_styleEW_description=
+param_FN_name=
+param_FN_description=
+param_SN_name=
+param_SN_description=
+
+[rus]
+codepage=1251
+name=Индикатор волны Эллиота
+description=Предоставляет сигналы для покупки и продажи.
+param_Trigger_name=Значение триггера (%)
+param_Trigger_description=Значение триггера (%).
+param_Period_name=Количество периодов
+param_Period_description=Количество периодов.
+param_clrEW_name=Цвет линии
+param_clrEW_description=Цвет линии индикатора волны Эллиота.
+param_widthEW_name=Ширина линии
+param_widthEW_description=Ширина линии индикатора волны Эллиота.
+param_styleEW_name=Стиль линии
+param_styleEW_description=Стиль линии индикатора волны Эллиота.
+param_FN_name=Быстрое скользящее среднее
+param_FN_description=Количество периодов для быстрого скользящего среднего.
+param_SN_name=Медленное скользящее среднее
+param_SN_description=Количество периодов для медленного скользящего среднего.
+
+[tur]
+codepage=1254
+name=Elliot Dalga Göstergesi
+description=Alış ve satış sinyalleri verir.
+param_Trigger_name=Tetik değeri (%)
+param_Trigger_description=Tetik değeri (%).
+param_Period_name=Periyot sayısı
+param_Period_description=Periyot sayısı.
+param_clrEW_name=Çizgi Rengi
+param_clrEW_description=Elliot Dalga Göstergesi çizgi rengi.
+param_widthEW_name=Çizgi kalınlığı
+param_widthEW_description=Elliot Dalga Göstergesi çizgi kalınlığı.
+param_styleEW_name=Çizgi biçimi
+param_styleEW_description=Elliot Dalga Göstergesi çizgi biçimi.
+param_FN_name=Hızlı Hareketli Ortalama
+param_FN_description=Hızlı Hareketli Ortalama
+param_SN_name=Yavaş Hareketli Ortalama
+param_SN_description=Yavaş Hareketli Ortalama
+
+[ita]
+codepage=1252
+name=Elliot Wave Indicator
+description=Offre segnali Buy e Sell
+param_Trigger_name=Trigger value (%)
+param_Trigger_description=Il trigger value (%)
+param_Period_name=Numero di periodi
+param_Period_description=Il numero di periodi
+param_clrEW_name=Colore della linea
+param_clrEW_description=Il colore della linea dell'Elliot Wave Indicator
+param_widthEW_name=Spessore della linea
+param_widthEW_description=Lo spessore della linea Elliot Wave Indicator.
+param_styleEW_name=Stile della linea
+param_styleEW_description=Lo stile della linea Elliot Wave Indicator.
+param_FN_name=Fast Moving Average
+param_FN_description=Fast Moving Average
+param_SN_name=Slow Moving Average
+param_SN_description=Slow Moving Average
+
+[heb]
+codepage=1255
+name=אינדיקטור גלי אליוט
+description=מספק איתותי קנייה ומכירה.
+param_Trigger_name=ערך טריגר (%)
+param_Trigger_description=ערך הטריגר (%).
+param_Period_name=מספר תקופות
+param_Period_description=מספר התקופות.
+param_clrEW_name=צבע קו
+param_clrEW_description=צבע הקו של אינדיקטור גלי אליוט.
+param_widthEW_name=רוחב קו
+param_widthEW_description=רוחב קו הממוצע הנע האקספוננציאלי המשוקלל.
+param_styleEW_name=סוג קו
+param_styleEW_description=סוג קו של אינדיקטור גלי אליוט.
+param_FN_name=ממוצע נע מהיר
+param_FN_description=ממוצע נע מהיר
+param_SN_name=ממוצע נע איטי
+param_SN_description=ממוצע נע איטי
+
+[pol]
+codepage=1250
+name=Elliott Wave Indicator
+description=Proponuje sygnały kupna i sprzedaży
+param_Trigger_name=Trigger (%)
+param_Trigger_description=Trigger (%)
+param_Period_name=Liczba okresów
+param_Period_description=Liczba okresów
+param_clrEW_name=Kolor linii
+param_clrEW_description=Kolor linii Elliott Wave Indicator.
+param_widthEW_name=Grubość linii
+param_widthEW_description=Grubość linii Elliot Wave Indicator.
+param_styleEW_name=Styl linii
+param_styleEW_description=Styl linii Elliot Wave Indicator.
+param_FN_name=Szybka średnia krocząca
+param_FN_description=Szybka średnia krocząca
+param_SN_name=Wolna średnia krocząca
+param_SN_description=Wolna średnia krocząca
+
+[cze]
+codepage=1250
+name=Elliotovy vlny
+description=Indikátor signalizuje nákupní a prodejní signály
+param_Trigger_name=Aktivační hodnota (%)
+param_Trigger_description=Aktivační hodnota (%)
+param_Period_name=Počet period
+param_Period_description=Počet period.
+param_clrEW_name=Barva linky
+param_clrEW_description=Barva Elliotovy vlny.
+param_widthEW_name=Šíře linky
+param_widthEW_description=Šíře linky Elliotovy vlny.
+param_styleEW_name=Styl linky
+param_styleEW_description=Styl linky Elliotovy vlny.
+param_FN_name=Rychlý klouzavý průměr
+param_FN_description=Rychlý klouzavý průměr
+param_SN_name=Pomalý klouzavý průměr
+param_SN_description=Pomalý klouzavý průměr
+
+[por]
+codepage=1252
+name=Indicador de ondas Elliot
+description=Oferece sinais de compra e venda
+param_Trigger_name=Valor de ativação (%)
+param_Trigger_description=O valor de ativação (%)
+param_Period_name=Número de períodos
+param_Period_description=O número de períodos
+param_clrEW_name=Cor da linha
+param_clrEW_description=A cor da linha do indicador de ondas Elliot
+param_widthEW_name=Largura da linha
+param_widthEW_description=A largura da linha do Indicador de ondas Elliot.
+param_styleEW_name=Estilo da linha
+param_styleEW_description=O estilo da linha do Indicador de ondas Elliot.
+param_FN_name=Média-Móvel Rápida
+param_FN_description=Média-Móvel Rápida
+param_SN_name=Média-Móvel Lenta
+param_SN_description=Média-Móvel Lenta
+
+[gre]
+codepage=1253
+name=Δείκτης Elliot Wave
+description=Προσφέρει σήματα αγοράς και πώλησης.
+param_Trigger_name=Τιμή ενεργοποίησης (%)
+param_Trigger_description=Η τιμή ενεργοποίησης (%).
+param_Period_name=Αριθμός περιόδων
+param_Period_description=Ο αριθμός των περιόδων.
+param_clrEW_name=Χρώμα γραμμής
+param_clrEW_description=Το χρώμα της γραμμής του δείκτη Elliot Wave.
+param_widthEW_name=Πάχος γραμμής
+param_widthEW_description=Το πάχος της γραμμής Elliot Wave Indicator
+param_styleEW_name=Στυλ γραμμής
+param_styleEW_description=Το στυλ της γραμμής Elliot Wave Indicator
+param_FN_name=Γρήγορος κινητός μέσος όρος
+param_FN_description=Γρήγορος κινητός μέσος όρος
+param_SN_name=Αργός κινητός μέσος όρος
+param_SN_description=Αργός κινητός μέσος όρος
+

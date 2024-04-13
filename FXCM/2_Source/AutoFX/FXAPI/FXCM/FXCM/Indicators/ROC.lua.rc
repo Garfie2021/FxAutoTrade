@@ -1,0 +1,235 @@
+﻿default=enu
+[enu]
+codepage=1252
+name=Rate of Change
+description=Shows the speed at which price is changing.
+param_N_name=Number of periods
+param_N_description=The number of periods.
+param_clrROC_name=Line color
+param_clrROC_description=The color of the Rate of Change line.
+param_widthROC_name=Line width
+param_widthROC_description=The width of the Rate of Change line.
+param_styleROC_name=Line style
+param_styleROC_description=The style of the Rate of Change line.
+
+[ara]
+codepage=1256
+name=نسبة التغير
+description=إظهار السرعة التي يتغير السعر بها
+param_N_name=عدد الفترات
+param_N_description=عدد الفترات
+param_clrROC_name=لون الخط
+param_clrROC_description=لون المعدل لخط التغيير
+param_widthROC_name=عرض الخط
+param_widthROC_description=عرض الخط لمؤشر نسبة التغير.
+param_styleROC_name=نوع الخط
+param_styleROC_description=نوع الخط لمؤشر نسبة التغير.
+
+[chs]
+codepage=936
+name=变动率指标
+description=显示价格变动的速度
+param_N_name=时期数目
+param_N_description=时期数目
+param_clrROC_name=线颜色
+param_clrROC_description=变动率线颜色
+param_widthROC_name=线宽
+param_widthROC_description=变动率指标线的宽度
+param_styleROC_name=线样式
+param_styleROC_description=变动率指标线样式
+
+[cht]
+codepage=950
+name=變動率指標
+description=顯示價格變動的速度
+param_N_name=時期數目
+param_N_description=時期數目
+param_clrROC_name=線顏色
+param_clrROC_description=變動率線顏色
+param_widthROC_name=線寬
+param_widthROC_description=變動率指標線的寬度
+param_styleROC_name=線樣式
+param_styleROC_description=變動率指標線樣式
+
+[ctt]
+codepage=950
+name=變動率指標
+description=顯示價格變動的速度
+param_N_name=時期數目
+param_N_description=時期數目
+param_clrROC_name=線顏色
+param_clrROC_description=變動率線顏色
+param_widthROC_name=
+param_widthROC_description=
+param_styleROC_name=
+param_styleROC_description=
+
+[deu]
+codepage=1252
+name=Aenderungsrate
+description=Die Rate wobei die Preise sich ändern.
+param_N_name=Anzahl der Perioden
+param_N_description=Anzahl der Perioden
+param_clrROC_name=Linienfarbe
+param_clrROC_description=Farbe der Linie der Aenderungsrate
+param_widthROC_name=Linienbreite
+param_widthROC_description=Die Breite der Rate of Change Linie
+param_styleROC_name=Linienstil
+param_styleROC_description=Der Stil der Rate of Change Linie
+
+[esp]
+codepage=1252
+name=Tasa de cambio
+description=Muestra la velocidad en la cual el precio esta cambiando
+param_N_name=Número de periodos
+param_N_description=El número de periodos
+param_clrROC_name=Color de la línea
+param_clrROC_description=El color de la línea de tasa de cambio
+param_widthROC_name=Amplitud de la línea
+param_widthROC_description=La amplitud de la línea de tasa de cambio.
+param_styleROC_name=Estilo de la línea
+param_styleROC_description=El estilo de la línea de tasa de cambio.
+
+[fra]
+codepage=1252
+name=Taux de changement
+description=Montre la vitesse à laquelle le prix change.
+param_N_name=Nombre de périodes
+param_N_description=Le nombre de périodes.
+param_clrROC_name=Couleur de la ligne
+param_clrROC_description=La couleur de la ligne du taux de changement.
+param_widthROC_name=Largeur de la ligne
+param_widthROC_description=la largeur de la ligne de changement de taux
+param_styleROC_name=Style de la ligne
+param_styleROC_description=Le style de la ligne changement de taux
+
+[jpn]
+codepage=932
+name=変化率
+description=プライスの変化のスピードを表示します
+param_N_name=期間数
+param_N_description=期間数
+param_clrROC_name=ラインの色
+param_clrROC_description=変化率ラインの色
+param_widthROC_name=ラインの幅
+param_widthROC_description=Rate of Changeラインの幅
+param_styleROC_name=ラインのスタイル
+param_styleROC_description=Rate of Changeラインのスタイル
+
+[kor]
+codepage=949
+name=비율의 변화
+description=가격변동 속도를 보여줌
+param_N_name=기간의 개수
+param_N_description=기간의 개수
+param_clrROC_name=선 색상
+param_clrROC_description=비율 변화 선의 색상
+param_widthROC_name=
+param_widthROC_description=
+param_styleROC_name=
+param_styleROC_description=
+
+[rus]
+codepage=1251
+name=Скорость изменения
+description=Показывает скорость, с которой меняется цена.
+param_N_name=Количество периодов
+param_N_description=Количество периодов.
+param_clrROC_name=Цвет линии
+param_clrROC_description=Цвет линии скорости изменения.
+param_widthROC_name=Ширина линии
+param_widthROC_description=Ширина линии скорости изменения.
+param_styleROC_name=Стиль линии
+param_styleROC_description=Стиль линии скорости изменения.
+
+[tur]
+codepage=1254
+name=Değişim Oranı
+description=Fiyattaki değişim hızını gösterir.
+param_N_name=Periyot sayısı
+param_N_description=Periyot sayısı.
+param_clrROC_name=Çizgi Rengi
+param_clrROC_description=Değişim Oranı çizgi rengi.
+param_widthROC_name=Çizgi kalınlığı
+param_widthROC_description=Değişim Oranı çizgi kalınlığı.
+param_styleROC_name=Çizgi biçimi
+param_styleROC_description=Değişim Oranı çizgi biçimi.
+
+[ita]
+codepage=1252
+name=Rate of Change
+description=Mostra la velocità alla quale sta cambiando il prezzo
+param_N_name=Numero di periodi
+param_N_description=Il numero di periodi
+param_clrROC_name=Colore della linea
+param_clrROC_description=Il colore della linea del Rate of Change
+param_widthROC_name=Spessore della linea
+param_widthROC_description=Lo spessore della linea del Rate of Change
+param_styleROC_name=Stile della linea
+param_styleROC_description=Lo stile della linea del Rate of Change
+
+[heb]
+codepage=1255
+name=שיעור השינוי
+description=מציג את מהירות שינויי המחירים.
+param_N_name=מספר תקופות
+param_N_description=מספר התקופות.
+param_clrROC_name=צבע קו
+param_clrROC_description=צבע קו שיעור השינוי.
+param_widthROC_name=רוחב קו
+param_widthROC_description=רוחב קו שיעור השינוי.
+param_styleROC_name=סגנון קו
+param_styleROC_description=סגנון קו שיעור השינוי.
+
+[pol]
+codepage=1250
+name=Wskaźnik zmian
+description=Pokazuje szybkość zmian cen
+param_N_name=Liczba okresów
+param_N_description=Liczba okresów
+param_clrROC_name=Kolor linii
+param_clrROC_description=Kolor linii ROC.
+param_widthROC_name=Grubosć linii
+param_widthROC_description=Grubość linii ROC.
+param_styleROC_name=Styl linii
+param_styleROC_description=Styl linii ROC.
+
+[cze]
+codepage=1250
+name=Míra změny
+description=Ukazuje rychlost za kterou se mění cena.
+param_N_name=Počet period
+param_N_description=Počet period.
+param_clrROC_name=Barva linky
+param_clrROC_description=Barva linky pro míru změny.
+param_widthROC_name=Šíře linky
+param_widthROC_description=Šíře linky pro míru změny.
+param_styleROC_name=Styl linky
+param_styleROC_description=Styl linky pro míru změny.
+
+[por]
+codepage=1252
+name=Taxa de mudança
+description=Mostra a velocidade na qual o preço está mudando
+param_N_name=Número de períodos
+param_N_description=O número de períodos
+param_clrROC_name=Cor da linha
+param_clrROC_description=A cor da linha da taxa de mudança
+param_widthROC_name=Largura da linha
+param_widthROC_description=A largura da linha da taxa de mudança.
+param_styleROC_name=Estilo da linha
+param_styleROC_description=O estilo da linha da taxa de mudança.
+
+[gre]
+codepage=1253
+name=Rate of Change
+description=Δείχνει την ταχύτητα με την οποία η τιμή μεταβάλλεται.
+param_N_name=Αριθμός περιόδων
+param_N_description=Ο αριθμός των περιόδων.
+param_clrROC_name=Χρώμα γραμμής
+param_clrROC_description=Το χρώμα της γραμμής του Rate of Change
+param_widthROC_name=Πάχος γραμμής
+param_widthROC_description=Το πάχος της γραμμής Rate of Change
+param_styleROC_name=Στυλ γραμμής
+param_styleROC_description=Το στυλ της γραμμής Rate of Change
+

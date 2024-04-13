@@ -1,0 +1,273 @@
+﻿default=enu
+[enu]
+codepage=1252
+name=Accumulation/Distribution
+description=Measures supply and demand by determining whether investors are generally accumulating (buying) or distributing (selling) a certain instrument by identifying divergences between the instrument price and volume flow.
+param_Method_name=Calculation mode
+param_Method_description=The mode of Accumulation/Distribution calculation.
+string_alternative_Method_Classic=Classic
+string_alternative_Method_ClassicIncremental=Classic Incremental
+string_alternative_Method_TradeStation=Trade Station
+param_clrAD_name=Line color
+param_clrAD_description=The color of the Accumulation/Distribution line.
+param_widthAD_name=Line width
+param_widthAD_description=The width of the Accumulation/Distribution line.
+param_styleAD_name=Line style
+param_styleAD_description=The style of the Accumulation/Distribution line.
+assert_supportsVolume=The source must have volume.
+
+[rus]
+codepage=1251
+name=Накопление/распределение
+description=Измеряет спрос и предложение, определяя, что инвесторы делают в основном, накапливают (покупают) или распределяют (продают) определенный инструмент, определяя расхождения между ценой инструмента и объемом.
+param_Method_name=Метод расчета
+param_Method_description=Метод расчета накопления/распределения.
+string_alternative_Method_Classic=Классический
+string_alternative_Method_ClassicIncremental=Классический с приращением
+string_alternative_Method_TradeStation=Торговая станция
+param_clrAD_name=Цвет линии
+param_clrAD_description=Цвет линии накопления/распределения.
+param_widthAD_name=Ширина линии
+param_widthAD_description=Ширина линии накопления/распределения.
+param_styleAD_name=Стиль линии
+param_styleAD_description=Стиль линии накопления/распределения.
+assert_supportsVolume=Источник данных должен содержать объем.
+
+[ara]
+codepage=1256
+name=مؤشر التراكم/التوزيع AD
+description=يقيس العرض والطلب عن طريق تحديد ما إذا كان المستثمرون عموماً يراكمون أو يجمعون (الشراء) أو يوزعون (البيع) لأداة معينة عن طريق تحديد الاختلافات بين سعر الأداة وحجم التدفق.
+param_Method_name=طريقة الحساب
+param_Method_description=طريقة حساب مؤشر التراكم/التوزيع
+string_alternative_Method_Classic=الكلاسيكي
+string_alternative_Method_ClassicIncremental=الكلاسي التراكمي
+string_alternative_Method_TradeStation=محطة التداول
+param_clrAD_name=عرض الخط
+param_clrAD_description=لون خط مؤشر التراكم/التوزيع
+param_widthAD_name=عرض الخط
+param_widthAD_description=عرض خط مؤشر التراكم/التوزيع
+param_styleAD_name=نوع الخط
+param_styleAD_description=نوع خط مؤشر التراكم/التوزيع
+assert_supportsVolume=يجب أن يتوفر حجم للمصدر.
+
+[chs]
+codepage=936
+name=累积/分配
+description=通过观察价格与资金流量的分岐，来判断投资者普遍是买入或是卖出某一商品，从而来衡量供求
+param_Method_name=计算模式
+param_Method_description=累积/分配计算模式
+string_alternative_Method_Classic=典型
+string_alternative_Method_ClassicIncremental=典型增量
+string_alternative_Method_TradeStation=交易平台
+param_clrAD_name=线颜色
+param_clrAD_description=累积/分配线颜色
+param_widthAD_name=线宽度
+param_widthAD_description=累积/分配线宽度
+param_styleAD_name=线样式
+param_styleAD_description=累积/分配线样式
+assert_supportsVolume=来源必须要有价格量
+
+[cht]
+codepage=950
+name=累積/分配
+description=通過觀察價格與資金流量的分岐，來判斷投資者普遍是買入或是賣出某一商品，從而來衡量供求
+param_Method_name=計算模式
+param_Method_description=累積/分配計算模式
+string_alternative_Method_Classic=典型
+string_alternative_Method_ClassicIncremental=典型增量
+string_alternative_Method_TradeStation=交易平台
+param_clrAD_name=線顏色
+param_clrAD_description=累積/分配線顏色
+param_widthAD_name=線寬度
+param_widthAD_description=累積/分配線寬度
+param_styleAD_name=線樣式
+param_styleAD_description=累積/分配線樣式
+assert_supportsVolume=來源必須要有價格量
+
+[cze]
+codepage=1250
+name=A/D
+description=Měří nabídku a poptávku pomocí zjištění, zda převažuje prodejní, nebo nákupní tlak na daný instrument. Identifikuje divergence mezi cenou instrumentu a tokem objemu.
+param_Method_name=Způsob výpočtu A/D
+param_Method_description=Způsob výpočtu A/D
+string_alternative_Method_Classic=Klasický
+string_alternative_Method_ClassicIncremental=Klasický přírůstový
+string_alternative_Method_TradeStation=Trade Station
+param_clrAD_name=Barva linky
+param_clrAD_description=Barva linky A/D
+param_widthAD_name=Šíře linky
+param_widthAD_description=Šíře linky A/D
+param_styleAD_name=Styl linky
+param_styleAD_description=Styl linky A/D
+assert_supportsVolume=Zdrojová data neobsahují objem
+
+[deu]
+codepage=1252
+name=Akkumulation / Distribution
+description=Misst Angebot und Nachfrage indem bestimmt wird ob das Instrument akkumuliert (gekauft) oder abgestoßen (verkauft) wird, durch Identifikation der Divergenz zwischen Preis und Volumen
+param_Method_name=Berechnungsmodus
+param_Method_description=Der Modus der Akkumulation/Distribution Berechnung
+string_alternative_Method_Classic=Klassisch
+string_alternative_Method_ClassicIncremental=Klassisch inkrementell
+string_alternative_Method_TradeStation=Handelsstation
+param_clrAD_name=Linienfarbe
+param_clrAD_description=Die Farbe der Accumulation/Distribution Linie
+param_widthAD_name=Linienbreite
+param_widthAD_description=Die Breite der Accumulation/Distribution Linie
+param_styleAD_name=Linienstil
+param_styleAD_description=Der Stil der Accumulation/Distribution Linie
+assert_supportsVolume=Die Quelle muss Volumen haben
+
+[fra]
+codepage=1252
+name=Accumulation/Distribution
+description=Mesure l'offre et la demande en déterminant si les investisseurs sont en majorité en accumulation (achat) ou distribution (vente) d'un certain instrument en identifiant les divergences entre le prix de l'instrument et les volumes
+param_Method_name=Mode de calcul A/D
+param_Method_description=Le mode de calcul de Accumulation/Distribution
+string_alternative_Method_Classic=Classique
+string_alternative_Method_ClassicIncremental=Incrémentation classique
+string_alternative_Method_TradeStation=Station de trading
+param_clrAD_name=Couleur de la ligne
+param_clrAD_description=La couleur de la ligne Accumulation/Distribution
+param_widthAD_name=Largeur de la ligne
+param_widthAD_description=La largeur de la ligne Accumulation/Distribution
+param_styleAD_name=Style de la ligne
+param_styleAD_description=Le style de la ligne Accumulation/Distribution
+assert_supportsVolume=La source doit avoir un volume
+
+[gre]
+codepage=1253
+name=Accumulation/Distribution
+description=Μετρά την προσφορά και τη ζήτηση, καθορίζοντας εάν οι επενδυτές γενικώς αγοράζουν ή πωλούν ένα συγκεκιμένο προϊόν, αναγνωρίζοντας τις αποκλίσεις μεταξύ της τιμής του προϊόντος και του όγκου.
+param_Method_name=Μέθοδος Υπολογισμού
+param_Method_description=Η μέθοδος υπολογισμού του Accumulation/Distribution.
+string_alternative_Method_Classic=Classic
+string_alternative_Method_ClassicIncremental=Classic Incremental
+string_alternative_Method_TradeStation=Trade Station
+param_clrAD_name=Χρώμα γραμμής
+param_clrAD_description=Το χρώμα της γραμμής Accumulation/Distribution.
+param_widthAD_name=Πλάτος γραμμής
+param_widthAD_description=Το πλάτος της γραμμής Accumulation/Distribution.
+param_styleAD_name=Στυλ γραμμής
+param_styleAD_description=Το στυλ της γραμμής Accumulation/Distribution.
+assert_supportsVolume=Η πηγή πρέπει να έχει όγκο.
+
+[heb]
+codepage=1255
+name=צבירה\תפוצה
+description=מזהה צבירה (קנייה) או תפוצה (מכירה) של נכס מסוים על ידי השוואה בין מחיר הנכס לנפח.
+param_Method_name=מצב חישוב
+param_Method_description=מצב חישוב הצבירה או התפוצה.
+string_alternative_Method_Classic=קלאסי
+string_alternative_Method_ClassicIncremental=הוספה קלאסית
+string_alternative_Method_TradeStation=תחנת מסחר
+param_clrAD_name=צבע קו
+param_clrAD_description=הצבע של קו הצבירה\תפוצה.
+param_widthAD_name=רוחב הקו
+param_widthAD_description=הרוחב של קו הצבירה\תפוצה.
+param_styleAD_name=סגנון הקו
+param_styleAD_description=הסגנון של קו הצבירה\תפוצה.
+assert_supportsVolume=המקור חייב להיות בעל נפח.
+
+[ita]
+codepage=1252
+name=Accumulazione/Distribuzione
+description=Misure offerta e la domanda, determinando se gli investitori sono generalmente in accumulo (acquisto) o in distribuzione (vendita) di uno strumento certo identificando le divergenze tra il prezzo dello strumento e del flusso di volume.
+param_Method_name=Metodo di calcolo
+param_Method_description=Il metodo di calcolo di Accumulazione/Distribuzione
+string_alternative_Method_Classic=Classico
+string_alternative_Method_ClassicIncremental=Classico incrementale
+string_alternative_Method_TradeStation=Trade Station
+param_clrAD_name=Colore linea
+param_clrAD_description=Il colore della linea di Accumulazione/Distribuzione
+param_widthAD_name=Spessore linea
+param_widthAD_description=Lo spessore della linea di Accumulazione/Distribuzione
+param_styleAD_name=Stile linea
+param_styleAD_description=Lo stile della linea di Accumulazione/Distribuzione
+assert_supportsVolume=La sorgente deve avere un volume
+
+[jpn]
+codepage=932
+name=Accumulation(買い）/Distribution(売り）
+description=価格とボリュームの流れから転換点を見つけ出し買い優勢か売り優勢かを判断します。
+param_Method_name=計算モード
+param_Method_description=Accumulation/Distribution 計算モード
+string_alternative_Method_Classic=Classic
+string_alternative_Method_ClassicIncremental=Classic Incremental
+string_alternative_Method_TradeStation=Trade Station
+param_clrAD_name=ラインの色
+param_clrAD_description=Accumulation/Distribution ラインの色
+param_widthAD_name=ラインの幅
+param_widthAD_description=Accumulation/Distribution ラインの幅
+param_styleAD_name=ラインのスタイル
+param_styleAD_description=Accumulation/Distribution ラインのスタイル
+assert_supportsVolume=ボリュームが伴わないと無効です
+
+[tur]
+codepage=1254
+name=Alım/Dağıtım
+description=Enstrümanın fiyatı ve hacmi arasındaki sapmalardan yola çıkarak belli bir enstrümanın yatırımcılar tarafından alındığını mı yoksa dağıtıldığını (satıldığını) mı belirleyerek arz ve talebi ölçer
+param_Method_name=Hesaplama modu
+param_Method_description=Alım/Dağıtım hesaplama modu.
+string_alternative_Method_Classic=Klasik
+string_alternative_Method_ClassicIncremental=Klasik Artan
+string_alternative_Method_TradeStation=Trading Station
+param_clrAD_name=Çizgi rengi
+param_clrAD_description=Alım/Dağıtım çizgi rengi.
+param_widthAD_name=Çizgi kalınlığı
+param_widthAD_description=Alım/Dağıtım çizgi kalınlığı.
+param_styleAD_name=Çizgi biçimi
+param_styleAD_description=Alım/Dağıtım çizgi biçimi.
+assert_supportsVolume=Kaynak hacim olmalı.
+
+[pol]
+codepage=1250
+name=Akumulacja/Dystrybucja
+description=Mierzy podaż i popyt okreslając czy inwestorzy zwykle akumulują (kupują) czy dystrybuują (sprzedają) instrumenty poprzez identyfikację rozbieżności między ceną instumentu a przepływem wolumenu.
+param_Method_name=Metoda kalkulacji
+param_Method_description=Tryb kalkulacji Akumulacja/Dystrybucja.
+string_alternative_Method_Classic=Klasyczny
+string_alternative_Method_ClassicIncremental=Klasyczny Przyrostowy
+string_alternative_Method_TradeStation=Trade Station
+param_clrAD_name=Kolor lini
+param_clrAD_description=Kolor lini Akumulacja/Dystrybucja.
+param_widthAD_name=Szerokość lini
+param_widthAD_description=Szerokość Akumulacja/Dystrybucja.
+param_styleAD_name=Styl lini
+param_styleAD_description=Styl lini Akumulacja/Dystrybucja.
+assert_supportsVolume=Źródło musi posiadać wolumen
+
+[por]
+codepage=1252
+name=Acumulação/Distribuição
+description=Mede os níveis de oferta e procura ao determinar se os investidores estão a acumular de forma geral (a comprar) ou a distribuir (a vender) um determinado instrumento através da identificação de divergências entre o preço do instrumento e o fluxo de volume.
+param_Method_name=Modo de cálculo
+param_Method_description=O modo de cálculo Acumulação/Distribuição.
+string_alternative_Method_Classic=Clássico
+string_alternative_Method_ClassicIncremental=Clássico Incremental
+string_alternative_Method_TradeStation=Estação de Operações
+param_clrAD_name=Cor da linha
+param_clrAD_description=A cor da linha Acumulação/Distribuição.
+param_widthAD_name=Largura de linha
+param_widthAD_description=A largura da linha Acumulação/Distribuição.
+param_styleAD_name=Estilo de linha
+param_styleAD_description=O estilo da linha Acumulação/Distribuição.
+assert_supportsVolume=A origem tem de ter um volume.
+
+[esp]
+codepage=1252
+name=Acumulación/Distribución
+description=Suministra la oferta y la demanda mediante la decisión si los inversores acumulan ( compra) o distribuyen (venta) un instrumento determinado mediante la identificación de las divergencias entre el precio del instrumento y el flujo de volumen.
+param_Method_name=Modo de calculo
+param_Method_description=El Modo de calculo de Acumulación/Distribución
+string_alternative_Method_Classic=Clásico
+string_alternative_Method_ClassicIncremental=Incremento clásico
+string_alternative_Method_TradeStation=Estación de Operaciones
+param_clrAD_name=Color de la línea
+param_clrAD_description=El color de la línea de Acumulación/Distribución
+param_widthAD_name=Amplitud de la línea
+param_widthAD_description=La amplitud de la línea de Acumulación/Distribución
+param_styleAD_name=Estilo de la línea
+param_styleAD_description=El estilo de línea de Acumulación/Distribución
+assert_supportsVolume=El origen debe de tener volumen
+

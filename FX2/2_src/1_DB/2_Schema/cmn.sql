@@ -1,0 +1,8 @@
+USE [FX2_Demo]
+GO
+
+-- ã§í ÉÇÉWÉÖÅ[Éã ån
+CREATE SCHEMA [cmn] AUTHORIZATION [db_owner]
+GO
+
+

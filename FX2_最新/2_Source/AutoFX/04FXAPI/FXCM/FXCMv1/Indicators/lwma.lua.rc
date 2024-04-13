@@ -1,0 +1,235 @@
+﻿default=enu
+[enu]
+codepage=1252
+name=Linear Weighted Moving Average
+description=The linear average price for the last N periods.
+param_N_name=Number of periods
+param_N_description=The number of periods.
+param_clrLWMA_name=Line color
+param_clrLWMA_description=The color of the Linear Weighted Moving Average line.
+param_widthLWMA_name=Line width
+param_widthLWMA_description=The width of the Linear Weighted Moving Average line.
+param_styleLWMA_name=Line style
+param_styleLWMA_description=The style of the Linear Weighted Moving Average line.
+
+[ara]
+codepage=1256
+name=مؤشر معدل المتحرك المرجح الخطي
+description=المتوسط الخطي للسعر للفترات الاخيرة من N
+param_N_name=عدد الفترات
+param_N_description=عدد الفترات
+param_clrLWMA_name=لون الخط
+param_clrLWMA_description=لون خط مؤشر معدل المتحرك المرجح الخطي.
+param_widthLWMA_name=عرض الخط
+param_widthLWMA_description=عرض خط مؤشر معدل المتحرك المرجح الخطي.
+param_styleLWMA_name=نوع الخط
+param_styleLWMA_description=نوع خط مؤشر معدل المتحرك المرجح الخطي.
+
+[chs]
+codepage=936
+name=线性加权移动平均线
+description=过去N个周期线性加权平均价
+param_N_name=时期数目
+param_N_description=时期数目
+param_clrLWMA_name=线颜色
+param_clrLWMA_description=线性加权移动平均线线颜色
+param_widthLWMA_name=线宽
+param_widthLWMA_description=线性加权移动平均线的宽度
+param_styleLWMA_name=线样式
+param_styleLWMA_description=线性加权移动平均线样式
+
+[cht]
+codepage=950
+name=線性加權移動平均線
+description=過去N個週期線性加權平均價
+param_N_name=時期數目
+param_N_description=時期數目
+param_clrLWMA_name=線顏色
+param_clrLWMA_description=線性加權移動平均線線顏色
+param_widthLWMA_name=線寬
+param_widthLWMA_description=線性加權移動平均線的寬度
+param_styleLWMA_name=線樣式
+param_styleLWMA_description=線性加權移動平均線樣式
+
+[ctt]
+codepage=950
+name=線性加權移動平均線
+description=過去N個週期線性加權平均價
+param_N_name=時期數目
+param_N_description=時期數目
+param_clrLWMA_name=線顏色
+param_clrLWMA_description=線性加權移動平均線線顏色
+param_widthLWMA_name=
+param_widthLWMA_description=
+param_styleLWMA_name=
+param_styleLWMA_description=
+
+[deu]
+codepage=1252
+name=Linearer gewogener gleitender Durchschnitt
+description=Linearer Durchschnittspreis der letzten N Perioden
+param_N_name=Anzahl der Perioden
+param_N_description=Anzahl der Perioden
+param_clrLWMA_name=Linienfarbe
+param_clrLWMA_description=Farbe der Linear-Weighted-Moving-Average Linie
+param_widthLWMA_name=Linienbreite
+param_widthLWMA_description=Die Breite der Linear gewichteten Gleitender Durchschnittslinie
+param_styleLWMA_name=Linienstil
+param_styleLWMA_description=Der Stil der Linear gewichteten Gleitender Durchschnittslinie
+
+[esp]
+codepage=1252
+name=Media Móvil Lineal Ponderada
+description=El promedio de precio lineal por los últimos N periodos
+param_N_name=Número de periodos
+param_N_description=El número de periodos
+param_clrLWMA_name=Color de la línea
+param_clrLWMA_description=El color de la línea del promedio de precio linear
+param_widthLWMA_name=Amplitud de la línea
+param_widthLWMA_description=La amplitud de la línea del promedio de precio linear.
+param_styleLWMA_name=Estilo de la línea
+param_styleLWMA_description=El estilo de la línea promedio de precio linear.
+
+[fra]
+codepage=1252
+name=Moyenne mobile linéaire pondérée
+description=La moyenne linéaire du prix pour les dernières N périodes.
+param_N_name=Nombre de périodes
+param_N_description=Le nombre de périodes.
+param_clrLWMA_name=Couleur de la ligne
+param_clrLWMA_description=La couleur de la ligne de la moyenne mobile linéaire pondérée.
+param_widthLWMA_name=Largeur de la ligne
+param_widthLWMA_description=La largeur de la ligne de la moyenne mobile linéaire pondérée
+param_styleLWMA_name=Style de la ligne
+param_styleLWMA_description=Le style de la ligne de la moyenne mobile linéaire pondérée
+
+[jpn]
+codepage=932
+name=リニア加重移動平均線
+description=最後の期間Nのリニア平均プライス
+param_N_name=期間数
+param_N_description=期間数
+param_clrLWMA_name=ラインの色
+param_clrLWMA_description=リニア加重移動平均線ラインの色
+param_widthLWMA_name=ラインの幅
+param_widthLWMA_description=Linear Weighted Moving Averageラインの幅
+param_styleLWMA_name=ラインのスタイル
+param_styleLWMA_description=Linear Weighted Moving Averageラインのスタイル
+
+[kor]
+codepage=949
+name=선형 가중이동평균 (Linear Weighted Moving Average)
+description=선형 가중이동평균 (Linear Weighted Moving Average)
+param_N_name=period의 개수
+param_N_description=period의 개수
+param_clrLWMA_name=선 색상
+param_clrLWMA_description=선 색상
+param_widthLWMA_name=
+param_widthLWMA_description=
+param_styleLWMA_name=
+param_styleLWMA_description=
+
+[rus]
+codepage=1251
+name=Линейно-взвешенное скользящее среднее
+description=Рассчитывает линейную среднюю цену за последние N периодов.
+param_N_name=Количество периодов
+param_N_description=Количество периодов.
+param_clrLWMA_name=Цвет линии
+param_clrLWMA_description=Цвет линии линейно-взвешенного скользящего среднего.
+param_widthLWMA_name=Ширина линии
+param_widthLWMA_description=Ширина линии линейно-взвешенного скользящего среднего.
+param_styleLWMA_name=Стиль линии
+param_styleLWMA_description=Стиль линии линейно-взвешенного скользящего среднего.
+
+[tur]
+codepage=1254
+name=Doğrusal Ağırlıklı Hareketli Ortalama
+description=Son N periyot için doğrusal ortalama fiyat.
+param_N_name=Periyot sayısı
+param_N_description=Periyot sayısı.
+param_clrLWMA_name=Çizgi Rengi
+param_clrLWMA_description=Doğrusal Ağırlıklı Hareketli Ortalama çizgi rengi.
+param_widthLWMA_name=Çizgi kalınlığı
+param_widthLWMA_description=Doğrusal Ağırlıklı Hareketli Ortalama çizgi kalınlığı.
+param_styleLWMA_name=Çizgi biçimi
+param_styleLWMA_description=Doğrusal Ağırlıklı Hareketli Ortalama çizgi biçimi.
+
+[ita]
+codepage=1252
+name=Media mobile lineare ponderata
+description=Il prezzo medio lineare per gli ultimi N periodi
+param_N_name=Numero di periodi
+param_N_description=Il numero di periodi
+param_clrLWMA_name=Colore della linea
+param_clrLWMA_description=Il colore della linea della Linear Weighted Moving Average
+param_widthLWMA_name=Spessore della linea
+param_widthLWMA_description=Lo spessore della linea Linear Weighted Moving Average
+param_styleLWMA_name=Stile della linea
+param_styleLWMA_description=Lo stile della linea Linear Weighted Moving Average
+
+[heb]
+codepage=1255
+name=ממוצע נע לינארי משוקלל
+description=ממוצע המחיר הליניארי של N תקופות.
+param_N_name=מספר תקופות
+param_N_description=מספר התקופות.
+param_clrLWMA_name=צבע קו
+param_clrLWMA_description=צבע הקו של ממוצע נע לינארי משוקלל
+param_widthLWMA_name=רוחב קו
+param_widthLWMA_description=רוחב קו ממוצע נע לינארי משוקלל.
+param_styleLWMA_name=סוג קו
+param_styleLWMA_description=סוג קו ממוצע נע לינארי משוקלל.
+
+[pol]
+codepage=1250
+name=Liniowo ważona średnia krocząca
+description=Średnia ważona liniowo cena z ostatnich n okresów
+param_N_name=Liczba okresów
+param_N_description=Liczba okresów
+param_clrLWMA_name=Kolor linii
+param_clrLWMA_description=Kolor linii liniowo ważonej średniej kroczącej
+param_widthLWMA_name=Grubość linii
+param_widthLWMA_description=Grubość linii liniowo ważonej średniej kroczącej.
+param_styleLWMA_name=Styl linii
+param_styleLWMA_description=Styl linii liniowo ważonej średniej kroczącej.
+
+[cze]
+codepage=1250
+name=Lineární vážený klouzavý průměr
+description=Lineární průměr cen posledních N období.
+param_N_name=Počet period
+param_N_description=Počet period.
+param_clrLWMA_name=Barva linky
+param_clrLWMA_description=Barva linky lineárního váženého klouzavého průměru
+param_widthLWMA_name=Šíře linky
+param_widthLWMA_description=Šíře linky lineárního váženého klouzavého průměru.
+param_styleLWMA_name=Styl linky
+param_styleLWMA_description=Styl linky lineárního váženého klouzavého průměru.
+
+[por]
+codepage=1252
+name=Media Móvel Linear Ponderada
+description=A média de preço linear dos últimos N períodos
+param_N_name=Número de períodos
+param_N_description=O número de períodos
+param_clrLWMA_name=Cor da linha
+param_clrLWMA_description=A cor da linha da Média Móvel Linear Ponderada.
+param_widthLWMA_name=Largura da linha
+param_widthLWMA_description=A largura da linha da Média Móvel Linear Ponderada.
+param_styleLWMA_name=Estilo da linha
+param_styleLWMA_description=O estilo da linha da Média Móvel Linear Ponderada.
+
+[gre]
+codepage=1253
+name=Linear Weighted Moving Average
+description=Η γραμμική μέση τιμή των τελευταίων Ν περιόδων.
+param_N_name=Αριθμός περιόδων
+param_N_description=Ο αριθμός των περιόδων.
+param_clrLWMA_name=Χρώμα γραμμής
+param_clrLWMA_description=Το χρώμα της γραμμής του Linear Weighted Moving Average.
+param_widthLWMA_name=Πάχος γραμμής
+param_widthLWMA_description=Το πάχος της γραμμής του Linear Weighted Moving Average
+param_styleLWMA_name=Στυλ γραμμής
+param_styleLWMA_description=Το στυλ της γραμμής του Linear Weighted Moving Average
+

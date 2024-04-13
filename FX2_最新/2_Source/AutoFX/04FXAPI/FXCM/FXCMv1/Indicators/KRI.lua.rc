@@ -1,0 +1,235 @@
+﻿default=enu
+[enu]
+codepage=1252
+name=Kairi Relative Index
+description=Kairi Relative Index.
+param_N_name=Number of periods
+param_N_description=The number of periods.
+param_clrKRI_name=Line color
+param_clrKRI_description=The color of Kairi Relative Index line.
+param_widthKRI_name=Line width
+param_widthKRI_description=The width of Kairi Relative Index line.
+param_styleKRI_name=Line style
+param_styleKRI_description=The style of Kairi Relative Index line.
+
+[ara]
+codepage=1256
+name=مؤشر كياري النسبي
+description=مؤشر كياري النسبي
+param_N_name=عدد الفترات
+param_N_description=عدد الفترات
+param_clrKRI_name=لون الخط
+param_clrKRI_description=لون خط مؤشر كياري النسبي
+param_widthKRI_name=عرض الخط
+param_widthKRI_description=عرض خط مؤشر كياري النسبي
+param_styleKRI_name=نوع الخط
+param_styleKRI_description=نوع خط مؤشر كياري النسبي
+
+[chs]
+codepage=936
+name=乖离相对指数
+description=乖离相对指数
+param_N_name=时期数目
+param_N_description=时期数目
+param_clrKRI_name=线颜色
+param_clrKRI_description=乖离相对指数线颜色
+param_widthKRI_name=线宽
+param_widthKRI_description=乖离相对指数线的宽度
+param_styleKRI_name=线样式
+param_styleKRI_description=乖离相对指数线样式
+
+[cht]
+codepage=950
+name=乖離相對指數
+description=乖離相對指數
+param_N_name=時期數目
+param_N_description=時期數目
+param_clrKRI_name=線顏色
+param_clrKRI_description=乖離相對指數線顏色
+param_widthKRI_name=線寬
+param_widthKRI_description=乖離相對指數線的寬度
+param_styleKRI_name=線樣式
+param_styleKRI_description=乖離相對指數線樣式
+
+[ctt]
+codepage=950
+name=乖離相對指數
+description=乖離相對指數
+param_N_name=時期數目
+param_N_description=時期數目
+param_clrKRI_name=線顏色
+param_clrKRI_description=乖離相對指數線顏色
+param_widthKRI_name=
+param_widthKRI_description=
+param_styleKRI_name=
+param_styleKRI_description=
+
+[deu]
+codepage=1252
+name=Kairi Relative Index
+description=Kairi Relative Index
+param_N_name=Anzahl der Perioden
+param_N_description=Anzahl der Perioden
+param_clrKRI_name=Linienfarbe
+param_clrKRI_description=Farbe der Kairi-Relative-Index Linie.
+param_widthKRI_name=Linienbreite
+param_widthKRI_description=Die Breite der Kairi Relativen Index Linie
+param_styleKRI_name=Linienstil
+param_styleKRI_description=Der Stil der Kairi Relativen Index Linie
+
+[esp]
+codepage=1252
+name=Índice relativo Kairi
+description=Índice relativo Kairi
+param_N_name=Número de Periodos
+param_N_description=El número de periodos
+param_clrKRI_name=Color de la línea
+param_clrKRI_description=El color de la línea del índice relativo Kairi
+param_widthKRI_name=Amplitud de la línea
+param_widthKRI_description=La amplitud de la línea del índice relativo Kairi.
+param_styleKRI_name=Estilo de línea
+param_styleKRI_description=El estilo de la línea del índice relativo Kairi.
+
+[fra]
+codepage=1252
+name=Indice relatif de Kairi
+description=Indice relatif de Kairi.
+param_N_name=Nombre de périodes
+param_N_description=Le nombre de périodes.
+param_clrKRI_name=Couleur de la ligne
+param_clrKRI_description=La couleur de la ligne de l'indice relatif de Kairi.
+param_widthKRI_name=Largeur de la ligne
+param_widthKRI_description=La largeur de la ligne de l'indice relatif Kairi
+param_styleKRI_name=Style de la ligne
+param_styleKRI_description=Le style de la ligne de l'indice relatif Kairi
+
+[jpn]
+codepage=932
+name=乖離相対指数
+description=乖離相対指数
+param_N_name=期間数
+param_N_description=期間数
+param_clrKRI_name=ラインの色
+param_clrKRI_description=乖離相対指数ラインの色
+param_widthKRI_name=ラインの幅
+param_widthKRI_description=Kairi Relative Indexラインの幅
+param_styleKRI_name=ラインのスタイル
+param_styleKRI_description=Kairi Relative Index ラインのスタイル
+
+[kor]
+codepage=949
+name=KRI (Kairi Relative Index)
+description=Kairi Relative Index
+param_N_name=기간의 개수
+param_N_description=기간의 개수
+param_clrKRI_name=선 색상
+param_clrKRI_description=Kairi Relative Index 선의 색상
+param_widthKRI_name=
+param_widthKRI_description=
+param_styleKRI_name=
+param_styleKRI_description=
+
+[rus]
+codepage=1251
+name=Относительный индекс Каири
+description=Относительный индекс Каири.
+param_N_name=Количество периодов
+param_N_description=Количество периодов.
+param_clrKRI_name=Цвет линии
+param_clrKRI_description=Цвет линии относительного индекса Каири.
+param_widthKRI_name=Ширина линии
+param_widthKRI_description=Ширина линии относительного индекса Каири.
+param_styleKRI_name=Стиль линии
+param_styleKRI_description=Стиль линии относительного индекса Каири.
+
+[tur]
+codepage=1254
+name=Kairi Göreli Endeksi
+description=Kairi Göreli Endeksi.
+param_N_name=Periyot sayısı
+param_N_description=Periyot sayısı.
+param_clrKRI_name=Çizgi Rengi
+param_clrKRI_description=Kairi Göreli Endeksi çizgi rengi.
+param_widthKRI_name=Çizgi kalınlığı
+param_widthKRI_description=Kairi Göreli Endeksi çizgi kalınlığı.
+param_styleKRI_name=Çizgi biçimi
+param_styleKRI_description=Kairi Göreli Endeksi çizgi biçimi.
+
+[ita]
+codepage=1252
+name=Kairi Relative Index
+description=Kairi Relative Index
+param_N_name=Numero di periodi
+param_N_description=Il numero di periodi
+param_clrKRI_name=Colore della linea
+param_clrKRI_description=Il colore della linea di Kairi Relative Index
+param_widthKRI_name=Spessore della linea
+param_widthKRI_description=Lo spessore della linea Kairi Relative Index
+param_styleKRI_name=Stile della linea
+param_styleKRI_description=Lo stile della linea Kairi Relative Index
+
+[heb]
+codepage=1255
+name=המדד היחסי של קיירי
+description=המדד היחסי של קיירי.
+param_N_name=מספר התקופות
+param_N_description=מספר התקופות.
+param_clrKRI_name=צבע הקו
+param_clrKRI_description=צבע הקו של המדד היחסי של קיירי.
+param_widthKRI_name=רוחב קו
+param_widthKRI_description=רוחב קו המדד היחסי של קיירי.
+param_styleKRI_name=סוג קו
+param_styleKRI_description=סוג קו המדד היחסי של קיירי.
+
+[pol]
+codepage=1250
+name=Kairi Relative Index
+description=Kairi Relative Index
+param_N_name=Liczba okresów
+param_N_description=Liczba okresów
+param_clrKRI_name=Kolor linii
+param_clrKRI_description=Kolor linii Kairi Relative Index.
+param_widthKRI_name=Grubość linii
+param_widthKRI_description=Grubość linii Kairi Relative Index
+param_styleKRI_name=Styl linii
+param_styleKRI_description=Styl linii Kairi Relative Index
+
+[cze]
+codepage=1250
+name=Kairi Index
+description=Kairi Index.
+param_N_name=Počet period
+param_N_description=Počet period.
+param_clrKRI_name=Barva linky
+param_clrKRI_description=Barva grafu Kairi Relative Index
+param_widthKRI_name=Šíře linky
+param_widthKRI_description=Šíře linky Kairi Relative Index.
+param_styleKRI_name=Styl linky
+param_styleKRI_description=Styl linky Kairi Relative Index.
+
+[por]
+codepage=1252
+name=Índice Relativo Kairi
+description=Índice Relativo Kairi
+param_N_name=Número de Períodos
+param_N_description=O número de períodos
+param_clrKRI_name=Cor da linha
+param_clrKRI_description=A cor da linha do Índice Relativo Kairi.
+param_widthKRI_name=Largura da linha
+param_widthKRI_description=A largura da linha do Índice Relativo Kairi.
+param_styleKRI_name=Estilo da linha
+param_styleKRI_description=O estilo da linha do Índice Relativo Kairi.
+
+[gre]
+codepage=1253
+name=Ταλαντωτής Kairi Relative
+description=Kairi Relative Index
+param_N_name=Αριθμός περιόδων
+param_N_description=Ο αριθμός των περιόδων.
+param_clrKRI_name=Χρώμα γραμμής
+param_clrKRI_description=Το χρώμα της γραμμής του Σχετικού Δείκτη Kairi.
+param_widthKRI_name=Πάχος γραμμής
+param_widthKRI_description=Το πάχος της γραμμής του ταλαντωτή Kairi Relative
+param_styleKRI_name=Στυλ γραμμής
+param_styleKRI_description=Το στυλ της γραμμής του ταλαντωτή Kairi Relative
+

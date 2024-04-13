@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="shift_jis" ?>
+<?mso-application progid="Excel.Sheet" ?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40" >
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office" />
+<Styles >
+<Style ss:ID="Default" ss:Name="Normal" >
+<Borders />
+<Interior />
+<NumberFormat />
+<Protection />
+<Alignment ss:Vertical="Bottom" />
+<Font />
+</Style>
+<Style ss:ID="s21" >
+<NumberFormat ss:Format="yyyy\/MM\/dd HH:mm:ss" />
+</Style>
+<Style ss:ID="s23" >
+<NumberFormat ss:Format="0" />
+</Style>
+</Styles>
+<Worksheet ss:Name="Sheet1" >
+<Table ss:ExpandedColumnCount="9" ss:ExpandedRowCount="39" >
+<Row >
+<Cell >
+<Data ss:Type="String" >日時</Data>
+</Cell>
+<Cell >
+<Data ss:Type="String" >USDOLLAR(始値, 買い)</Data>
+</Cell>
+<Cell >
+<Data ss:Type="String" >USDOLLAR(高値, 買い)</Data>
+</Cell>
+<Cell >
+<Data ss:Type="String" >USDOLLAR(安値, 買い)</Data>
+</Cell>
+<Cell >
+<Data ss:Type="String" >USDOLLAR(終値, 買い)</Data>
+</Cell>
+<Cell >
+<Data ss:Type="String" >USDOLLAR(始値, 売り)</Data>
+</Cell>
+<Cell >
+<Data ss:Type="String" >USDOLLAR(高値, 売り)</Data>
+</Cell>
+<Cell >
+<Data ss:Type="String" >USDOLLAR(安値, 売り)</Data>
+</Cell>
+<Cell >
+<Data ss:Type="String" >USDOLLAR(終値, 売り)</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2014-02-01T07:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10716</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10726</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10669</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10679</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10708</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10724</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10667</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10677</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2014-01-01T07:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10656</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10758</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10621</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10716</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10653</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10756</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10619</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10708</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2013-12-01T07:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10627</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10729</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10567</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10656</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10621</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10727</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10565</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10653</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2013-11-01T06:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10514</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10663</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10495</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10627</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10511</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10661</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10492</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10621</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2013-10-01T06:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10530</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10554</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10357</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10514</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10528</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10552</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10354</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10511</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2013-09-01T06:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10799</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10811</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10473</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10530</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10791</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10809</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10471</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10528</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2013-08-01T06:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10805</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10901</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10648</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10799</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10802</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10897</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10646</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10791</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2013-07-01T06:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10849</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >11011</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10696</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10805</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10844</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >11009</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10693</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10802</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2013-06-01T06:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10773</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10865</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10472</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10849</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10768</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10863</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10469</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10844</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2013-05-01T06:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10429</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10879</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10402</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10773</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10426</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10877</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10399</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10768</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2013-04-01T06:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10466</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10588</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10394</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10429</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10460</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10586</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10391</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10426</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2013-03-01T07:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10438</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10578</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10416</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10466</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10434</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10576</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10413</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10460</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2013-02-01T07:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10157</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10449</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10142</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10438</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10153</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10444</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10139</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10434</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2013-01-01T07:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10039</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10200</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10003</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10157</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10036</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10198</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10000</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10153</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2012-12-01T07:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9985</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10067</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9920</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10039</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9983</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10065</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9917</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10036</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2012-11-01T06:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9910</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10073</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9903</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9985</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9907</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10071</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9901</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9983</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2012-10-01T06:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9863</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9979</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9834</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9910</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9857</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9977</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9832</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9907</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2012-09-01T06:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9995</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10048</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9743</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9863</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9985</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10046</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9740</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9857</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2012-08-01T06:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10020</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10098</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9940</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9995</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10017</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10096</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9938</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9985</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2012-07-01T06:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10070</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10226</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10003</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10020</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10063</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10223</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10000</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10017</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2012-06-01T06:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10248</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10325</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10027</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10070</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10242</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10323</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10025</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10063</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2012-05-01T06:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9828</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10272</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9828</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10248</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9826</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10270</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9825</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10242</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2012-04-01T06:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9957</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10049</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9818</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9828</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9954</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10047</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9816</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9826</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2012-03-01T07:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9831</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10099</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9798</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9957</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9829</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10097</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9795</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9954</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2012-02-01T07:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9769</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9898</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9675</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9831</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9765</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9896</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9672</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9829</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2012-01-01T07:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9953</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10059</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9726</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9769</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9949</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10054</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9723</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9765</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2011-12-01T07:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9840</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10091</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9789</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9953</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9835</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10089</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9786</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9949</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2011-11-01T06:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9658</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10076</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9653</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9840</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9656</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10074</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9650</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9835</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2011-10-01T06:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9996</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10137</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9446</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9658</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9994</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10134</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9443</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9656</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2011-09-01T06:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9443</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10013</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9440</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9996</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9438</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10011</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9433</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9994</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2011-08-01T06:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9355</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9684</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9325</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9443</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9351</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9681</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9322</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9438</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2011-07-01T06:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9575</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9759</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9334</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9355</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9571</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9757</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9331</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9351</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2011-06-01T06:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9573</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9753</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9454</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9575</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9569</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9750</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9452</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9571</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2011-05-01T06:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9371</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9766</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9338</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9573</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9369</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9764</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9336</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9569</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2011-04-01T06:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9816</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9889</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9355</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9371</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9814</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9887</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9353</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9369</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2011-03-01T07:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9838</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9974</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9726</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9816</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9836</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9972</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9724</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9814</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2011-02-01T07:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9960</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10065</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9832</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9838</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9958</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10063</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9830</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9836</Data>
+</Cell>
+</Row>
+<Row >
+<Cell ss:StyleID="s21" >
+<Data ss:Type="DateTime" >2011-01-01T07:00:00</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10005</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10255</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9941</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9960</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10003</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >10253</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9939</Data>
+</Cell>
+<Cell ss:StyleID="s23" >
+<Data ss:Type="Number" >9958</Data>
+</Cell>
+</Row>
+</Table>
+</Worksheet>
+</Workbook>

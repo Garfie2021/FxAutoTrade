@@ -1,0 +1,785 @@
+//////////////////////////////////////////////////////////////////
+
+                     FX WIN32 COM TRADERS API
+                        CHANGES HISTORY
+
+//////////////////////////////////////////////////////////////////
+
++ Added feature
+- Fixed bug
+! Other changes
+
+21/04/2014
+! Added a SSL instruction to Documentation\ICTS\ssl.txt
+
+14/04/2014 Version: 6.0.2
++ Fix a memory leak
+
+03/12/2013 Version: 6.0.1
++ Added new property IFxRules.UseUsablePayback
++ Added new function IFXAccount.GetInterestOnUsableMargin
++ Change in the  Delphi example for see the new property and function
+
+26/07/2013 Version: 6.0.0
++ Added c++ example
+
+17/05/2013 Version: 5.0.4
++ Added new propertie FxPair.NonTradingIntervals
++ Added FxNonTradingIntervalList, FxNonTradingInterval. See propertie FxPair.NonTradingIntervals
+! Change in the loading server time 
+
+15/04/2013 Version: 5.0.3
++ Added new properties: FxPair.Currency1, FxPair.Currency2.
+
+12/02/2013 Version: 5.0.2
++ Added new order type ot_CloseFailed
+! Change a documentation
+
+8/1/2013 Version 5.0.1
+! Changes in the loading order parameters
+! Changes in the loading trades parameters
+! Changes in the protocol
+! Deprecated FxComApiTrader.CreateEntryOCOOrders
++ Added new method FxComApiTrader.CreateOCOOrders
++ Added new method FxComApiTrader.CreateGroupOCOOrders
+
+16/11/2012 Version 5.0.0
+! updated support for 11.0 server
++ Added new method FxComApiTrader.ChangeOrderAmount(string OrderId, double LotCount, FxComApiTrader.FxLotList Lots)
++ Added new method FxPair.UsePercentPremium()
+! Deprecated FxComApiTrader.IFxTraderApi.LastError
+! Deprecated FxComApiTrader.IFxTraderApi.CloseTrade2
+! Deprecated FxComApiTrader.IFxTraderApi.CreateInitOrder2
+! Deprecated FxComApiTrader.IFxTraderApi.HedgeTrade2
+! Deprecated FxComApiTrader.IFxMarginCallMessage.MarginTime
+! Chanches in the protocol
+
+25/05/2012 Version 4.0.2
+! updated support for 10.9 server
+
+27/04/2012 Version 4.0.1
+!updated server TimeZone info
+
+16/03/2012 Version 4-0-0
++ add commands: to close trade and conditions on trade for fifo system
+
+10/18/2011 Version 3.0.34
+-Real links in logs masked
+
+22/09/2011 Version 3.0.33
+- problem with with proxy server solved
+
+08/08/2011 Version 3.0.32
+- memory leak fixed
+- problem with TCP connection timeout solved
+
+07/21/2011 Version 3.0.31
+! netpl fix
+
+07/13/2011 Version 3.0.30
+! netpl fix
+
+06/30/2011 Version 3.0.29
+! network library updated
+
+06/16/2011 Version 3.0.28
+! network library updated
+
+03/29/2011 Version 3.0.27
+- NetPL calculation return zero for first call
+
+02/22/2011 Version 3.0.26
+! Change functionality comments (add new parameter: FxCommentsType)
+
+02/17/2011 Version 3.0.25
+- fix memory leaks
+
+02/11/2011 Version 3.0.24
+- fix deadlock during reconnect
+- fix NetChange exception during reconnect
++ add functionality AddComments, RemoveComments on trade and orders
+
+01/10/2011 Version 3.0.23
++ added new method GetOriginalTradeID(out Value: WideString): FxLogic; 
+- fixed Wrong order of the sending of events.[#ICTS-12886]
+
+01/04/2011 Version 3.0.22
++ added new method AcceptRejectedOrder2(const OrderID: WideString; Range: Integer): IFxError;
+- fixed wrong net P/L due a huge amount of orders [#ICTS-12802]
+
+12/24/2010 Version 3.0.21
++ added support for functionality "Bid and Ask value for all order modifications/transaction"[#ICTS-12623]
++ added the function for support of the percent DA[#ICTS-12446]
++ added the functionality "Close Charge as Percent of Notional Value"[#ICTS-12365]
+
+11/15/2010 Version 3.0.20
+- Wrong swaps valie on closing trade fixed
+
+10/07/2010 Version 3.0.19
+- Entry Orders rate value fixed
+
+10/07/2010 Version 3.0.18
+- Invalid values of NetChange field on event call fixed
+
+10/06/2010 Version 3.0.17
+- Invalid values of NetChange field after end/start of Trading day fixed
+- Invalid Used margin for cross pair fixed
+
+09/09/2010 Version: 3.0.16
++ Logoff callback added
+
+09/05/2010 Version: 3.0.15
+-Partial close PL fixed
+
+08/23/2010 Version: 3.0.14
++ PremiumBuy/Sell added
++ NotionalCloseCrossRate and NotionalOpenCrossRate added for closed trades
++ Internal changes to identify trades sent via API
+
+
+08/02/2010 Version: 3.0.13
++ Add Transaction type ZERO_ADJUST [#1304]
++ Memory leaks on reconnect fixed
+
+06/29/2010 Version: 3.0.12
+- fix PL calculation for partial close trades [#ICTS-9987]
+- fix getAccountsHistory
+
+06/23/2010 Version: 3.0.11
+- PipCost fixed
+
+06/14/2010 Version: 3.0.10
+- MaxLotCount fixed
+
+06/02/2010 Version: 3.0.9
++Trade.GetReason() added
+
+05/11/2010 Version: 3.0.8
+- Memory leaks fixed
+- Close Charge updates fixed
+- Empty pairs list after reconnect fixed
+
+
+04/20/2010 Version: 3.0.7
+- Hang-up on reconnect after weekend fixed
+- FxPair.PairType fixed
+- Income field added to tramsaction notifications
+
+
+03/30/2010 Version: 3.0.6
+- Memory leak fixed (API-1099)
+# Autoreconenct after  session expiration added
+# Feed reconnect procedure improved
+
+02/28/2010 Version: 3.0.5
+- Feed recconnect fixed (API-1084)
+
+02/22/2010 Version: 3.0.4
++ Configurable  Reconnect Interval added
+
+02/09/2010 Version: 3.0.3
+- reread "fresh" rates on reconnecting to feed server
+
+02/01/2010 Version: 3.0.2
+-deadlock on reconnect fixed
+-feed status events fixed
+#crash log is limited to 10 last crashes
+
+01/22/2010 Version: 3.0.1
++ Do not show Eurekalog dialog on crash
+- deadlock in CheckUser fixed
+
+01/07/2010 Version: 3.0.0
++ API ID added
++ Trading and Feed data streams separated
+
+10/30/2009 Version: 2.3.0
++API ID added to Logon
+
+10/30/2009 Version: 2.2.46
++ Added instruments groups support     [#ICTS-6608]
+- Fixed Open position time field value [#API-913]
+
+10/29/2009 Version: 2.2.45
+- Fixed API Exception in Release method [#ICTS-6627]
+- Fixed API sends netPL without closeCharge [#ICTS-6660]
+
+10/19/2009 Version: 2.2.44
+! Other IFxAccount.TraderRange is deprecated, use DefaultAmount instead [#ICTS-0]
+! Other LastError is deprecated and can be removed in the future [#ICTS-0]
+- Fixed Reconnection problems in the api on code ORA-20987 [#ICTS-6556]
+- Fixed NetPL calculation for cross closing rates [#ICTS-6291]
+
+09/29/2009 Version: 2.2.43
++ Added FxConnectionStatus.cs_Connecting [#ICTS-0]
+- Fixed server_push param for messages [#ICTS-6227]
+- Other et_ReconnectError is deprecated and should not be used [#ICTS-0]
+- Fixed Logoff problem [#ICTS-6314]
+- Fixed corrupt in Logoff [#ICTS-6295]
++ Added marginCallMessage message in ApiListener [#API-828]
+
+08/25/2009 Version: 2.2.42
+- Fixed "Bad XML" error [#ICTS-6139]
+
+08/25/2009 Version: 2.2.41
++ Added IFxTrade.StopOrder and IFxTrade.LimitOrder properties [#API-789]
+
+08/03/2009 Version: 2.2.40
+- Fixed Bad XML error [#API-775]
+! Other deprecated OnMarginCallMessage was removed [#ICTS-0]
+
+07/09/2009 Version: 2.2.39
+- Fixed MultiplierStep method [#API-762]
+- Fixed use Pairs Cond_Distance instead of Account and Rules (for Server ver. 10.5 only) [#ICTS-5194]
++ Added Error code 20205 to api doc [#ICTS-5367]
+
+06/30/2009 Version: 2.2.38
+- Fixed reconnection problems [#API-750]
+! Other (for Server ver. 10.5 only) use Pairs Cond_Distance instead of Account and Rules [#ICTS-5194]
++ Added New error code: "20197" added to api doc [#ICTS-4907]
+
+06/22/2009 Version: 2.2.37
+-Fixed '01/01/1900 00:00:00' is not a valid date and time [#API-756]
+
+06/16/2009 Version: 2.2.36
+-Fixed IFxOrder.Rate field [#API-749]
+-Fixed Memory leaks at reconnections [#API-750]
+
+05/07/2009 Version: 2.2.35
++Added IFxPair.MaxLotCount [#API-732]
+-Fixed Callbacks problems at using native C++ hooks: __hook [#API-721]
+
+04/14/2009 Version: 2.2.34
+- Fixed Access violation error [#API-703]
+- Fixed .NET System.Runtime.InteropServices.COMException [#API-703]
+
+04/07/2009 Version: 2.2.33
+- Fixed reconnection problems[#API-705]
+
+04/06/2009 Version: 2.2.32
++ Added properties config file(actforex.properties from current path)
+to allow user change entry/server url's w/o recompiling applications[#ICTS-4858].
+
+03/31/2009 Version: 2.2.31
+- Fixed reconnection started at twice login calling [#API-0]
+
+03/31/2009 Version: 2.2.30
+- Fixed icorrect IFxTrade.StopRate value [#API-701]
+
+03/30/2009 Version: 2.2.29
+- Fixed CreateInitOrder doesn't work with big count of lot [#API-699]
+
+03/27/2009 Version: 2.2.28
+- Fixed Instrument absent error message [#API-697]
+
+03/25/2009 Version: 2.2.27
+-Fixed using CreateInitOrderSL for group accounts [#API-694].
+!!! WARNING !!!
+Interface of CreateInitOrderSL was changed, so please put GroupId and Lots params to null for backward compatibility
+
+03/24/2009 Version: 2.2.26
++ Added ot_MarginFailed order type to FxOrderType enum.
+
+03/24/2009 Version: 2.2.25
++ Added PairType property to IFxPair interface [#API-696]
+
+03/23/2009 Version: 2.2.24
+-Fixed The value for field "open_charge" is empty [#API-692]
+
+03/19/2009 Version: 2.2.23
+-Fixed send messages only when online [#API-0]
+
+03/19/2009 Version: 2.2.22
+-Fixed dead lock at logon [#API-690]
+
+03/18/2009 Version: 2.2.21
+-Fixed recconection not started at logon if offline [#API-0]
+
+03/18/2009 Version: 2.2.20
+-Fixed recconection problems [#API-690]
+
+03/17/2009 Version: 2.2.19
+-Fixed Logon perfomance problem [#API-686]
+
+03/16/2009 Version: 2.2.18
+-Fixed ChangeStopLimitOnTrade Access violation at address error [#API-685]
+
+03/16/2009 Version: 2.2.17
+-Fixed error: Request Entity Too Large [#ICTS-4105]
+
+03/13/2009 Version: 2.2.16
+-Fixed "No such key "bonus_sell" exception [#ICTS-4766]
+
+03/11/2009 Version: 2.2.15
+-Fixed login error: "Failed to get data for 'Protocol'" [#API-670]
+
+03/02/2009 Version: 2.2.14
+-Fixed login error.Message: '01/01/1900 00:00:00' is not a valid date and time [#API-670]
+
+02/27/2009 Version: 2.2.13
++Add using of "Chart Server" middle  for charts [ICTS-3540]
+
+02/23/2009 Version: 2.2.12
+-Fixed futures_interest and pair_comm are ignored at NetPL calculation [#API-665]
+
+02/18/2009 Version: 2.2.11
+-Fixed Unknown transaction type: FIXED_COST_OPEN [#API-665]
++Added GetOpenCharge and GetCloseCharge methods to IFxTrade and IFxAccount interfaces [#API-665]
++Added tt_Future, tt_Dividend, tt_FixedCostOpen and tt_FixedCostClose constants to FxTransactionType enum [#API-665]
+
+02/11/2009 Version: 2.2.10
++ Added Api sample VC++ project [#API-662]
+
+02/06/2009 Version: 2.2.9
+- Fixed OnOrderMessage. Different messages can have the same btids [#ICTS-0]
+
+02/02/2008 Version: 2.2.8
+- Fixed getConnectionProperties problems [#ICTS-4069]
+
+01/30/2009 Version: 2.2.7
+- Fixed get_AccountId return incorrect data [#API-654]
+
+01/27/2009 Version: 2.2.6
++ Added Btid (Business transactions identification) field to IFxOrder and IFxTrade interfaces [#ICTS-3249]
+!!! WARNING !!!
+Work only for Server ver. 10.5 and larger
+
+01/20/2009 Version: 2.2.5
++ Added GetReason() method to IFxOrder interface [#ICTS-3469]
+
+01/14/2009 Version: 2.2.4
+- Fixed Hanging api demo in debug [#API-641]
+
+01/05/2009 Version: 2.2.3
++ Added CreateInitOrderSL() with additional parameters [#API-631]
+
+12/26/2008 Version: 2.2.2
+- Fixed Api not reconnect when server exception with id: "ORA-20136: Connection lost" raised [#ICTS-4286]
+
+12/25/2008 Version: 2.2.1
++ Added ClientTag field added to Trade record [#API-627]
+
+12/19/2008 Version: 2.2.0
+- Fixed compatibility with C# [#ICTS-3430]
+!!! WARNING !!!
+Some interfaces of api was changed, see "InterfacesChanges.pdf" file for details
+
+12/08/2008 Version: 2.1.23
+- Fixed Dll crash after release [#API-570]
+
+12/03/2008 Version: 2.1.22
+- Fixed Out of memory error [#API-607]
+
+11/27/2008 Version: 2.1.21
+- Fixed ChangeStopTrailOnTrade bug [#API-604]
+
+11/11/2008 Version: 2.1.20
+- Fixed Very technical message is received from API methods call [#API-581]
+
+10/21/2008 Version: 2.1.19
+- Fixed core problems during API shutdown [#API-585]
+
+10/15/2008 Version: 2.1.18
+- Fixed core problems during API shutdown [#API-570]
+
+10/02/2008 Version: 2.1.17
+- Fixed Recconection problem at calling CheckUser [#API-570]
++ Added Language parameter to logon/logon2 methods [#ICTS-3639]
+!!! WARNING !!!
+Not compatible with old version.
+You can pass empty string for Language parameter for backward compatibility.
+
+09/22/2008 Version: 2.1.16
+! Other HedgeTrade2, CloseTrade2 and CreateInitOrder2 methods: the rate parameter is ignored by api.
+These methods are deprecated and will be removed in the future. [#ICTS-3459]
+
+09/05/2008 Version: 2.1.15
+! Other Error codes added to Api [#ICTS-3297]
+
+08/12/2008 Version: 2.1.14
+! Other drop Set/GetReconnectAttemptCount functions [#ICTS-3369]
+
+08/07/2008 Version: 2.1.13
+- Fixed some hangups [#ICTS-3378]
+
+08/06/2008 Version: 2.1.12
++ Added SetReconnectAttemptCount function [#ICTS-3369]
++ Added GetReconnectAttemptCount function [#ICTS-3369]
+
+08/04/2008 Version: 2.1.11
+- Fixed core and hangup problems during API shutdown [#API-473]
+
+07/31/2008 Version: 2.1.10
+- Fixed thread safety issues for the internal data storage [#API-500]
+
+07/28/2008 Version: 2.1.9
+- Fixed Validation of Rate - error in CreateEntryOrderSL() [#API-499]
+
+07/24/2008 Version: 2.1.8
++ Added IFxTraderApi.GetRemovedOrdersHistory method [#ICTS-3223]
+
+07/18/2008 Version: 2.1.7
+- Fixed core during API shutdown [#API-473]
+
+07/10/2008 Version: 2.1.6
+- Fixed SetDebugLog never returns [#API-482]
+! Improved management of resources
+
+07/08/2008 Version: 2.1.5
++ Added CheckUser() for trader validation [#API-457]
+- Fixed resources leaks [#API-473]
+- Fixed loggong config [#API-480]
+- Fixed threading issues [#API-428]
+
+06/23/2008 Version: 2.1.4
+- Fixed to API reconnect procedure to avoid cs_Offline status [#API-449]
++ Added et_ReconnectError type for FxErrorType enumeration [#API-449]
+
+06/18/2008 Version: 2.1.3
+- Fixed Logoff() method error when CandleCharts interface is used [#API-441]
++ Added CreateEntryOrderSL() with additional parameters [#API-442]
+
+05/30/2008 Version: 2.1.2
+- Fixed IFxTrade CloseRate and NetPL parameters [#API-408]
+
+05/14/2008 Version: 2.1.1
+! IFxTrade.ParentOrderId now returns Open order identifier value for the IFxTraderAPI.GetClosedTrades method [#API-390]
+
+05/08/2008 Version: 2.1.0
++ Added IFxTraderApi.CreateEntryOCOOrders method [API-337]
++ Added CoClasses for all interfaces for .NET compatibility [#ICTS-2691]
+
+04/02/2008 Version: 2.0.2
++ Added IFxTraderApi.ChangeOCOLink [#API-337]
+- Fixed some automatic reconnection issues
+
+03/19/2008 Version: 2.0.1
++ Added support for Pair subscribe/unsubscribe callback messages [ICTS-2169]
++ Added workaround for "Too many Idle sessions" server message [ICTS-2354]
++ Added support for Schema service error codes [ICTS-2213]
++ Added IFxError.Code parameter.
++ Added IFxTraderApi.LastError() property.
+- Minor bugs fixed.
+
+03/14/2008 Version: 2.0.0
++ Added tt_PairFee for FxTransactionType enumeration. [ICTS-1853]
++ Added IFxTraderApi.GetPairGroups interface method. [ICTS-2169]
++ Added IFxTraderApi.UpdatePairSubscribtion interface method. [ICTS-2169]
++ Added FxComApiTrader.IFxPairGroup interface. [ICTS-2169]
++ Added FxComApiTrader.IFxPairGroupList interface. [ICTS-2169]
++ Added at_Group for FxComApiTrader.FxAccountType enumeration.
+! Removed all CoClasses declarations (except FxTraderAPI). Interfaces (IFxPair, IFxTrade etc.) should be used instead.
+! Changed IFxRules.Name return value from lpstr to * BSTR
+- Minor bugs fixed
+
+02/21/2008 Version: 1.14.3
+- Fixed LogLevel recognition for DebugLog.ini file. [ICTS-1853]
+
+02/08/2008 Version: 1.14.2
++ Added fx_Subscribe and fx_Unsubscribe types for FxBOMessageType [ICTS-1853]
+
+01/31/2008 Version: 1.14.1
+- Added tt_PairFee for FxTransactionType enumeration [ICTS-1853]
+
+01/10/2008 Version: 1.14.0
+- Fixed compatibility with DB v.10-3 for history trade and order data [ICTS-1662]
+
+12/17/2007 Version: 1.13.3
++ Added FxUserType.ut_Customer
++ Added FxUserType.ut_TRAdministrator
++ Added support for new message types (for DB ver. 10-4) [ICTS-1557]
+
+11/30/2007 Version: 1.13.2
++ Added IFxRules.Name, IFxRules.Value return values for Index = 0
+
+10/19/2007 Version: 1.13.1
++ Added OnDebugInfo([in] DebugInfo: IFxDebugInfo) callback method for IFxTraderApiEvents
++ Added IFxDebugInfo interface
++ Added FxDebugInfoType enumeration
++ Added IFxRules.Count get property
++ Added IFxRules.Name([in] Index: LONG) get property
++ Added IFxRules.Value([in] Index: LONG) get property
++ Added IFxRules.ValueByName([in] Name: BSTR) get  property
+- Fixed probable deadlock when debug log was used
+- Fixed lost PropGet parameters in documentation
+
+09/04/2007 Version: 1.13.0
+- Added support for protocol data insert operations [#9481]
+! Rebuilded chm help file.
+
+07/11/2007 Version: 1.12.2
+- Changed script name used for order rate change methods [#11449]
+
+07/07/2007 Version: 1.12.1
+- Fixed IFxAPI.ChangeStopLimitOnEntryOrder method [#248]
+
+06/29/2007 Version: 1.12.0
++ Added compatibility with new compact pair protocol [#9804]
+
+05/10/2007 Version: 1.11.2
++ Added IFxPair.Login CloseDaySellRate parameter [#224]
++ Added IFxPair.NetChange parameter [#224]
+! Updated documentation
+
+04/27/2007 Version: 1.11.1
++ Added check for EntryServer and Schema values for IFxTraderApi.Login method
+
+04/18/2007 Version: 1.11.0
++ Improved exception notification engine
++ Internal HTTP connection rework
+- Some minor bug fixes
+
+03/07/2007 Version: 1.10.0
+- Fixed double group trade delete notifications [#185]
+
+03/05/2007 Version: 1.9.14
+! New memory management to decrease memory usage and fragmentation
+
+02/28/2007 Version: 1.9.13
+- Added new parameters for Feed Debug logging [#185]
+
+10/26/2006 Version: 1.9.12
+- Fixed "Object factory for class TCandleRec missing" error
+  on IFxTraderApi.GetCandleHistory method call [#10385]
+! Added rate rounding for user input rates [#10323]
+
+10/16/2006 Version: 1.9.11
++ Added support for server group trade operation messages [#10136]
+- Fixed failed API reconnection in some cases [#10096]
+
+08/23/2006 Version: 1.9.10
++ Fixed calculating Balance and UsedMargin for group accounts [#9297]
+
+07/13/2006 Version: 1.9.9
++ ILotList parameter is ignored now in CloseTrade, CloseTrade2,
+  HedgeTrade, HedgeTrade2 methods for individual trades
+
+07/12/2006 Version: 1.9.8
+- Fixed IFxTrade.CloseOrderID value for group trades
+- Fixed IFxTrade.TrailingDistance value
+
+07/11/2006 Version: 1.9.7
+- Fixed group init order creation bug
+
+07/04/2006 Version: 1.9.6
++ Added customizable debug log
++ Added IFxTraderApi.SetDebugLog method
+! Aborting all waiting requests when logoff method called
+- Fixed Logoff deadlock bug
+- Memory leaks fixed
+- Minor bugs fixed
+
+06/23/2006 Version: 1.9.5
+- Fixed some CallBack duplicating issues
+
+06/15/2006 Version: 1.9.4
+! Debug log minor changes
++ Added FxTraderAPI UseCompactPair property
+- Removed possible thread dead-locks
+
+06/14/2006 Version: 1.9.3
+! Improved error handling for invalid connected message listeners (IConnectionPoint)
++ Added extended error logging
+- Fixed login with schema change
+
+06/07/2006 Version: 1.9.2
+- Added error handling for invalid connected message listeners (IConnectionPoint)
+
+05/16/2006 Version: 1.9.1
++ Added IFxTrade.TrailDistance property
+- Fixed Removing trail distance by setting trail value = 0.
+
+05/05/2006 Version: 1.9.0
++ Added IFxTraderAPI.GetCandleHistory method
++ Added IFxTraderAPI.ChartIntervals property
++ Added IFxCandle interface
++ Added IFxCandleList interface
++ Added IFxChartInterval interface
++ Added IFxChartIntervalList interface
+
+04/29/2006 Version: 1.8.0
++ Added support for compact Pair messaging system (decrease traffic)
++ Added tt_OvernightFee transaction type
+
+04/20/2006 Version: 1.7.1
+- Fixed IFxTraderAPI.CloseTrade method
+- Fixed IFxTraderAPI.HedgeTrade method
+
+04/14/2006 Version: 1.7.0
+- Fixed getting data from data list by ID parameter.
++ Added IFxTraderAPI.CreateInitOrder2 method
++ Added IFxTraderAPI.CloseTrade2 method
++ Added IFxTraderAPI.HedgeTrade2 method
+
+03/30/2006 Version: 1.6.2
+- Fixed GetTickHistory function for Count=-1
+
+03/14/2006 Version: 1.6.1
+- Fixed partial managed trade close
+! DB version 9.10 compatible
+
+03/12/2006 Version: 1.6.0
++ Added IFxTraderAPI.GetTickHistory method
++ Added IFxTick interface
++ Added IFxTickList interface
+
+03/03/2006 Version: 1.5.1
+- Fiõed Account and Trade messages for new GroupMode functionality
+
+28/02/2006 Version: 1.5.0
++ Added group accounts support
++ Added IFxTraderAPI.GroupMode parameter
++ Added FxGroupMode enumeration type
++ Added IFXAccount.GroupAccountId parameter
++ Addd SSL connection support
+
+15/02/2006 Version: 1.4.2
+- Fixed some thread safe related bugs.
+
+10/02/2006 Version: 1.4.1
++ Added IFxTraderAPI.ChangeStopTrailOnEntryOrder method
++ Added IFxTraderAPI.ChangeStopTrailOnTrade method
++ Added IFxOrder.TrailDistance parameter
+
+08/02/2006 Version: 1.4.0
+- Fixed NetPL for Trade delete messages.
+
+23/01/2006 Version: 1.3.1
+- Fixed duplicating messages for Trade objects.
+
+21/01/2006 Version: 1.3.0
+- New version standard.
+
+17/01/2006 Version: 1.2.3.0
+- Fixed IFxTraderAPI.ChangeStopLimitOnEntryOrder() method.
+  Problems with using sl_Stop parameter.
+! Improved trades grouping support.
+  Some messages was not executed during group trade changes.
+
+07/01/2006 Version: 1.2.2.2
++ Added IFxTraderAPI.setEntryServer() method.
+
+12/27/2005 Version: 1.2.2.1
+- Threading model for COM server was changed from Apartment to Both.
+
+12/22/2005 Version: 1.2.2.0
++ Added IFxError.CallStack parameter
+! Improved asynchronous data requesting
+
+12/22/2005 Version: 1.2.1.3
++ Minor bug fixes fixes
+
+11/11/2005 Version: 1.2.1.2
++ Fixed compatibility with DBVersion 9.8 (No value for field 'negotiation' Error)
+
+11/08/2005 Version: 1.2.1.1
++ Added IFxTraderAPI.AcceptRejectedOrder method
+
+10/31/2005 Version: 1.2.1.0
++ Added managed trades to trades list
+! Renamed IFxOrder.MoneyOwnerId to IFxOrder.MoneyOwner
+! Renamed IFxTrade.MoneyOwnerId to IFxTrade.MoneyOwner
++ Added IFxAccount.MoneyOwnerId parameter
++ Added IFxTrade.GroupTradeId parameter
+- Fixed IFxTraderAPI.GetGroupTrades method
+
+
+10/27/2005 Version: 1.2.0.3
+! Changes in FxTransactionType type
+  ! tt_Fee renamed to tt_Commission
+  ! tt_Fee2 renamed to tt_Fee
+! Documentation updated
+
+10/21/2005 Version: 1.2.0.2
+- Changed parameter type for IFxLotList
+
+10/20/2005 Version: 1.2.0.1
+- Memory leak fixed
+
+10/18/2005 Version: 1.2.0.0
++ Added FxTransactionType type
++ Added IFxLot interface
++ Added IFxLotList interface
+
+! Changes in IFxTraderApi
+  + Added GetOrdersHistory method
+  + Added GetAccountsHistory method
+  + Added NewLotList method
+  + Added GetMaxLots method
+
+! Changes in IFxTraderApi.GetClosedTrades
+  ! Renamed parameter TradeId to FromTradeId
+  + Added parameter ToTradeId
+  + Added parameter FromTime
+  + Added parameter ToTime
+
+! Changes in IFxTraderApi.CreateInitOrder
+  + Added parameter Lots
+
+! Changes in IFxTraderApi.CreateEntryOrder
+  + Added parameter Lots
+
+! Changes in IFxTraderApi.CloseTrade
+  ! Renamed parameter HedgeLotCount to LotCount
+  + Added parameter Lots
+  + Added parameter CloseWithHedge
+
+! Changes in IFxTraderApi.HedgeTrade
+  ! Renamed parameter HedgeLotCount to LotCount
+  + Added parameter Lots
+
+! Changes in IFxAccount
+  + Added property TransactionId
+  + Added property Transactiontime
+  + Added property TransactionType
+
+! DBVersion 9.8 compatible only
+
+
+10/02/2005 Version: 1.1.0.5
++ Current close rate as CloseRate parameter in IFxTrade interface.
+
+09/30/2005 Version: 1.1.0.4
+- Fixed StopRate and LimitRate properties values for IFxTrade after automatic data reloading.
+
+09/08/2005 Version: 1.1.0.3
+- Fixed number of decimal digits in error messages with rate values.
+
+09/06/2005 Version: 1.1.0.2
+- Fixed CloseTrade function for Hedge operations
+
+08/13/2005 Version: 1.1.0.1
+- Documentation update
+
+08/12/2005 Version: 1.1.0.0
+- Official release
+
+08/05/2005 Version: 1.0.0.9
+- Fixed NetPL value for GetClosedTrades method
+
+08/04/2005 Version: 1.0.0.7
++ New IFxComPaiTrader.ChangeEntryOrderRate method
++ Client's string identifier for operations which create orders
++ Added ClientTag parameter for methods which cause new order creation
+
+08/03/2005 Version: 1.0.0.6
+- Fixed CreateInitOrder order and CreateEntryOrder functions
+
+08/02/2005 Version: 1.0.0.5
+- Fixed receiving Account update messages on account creation
+
+07/29/2005 Version: 1.0.0.4
+- Fixed troubles with automatic reconnection
+- Fixed OpenRate and CloseRate values for IFxPair
+
+07/28/2005 Version: 1.0.0.3
++ Allow using multiple Event connections
+
+07/20/2005 Version: 1.0.0.2
+- IFxTrade.NetPL property correñtion for GetClosedTrades method.
+
+07/19/2005 Version: 1.0.0.1
+! Using previous session to avoid "Too many idle sessions." error message.
+
+07/13/2005 Version: 1.0.0.0
++ First release

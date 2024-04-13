@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F14E449B-8DD0-449B-81C8-5C99F61967AF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AutoFx_Form</RootNamespace>
+    <AssemblyName>AutoFx_Form</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;RELEASE;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <DebugSymbols>true</DebugSymbols>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>AutoFx_Form.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="SMSC, Version=1.1.0.3802, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\SMSC.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormCommon.cs" />
+    <Compile Include="FMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FMain.Designer.cs">
+      <DependentUpon>FMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FMain.resx">
+      <DependentUpon>FMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\02共通\Common\Common.csproj">
+      <Project>{0248fba3-e687-4618-8187-8284ed2307eb}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\02共通\SystemSetting\SystemSetting.csproj">
+      <Project>{1fb2081c-9211-4fb1-9206-3d789fd4b229}</Project>
+      <Name>SystemSetting</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\02共通\共通Data\共通Data.csproj">
+      <Project>{f9a21fe1-d3b3-4559-a6ae-c41be0fd855d}</Project>
+      <Name>共通Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\02共通\定数\定数.csproj">
+      <Project>{381e37a9-b55c-4b6a-8465-0411963cbd59}</Project>
+      <Name>定数</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\03DB\DB\DB.csproj">
+      <Project>{fb24d56f-034c-4158-a8e2-71dae7e2810a}</Project>
+      <Name>DB</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\04FXAPI\FXCM\FXCMv2\FXCMv2.csproj">
+      <Project>{bb1eab3e-6583-4591-ae32-f6998c4c9e89}</Project>
+      <Name>FXCMv2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\04FXAPI\FXCM\FXCMv1\FXCMv1.csproj">
+      <Project>{701f0f07-856f-46a9-bf80-5044e583ce12}</Project>
+      <Name>FXCMv1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\04FXAPI\OANDA\OANDAv1\OANDAv1.csproj">
+      <Project>{34e3a021-4e91-4a72-95a1-8119ac9b06f3}</Project>
+      <Name>OANDAv1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\04FXAPI\FXAPI共通\FXAPI共通.csproj">
+      <Project>{0bbd8ff8-31f1-4c20-84d9-78a042367b3d}</Project>
+      <Name>FXAPI共通</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,235 @@
+﻿default=enu
+[enu]
+codepage=1252
+name=Pivot Point Moving Average
+description=Uses the pivot point calculation as the input into a simple moving average.
+param_N_name=Number of periods
+param_N_description=The number of periods.
+param_clrPPMA_name=Line color
+param_clrPPMA_description=The color of the Pivot Point Moving Average line.
+param_widthPPMA_name=Line width
+param_widthPPMA_description=The width of the Pivot Point Moving Average line.
+param_stylePPMA_name=Line style
+param_stylePPMA_description=The style of the Pivot Point Moving Average line.
+
+[ara]
+codepage=1256
+name=معدل المتحرك للبيفوت بوينت
+description=يستخدم حساب نقاط البيفوت كمدخلات في المتوسط المتحرك البسيط
+param_N_name=عدد الفترات
+param_N_description=عدد الفترات
+param_clrPPMA_name=لون الخط
+param_clrPPMA_description=لون خط المعدل المتحرك للبيفوت بوينت.
+param_widthPPMA_name=عرض الخط
+param_widthPPMA_description=عرض خط المعدل المتحرك للبيفوت بوينت.
+param_stylePPMA_name=نوع الخط
+param_stylePPMA_description=نوع خط المعدل المتحرك للبيفوت بوينت.
+
+[chs]
+codepage=936
+name=枢纽水平移动平均线
+description=加入枢纽水平计算的移动平均线
+param_N_name=时期数目
+param_N_description=时期数目
+param_clrPPMA_name=线颜色
+param_clrPPMA_description=枢纽水平移动平均线颜色
+param_widthPPMA_name=线宽
+param_widthPPMA_description=枢纽水平移动平均线的宽度
+param_stylePPMA_name=线样式
+param_stylePPMA_description=枢纽水平移动平均线样式
+
+[cht]
+codepage=950
+name=樞紐水平移動平均線
+description=加入樞紐水平計算的移動平均線
+param_N_name=時期數目
+param_N_description=時期數目
+param_clrPPMA_name=線顏色
+param_clrPPMA_description=樞紐水平移動平均線顏色
+param_widthPPMA_name=線寬
+param_widthPPMA_description=樞紐水平移動平均線的寬度
+param_stylePPMA_name=線樣式
+param_stylePPMA_description=樞紐水平移動平均線樣式
+
+[ctt]
+codepage=950
+name=樞紐水平移動平均線
+description=加入樞紐水平計算的移動平均線
+param_N_name=時期數目
+param_N_description=時期數目
+param_clrPPMA_name=線顏色
+param_clrPPMA_description=樞紐水平移動平均線顏色
+param_widthPPMA_name=
+param_widthPPMA_description=
+param_stylePPMA_name=
+param_stylePPMA_description=
+
+[deu]
+codepage=1252
+name=Pivot-point Moving Average
+description=Leitet der einfache gleitende Durchschnitt aus der Pivot-Punkt Kalkulation her.
+param_N_name=Anzahl der Perioden
+param_N_description=Anzahl der Perioden
+param_clrPPMA_name=Linienfarbe
+param_clrPPMA_description=Farbe der Linie vom Pivot-Point gleitenden Durchschnitt
+param_widthPPMA_name=Linienbreite
+param_widthPPMA_description=Die Breite der Pivot Punkt Gleitender Durchschnittslinie
+param_stylePPMA_name=Linienstil
+param_stylePPMA_description=Der Stil der Pivot Punkt Gleitender Durchschnittslinie
+
+[esp]
+codepage=1252
+name=Media Móvil de Puntos-Pivote
+description=Utiliza el cálculo de Puntos Pivote como base para calcular la media móvil simple.
+param_N_name=Número de periodos
+param_N_description=El número de periodos
+param_clrPPMA_name=Color de la línea
+param_clrPPMA_description=El color de la línea de media móvil de puntos-pivote
+param_widthPPMA_name=Amplitud de la línea
+param_widthPPMA_description=La amplitud de la línea del Promedio de los Puntos Pivote.
+param_stylePPMA_name=Estilo de la línea
+param_stylePPMA_description=El estilo de la línea del Promedio de los Puntos Pivote.
+
+[fra]
+codepage=1252
+name=Moyenne mobile point-pivot
+description=Utilise le calcul de point-pivot comme données dans une moyenne mobile simple.
+param_N_name=Nombre de périodes
+param_N_description=Le nombre de périodes.
+param_clrPPMA_name=Couleur de la ligne
+param_clrPPMA_description=La couleur de la ligne de la moyenne mobile point-pivot.
+param_widthPPMA_name=Largeur de la ligne
+param_widthPPMA_description=La largeur de la ligne de moyenne mobile du point pivot
+param_stylePPMA_name=Style de la ligne
+param_stylePPMA_description=Le style de la ligne de moyenne mobile de point pivot
+
+[jpn]
+codepage=932
+name=ピボット・ポイント移動平均線
+description=ピボット・ポイント計算式を単純移動平均のデータとして使用します。
+param_N_name=期間数
+param_N_description=期間数
+param_clrPPMA_name=ラインの色
+param_clrPPMA_description=ピボット・ポイント移動平均線の色
+param_widthPPMA_name=ラインの幅
+param_widthPPMA_description=Pivot Point Moving Averageラインの幅
+param_stylePPMA_name=ラインのスタイル
+param_stylePPMA_description=Pivot Point Moving Averageラインのスタイル
+
+[kor]
+codepage=949
+name=피벗 포인트 이동평균
+description=단순 이동평균 에 피봇포인트 계산을 넣음.
+param_N_name=기간의 개수
+param_N_description=기간의 개수
+param_clrPPMA_name=선 색상
+param_clrPPMA_description=피봇 포인트 이동평균선의 색상
+param_widthPPMA_name=
+param_widthPPMA_description=
+param_stylePPMA_name=
+param_stylePPMA_description=
+
+[rus]
+codepage=1251
+name=Среднее скользящее разворотных точек
+description=Рассчитывает простое скользящее среднее на основе разворотных точек.
+param_N_name=Количество периодов
+param_N_description=Количество периодов.
+param_clrPPMA_name=Цвет линии
+param_clrPPMA_description=Цвет линии среднего скользящего разворотных точек.
+param_widthPPMA_name=Ширина линии
+param_widthPPMA_description=Ширина линии среднего скользящего разворотных точек.
+param_stylePPMA_name=Стиль линии
+param_stylePPMA_description=Стиль линии среднего скользящего разворотных точек.
+
+[tur]
+codepage=1254
+name=Pivot Seviye Hareketli Ortalama
+description=Pivot seviyeleri kullanarak hesaplanan basit hareketli ortalama.
+param_N_name=Periyot sayısı
+param_N_description=Periyot sayısı.
+param_clrPPMA_name=Çizgi Rengi
+param_clrPPMA_description=Pivot Seviye Hareketli Ortalama çizgi rengi.
+param_widthPPMA_name=Çizgi kalınlığı
+param_widthPPMA_description=Pivot Seviye Hareketli Ortalama çizgi kalınlığı.
+param_stylePPMA_name=Çizgi biçimi
+param_stylePPMA_description=Pivot Seviye Hareketli Ortalama çizgi biçimi.
+
+[ita]
+codepage=1252
+name=Media Mobile del Pivot Point
+description=Utilizza i calcoli dei pivot point come input in una simple moving average
+param_N_name=Numero di periodi
+param_N_description=Il numero di periodi
+param_clrPPMA_name=Colore della linea
+param_clrPPMA_description=Il colore della linea di Pivot Point Moving Average
+param_widthPPMA_name=Spessore della linea
+param_widthPPMA_description=Lo spessore della linea Pivot Point Moving Average
+param_stylePPMA_name=Stile della linea
+param_stylePPMA_description=Lo stile della linea Pivot Point Moving Average
+
+[heb]
+codepage=1255
+name=ממוצע נע של נקודות ציר
+description=ממוצע נע פשוט של נקודות הציר.
+param_N_name=מספר תקופות
+param_N_description=מספר התקופות.
+param_clrPPMA_name=צבע קו
+param_clrPPMA_description=צבע הקו של ממוצע נע נקודות ציר
+param_widthPPMA_name=רוחב קו
+param_widthPPMA_description=רוחב הקו של ממוצע נע נקודות ציר
+param_stylePPMA_name=סגנון קו
+param_stylePPMA_description=סגנון הקו של ממוצע נע נקודות ציר
+
+[pol]
+codepage=1250
+name=Średnia krocząca pivot points
+description=Do formuły zwykłej średniej kroczącej użyte są pivoty
+param_N_name=Liczba okresów
+param_N_description=Liczba okresów
+param_clrPPMA_name=Kolor linii
+param_clrPPMA_description=Kolor linii średniej kroczącej pivot points.
+param_widthPPMA_name=Grubość linii
+param_widthPPMA_description=Grubość linii średniej kroczącej pivot points.
+param_stylePPMA_name=Styl linii
+param_stylePPMA_description=Styl linii średniej kroczącej pivot points.
+
+[cze]
+codepage=1250
+name=Klouzavý průměr pivotu
+description=Používá pivotní bod kalkulace jako vstup pro jednoduchý klouzavý průměr.
+param_N_name=Počet period
+param_N_description=Počet period.
+param_clrPPMA_name=Barva linky
+param_clrPPMA_description=Barva linky klouzavého průměru pivotu
+param_widthPPMA_name=Šíře linky
+param_widthPPMA_description=Šíře linky klouzavého průměru pivotu.
+param_stylePPMA_name=Styl linky
+param_stylePPMA_description=Styl linky klouzavého průměru pivotu.
+
+[por]
+codepage=1252
+name=Media Móvel de Pontos-Pivot
+description=Utiliza o cálculo de Pontos Pivote como base para calcular a média móvel simples.
+param_N_name=Número de períodos
+param_N_description=O número de períodos
+param_clrPPMA_name=Cor da linha
+param_clrPPMA_description=A cor da linha da média móvel de pontos-pivot
+param_widthPPMA_name=Largura da linha
+param_widthPPMA_description=A largura da linha da média móvel de pontos-pivot.
+param_stylePPMA_name=Estilo da linha
+param_stylePPMA_description=O estilo da linha da média móvel de pontos-pivot.
+
+[gre]
+codepage=1253
+name=Pivot Point Moving Average
+description=Χρησιμοποιεί τον υπολογισμό Pivot Point ως πληροφορία μέσα σε έναν απλό κινητό μέσο όρο.
+param_N_name=Αριθμός περιόδων
+param_N_description=Ο αριθμός των περιόδων.
+param_clrPPMA_name=Χρώμα γραμμής
+param_clrPPMA_description=Το χρώμα της γραμμής του Pivot Point Moving Average
+param_widthPPMA_name=Πάχος γραμμής
+param_widthPPMA_description=Το πάχος της γραμμής Pivot Point Moving Average
+param_stylePPMA_name=Στυλ γραμμής
+param_stylePPMA_description=Το στυλ της γραμμής Pivot Point Moving Average
+

@@ -1,0 +1,38 @@
+UPDATE [RealA_FX_ACV].[hstr].[tMin1] 
+   SET [買いWMAs2] = [WMA_買い_WMA_S2]
+      ,[買いWMAs2角度] = [WMA_買い_WMA上昇角度_S2]
+      ,[買いWMAs14] = [WMA_買い_WMA]
+      ,[買いWMAs14角度] = [WMA_買い_WMA上昇角度]
+      ,[売りWMAs2] = [WMA_売り_WMA_S2]
+      ,[売りWMAs2角度] = [WMA_売り_WMA上昇角度_S2]
+      ,[売りWMAs14] = [WMA_売り_WMA]
+      ,[売りWMAs14角度] = [WMA_売り_WMA上昇角度]
+FROM [RealA_FX_ACV].[indi].[T_Indicator_1m] as b
+WHERE [RealA_FX_ACV].[hstr].[tMin1].[通貨ペアNo] = b.[通貨ペアNo] AND [RealA_FX_ACV].[hstr].[tMin1].[StartDate] = b.[日時]
+
+UPDATE [RealA_FX_ACV].[hstr].[tMin5] 
+   SET [買いWMAs2] = [WMA_買い_WMA_S2]
+      ,[買いWMAs2角度] = [WMA_買い_WMA上昇角度_S2]
+      ,[買いWMAs14] = [WMA_買い_WMA]
+      ,[買いWMAs14角度] = [WMA_買い_WMA上昇角度]
+      ,[売りWMAs2] = [WMA_売り_WMA_S2]
+      ,[売りWMAs2角度] = [WMA_売り_WMA上昇角度_S2]
+      ,[売りWMAs14] = [WMA_売り_WMA]
+      ,[売りWMAs14角度] = [WMA_売り_WMA上昇角度]
+FROM [RealA_FX_ACV].[indi].[T_Indicator_5m] as b
+WHERE [RealA_FX_ACV].[hstr].[tMin5].[通貨ペアNo] = b.[通貨ペアNo] AND [RealA_FX_ACV].[hstr].[tMin5].[StartDate] = b.[日時]
+
+UPDATE [RealA_FX_ACV].[hstr].[tMin15] 
+   SET [買いWMAs2] = [WMA_買い_WMA_S2]
+      ,[買いWMAs2角度] = [WMA_買い_WMA上昇角度_S2]
+      ,[買いWMAs14] = [WMA_買い_WMA]
+      ,[買いWMAs14角度] = [WMA_買い_WMA上昇角度]
+      ,[買いWMAs14角度シグマ] = [WMA_買い_WMA上昇角度_シグマ]
+      ,[売りWMAs2] = [WMA_売り_WMA_S2]
+      ,[売りWMAs2角度] = [WMA_売り_WMA上昇角度_S2]
+      ,[売りWMAs14] = [WMA_売り_WMA]
+      ,[売りWMAs14角度] = [WMA_売り_WMA上昇角度]
+      ,[売りWMAs14角度シグマ] = [WMA_売り_WMA上昇角度_シグマ]
+FROM [RealA_FX_ACV].[indi].[T_Indicator_15m] as b
+WHERE [RealA_FX_ACV].[hstr].[tMin15].[通貨ペアNo] = b.[通貨ペアNo] AND [RealA_FX_ACV].[hstr].[tMin15].[StartDate] = b.[日時]
+

@@ -1,0 +1,235 @@
+﻿default=enu
+[enu]
+codepage=1252
+name=Adaptive Relative Strength Index
+description=Is a more flexible variant of Relative Strength Index.
+param_N_name=Number of periods
+param_N_description=The number of periods.
+param_clrARSI_name=Line color
+param_clrARSI_description=The color of the Adaptive Relative Strength Index line.
+param_widthARSI_name=Line width
+param_widthARSI_description=The width of the Adaptive Relative Strength Index line.
+param_styleARSI_name=Line style
+param_styleARSI_description=The style of the Adaptive Relative Strength Index line.
+
+[ara]
+codepage=1256
+name=مؤشر القوة النسبي المتأقلم
+description=هو البديل الأكثر مرونة لمؤشر القوة النسبية.
+param_N_name=عدد الفترات
+param_N_description=عدد الفترات
+param_clrARSI_name=لون الخط
+param_clrARSI_description=لون خط مؤشر القوة النسبية المعدلة
+param_widthARSI_name=عرض الخط
+param_widthARSI_description=عرض الخط الخاص بمؤشر القوة النسبية المعدلة.
+param_styleARSI_name=نوع الخط
+param_styleARSI_description=نوع الخط الخاص بمؤشر القوة النسبية المعدلة.
+
+[chs]
+codepage=936
+name=适应性相对强弱指数
+description=相對強弱指标的一个变体，比其更具弹性
+param_N_name=时期数目
+param_N_description=时期数目
+param_clrARSI_name=线颜色
+param_clrARSI_description=适应性相对强弱指数线颜色
+param_widthARSI_name=线宽
+param_widthARSI_description=适应性相对强弱指数线的宽度
+param_styleARSI_name=线样式
+param_styleARSI_description=适应性相对强弱指数线样式
+
+[cht]
+codepage=950
+name=適應性相對強弱指數
+description=相對強弱指標的一個變體，比其更具彈性
+param_N_name=時期數目
+param_N_description=時期數目
+param_clrARSI_name=線顏色
+param_clrARSI_description=適應性相對強弱指數線顏色
+param_widthARSI_name=線寬
+param_widthARSI_description=適應性相對強弱指數線的寬度
+param_styleARSI_name=線樣式
+param_styleARSI_description=適應性相對強弱指數線樣式
+
+[ctt]
+codepage=950
+name=適應性相對強弱指數
+description=相對強弱指標的一個變體，比其更具彈性
+param_N_name=時期數目
+param_N_description=時期數目
+param_clrARSI_name=線顏色
+param_clrARSI_description=適應性相對強弱指數線顏色
+param_widthARSI_name=
+param_widthARSI_description=
+param_styleARSI_name=
+param_styleARSI_description=
+
+[deu]
+codepage=1252
+name=Adaptiver Relativer Stärke Index
+description=Ist eine felxiblere Variante des Relative-Strength Indexes
+param_N_name=Anzahl der Perioden
+param_N_description=Anzahl der Perioden
+param_clrARSI_name=Linienfarbe
+param_clrARSI_description=Farbe der Linie vom Relative-Strength Index
+param_widthARSI_name=Linienbreite
+param_widthARSI_description=Die Breite der Adaptive Relative Strength Index Linie.
+param_styleARSI_name=Linienstil
+param_styleARSI_description=Der Stil der Adaptive Relative Strength Index Linie.
+
+[esp]
+codepage=1252
+name=Índice Relativo de Fuerza Adaptante
+description=Es una variante más flexible del índice de fuerza adaptante
+param_N_name=Número de periodos
+param_N_description=El número de periodos
+param_clrARSI_name=Color de la línea
+param_clrARSI_description=El color de la línea del índice de fuerza relativa adaptiva
+param_widthARSI_name=Amplitud de la línea
+param_widthARSI_description=Amplitud de la línea del índice de fuerza relativa adaptiva.
+param_styleARSI_name=Estilo de línea
+param_styleARSI_description=Estilo de la línea del índice de fuerza relativa adaptiva.
+
+[fra]
+codepage=1252
+name=Indice adaptatif de la force relative (RSI)
+description=Est une variante plus flexible de l'indice de la force relative (RSI)
+param_N_name=Nombre de périodes
+param_N_description=Le nombre de périodes
+param_clrARSI_name=Couleur de la ligne
+param_clrARSI_description=La couleur de la ligne de l'indice adaptatif de la force relative
+param_widthARSI_name=Largeur de la ligne
+param_widthARSI_description=La largeur de la ligne de l'Indice Adaptatif de la force relative
+param_styleARSI_name=Style de la ligne
+param_styleARSI_description=Le style de la ligne de l'Indice Adaptatif de la force relative
+
+[jpn]
+codepage=932
+name=アダプティブRSI
+description=は相対力指数よりも柔軟性があります
+param_N_name=期間数
+param_N_description=期間数
+param_clrARSI_name=ラインの色
+param_clrARSI_description=アダプティブRSIの色
+param_widthARSI_name=ラインの幅
+param_widthARSI_description=Adaptive Relative Strength Index ラインの幅
+param_styleARSI_name=ラインのスタイル
+param_styleARSI_description=Adaptive Relative Strength Index ラインのスタイル
+
+[kor]
+codepage=949
+name=ARSI (적합 상대강도 지수)
+description=변형 Relative Strength Index 보다 더 융통성있는
+param_N_name=기간의 개수
+param_N_description=기간의 개수
+param_clrARSI_name=선 색상
+param_clrARSI_description=Adaptive Relative Strength Index 선의 색상
+param_widthARSI_name=
+param_widthARSI_description=
+param_styleARSI_name=
+param_styleARSI_description=
+
+[rus]
+codepage=1251
+name=Адаптивный индекс относительной силы
+description=Более гибкий вариант Индекса относительной силы.
+param_N_name=Количество периодов
+param_N_description=Количество периодов.
+param_clrARSI_name=Цвет линии
+param_clrARSI_description=Цвет линии адаптивного индекса относительной силы.
+param_widthARSI_name=Ширина линии
+param_widthARSI_description=Ширина линии адаптивного индекса относительной силы.
+param_styleARSI_name=Стиль линии
+param_styleARSI_description=Стиль линии адаптивного индекса относительной силы.
+
+[tur]
+codepage=1254
+name=Uyarlamalı Göreli Güç Endeksi
+description=Göreli Güç Endeksi göstergesinin daha esnek bir türevi
+param_N_name=Periyot sayısı
+param_N_description=Periyot sayısı.
+param_clrARSI_name=Çizgi Rengi
+param_clrARSI_description=Uyarlamalı Göreli Güç Endeksi çizgi rengi.
+param_widthARSI_name=Çizgi kalınlığı
+param_widthARSI_description=Uyarlamalı Göreli Güç Endeksi çizgi kalınlığı.
+param_styleARSI_name=Çizgi biçimi
+param_styleARSI_description=Uyarlamalı Göreli Güç Endeksi çizgi biçimi.
+
+[ita]
+codepage=1252
+name=Indice Adaptive Relative Strength
+description=E' una variante più flessibile del Relative Strength Index
+param_N_name=Numero di periodi
+param_N_description=Il numero di periodi
+param_clrARSI_name=Colore della linea
+param_clrARSI_description=Il colore della linea dell'Adaptive Relative Strength
+param_widthARSI_name=Spessore della linea
+param_widthARSI_description=Lo spessore della linea Adaptive Relative Strength Index
+param_styleARSI_name=Stile della linea
+param_styleARSI_description=Lo stile della linea Adaptive Relative Strength Index.
+
+[heb]
+codepage=1255
+name=מדד העוצמה היחסית האדפטיבי
+description=גרסה גמישה יותר של מדד העוצמה היחסית.
+param_N_name=מספר תקופות
+param_N_description=מספר התקופות.
+param_clrARSI_name=צבע קו
+param_clrARSI_description=צבע הקו של מדד העוצמה היחסית האדפטיבי.
+param_widthARSI_name=רוחב קו
+param_widthARSI_description=רוחב קו מדד העוצמה היחסית האדפטיבי.
+param_styleARSI_name=סוג קו
+param_styleARSI_description=סוג קו מדד העוצמה היחסית האדפטיבי.
+
+[pol]
+codepage=1250
+name=Adaptacyjny RSI
+description=Bardziej elastyczny wariant Relative Strength Index
+param_N_name=Liczba okresów
+param_N_description=Liczba okresów
+param_clrARSI_name=Kolor linii
+param_clrARSI_description=Kolor linii adaptacyjnego RSI
+param_widthARSI_name=Grubość linii
+param_widthARSI_description=Grubość linii RSI
+param_styleARSI_name=Styl linii
+param_styleARSI_description=Styl linii RSI
+
+[cze]
+codepage=1250
+name=Adaptivní index relativní síly
+description=Je flexibilnejší varianta RSI.
+param_N_name=Počet period
+param_N_description=Počet period.
+param_clrARSI_name=Barva linky
+param_clrARSI_description=Barva ARSI.
+param_widthARSI_name=Šíře linky
+param_widthARSI_description=Šíře linky Adaptive Relative Strength Index.
+param_styleARSI_name=Styl linky
+param_styleARSI_description=Styl linky Adaptive Relative Strength Index.
+
+[por]
+codepage=1252
+name=Índice Adaptativo de Força Relativa
+description=É uma variante mais flexível do Índice de Força Relativa
+param_N_name=Número de períodos
+param_N_description=O número de períodos.
+param_clrARSI_name=Cor da linha
+param_clrARSI_description=A cor da linha do Índice Adaptivo de Força Relativa.
+param_widthARSI_name=Largura da linha
+param_widthARSI_description=A largura da linha do Índice Adaptivo de Força Relativa.
+param_styleARSI_name=Estilo da linha inferior
+param_styleARSI_description=O estilo da linha do Índice Adaptivo de Força Relativa.
+
+[gre]
+codepage=1253
+name=Adaptive Relative Strength Index (ARSI)
+description=Αποτελεί μια πιο ευέλικτη εκδοχή του Relative Strength Index(RSI).
+param_N_name=Αριθμός περιόδων
+param_N_description=Ο αριθμός των περιόδων.
+param_clrARSI_name=Χρώμα γραμμής
+param_clrARSI_description=Το χρώμα της γραμμής του Adaptive Relative Strength Index (ARSI).
+param_widthARSI_name=Πάχος γραμμής
+param_widthARSI_description=Το πάχος της γραμμής του ταλαντωτή Adaptive Relative Strength
+param_styleARSI_name=Στυλ γραμμής
+param_styleARSI_description=Το στυλ της γραμμής του ταλαντωτή Adaptive Relative Strength
+

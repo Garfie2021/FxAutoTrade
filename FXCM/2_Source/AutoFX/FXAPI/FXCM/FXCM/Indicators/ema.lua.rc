@@ -1,0 +1,235 @@
+﻿default=enu
+[enu]
+codepage=1252
+name=Exponential Weighted Moving Average
+description=The weighted price calculation for the last N periods.
+param_N_name=Number of periods
+param_N_description=The number of periods.
+param_clrEMA_name=Line color
+param_clrEMA_description=The color of the Exponential Weighted Moving Average line.
+param_widthEMA_name=Line width
+param_widthEMA_description=The width of the Exponential Weighted Moving Average line.
+param_styleEMA_name=Line style
+param_styleEMA_description=The style of the Exponential Weighted Moving Average line.
+
+[ara]
+codepage=1256
+name=معدل المتوسط المتحرك المضاعف
+description=حساب السعر المرجح للفترات الاخيرة N
+param_N_name=عدد الفترات
+param_N_description=عدد الفترات
+param_clrEMA_name=لون الخط
+param_clrEMA_description=لون خط معدل المتوسط المتحرك المضاعف
+param_widthEMA_name=عرض الخط
+param_widthEMA_description=عرض الخط الخاص بمعدل المتوسط المتحرك المضاعف.
+param_styleEMA_name=نوع الخط
+param_styleEMA_description=نوع الخط الخاص بمعدل المتوسط المتحرك المضاعف.
+
+[chs]
+codepage=936
+name=指数加权移动平均线
+description=以N时期计算的加权价格
+param_N_name=时期数目
+param_N_description=时期数目
+param_clrEMA_name=线颜色
+param_clrEMA_description=指数加权移动平均线颜色
+param_widthEMA_name=线宽
+param_widthEMA_description=指数加权移动平均线的宽度
+param_styleEMA_name=线样式
+param_styleEMA_description=指数加权移动平均线样式
+
+[cht]
+codepage=950
+name=指數加權移動平均線
+description=以N時期計算的加權價格
+param_N_name=時期數目
+param_N_description=時期數目
+param_clrEMA_name=線顏色
+param_clrEMA_description=指數加權移動平均線顏色
+param_widthEMA_name=線寬
+param_widthEMA_description=指數加權移動平均線的寬度
+param_styleEMA_name=線樣式
+param_styleEMA_description=指數加權移動平均線樣式
+
+[ctt]
+codepage=950
+name=指數加權移動平均線
+description=以N時期計算的加權價格
+param_N_name=時期數目
+param_N_description=時期數目
+param_clrEMA_name=線顏色
+param_clrEMA_description=指數加權移動平均線顏色
+param_widthEMA_name=
+param_widthEMA_description=
+param_styleEMA_name=
+param_styleEMA_description=
+
+[deu]
+codepage=1252
+name=Gewogener gleitender Exponentialdurchschnitt
+description=Die gewogene Preiskalkulation der letzten N Perioden.
+param_N_name=Anzahl der Perioden
+param_N_description=Anzahl der Perioden
+param_clrEMA_name=Linienfarbe
+param_clrEMA_description=Farbe der Linie des gewogenen gleitenden Exponentialdurchnitts
+param_widthEMA_name=Linienbreite
+param_widthEMA_description=Die Breite der Exponential Gewichteten Gleitenden Durchschnittslinie
+param_styleEMA_name=Linienstil
+param_styleEMA_description=Der Stil der Exponential Gewichteten Gleitenden Durchschnittslinie
+
+[esp]
+codepage=1252
+name=Promedio Móvil Exponencial Ponderado
+description=Calcula el precio ponderado por los últimos N periodos
+param_N_name=Número de periodos
+param_N_description=El número de periodos
+param_clrEMA_name=Color de la línea
+param_clrEMA_description=El color de la línea de promedio móvil exponencial ponderado
+param_widthEMA_name=Amplitud de la línea
+param_widthEMA_description=La amplitud de la línea de promedio móvil exponencial ponderado.
+param_styleEMA_name=Estilo de la línea
+param_styleEMA_description=El estilo de la línea de promedio móvil exponencial ponderado.
+
+[fra]
+codepage=1252
+name=Moyenne mobile exponentielle pondérée
+description=Le calcul du prix pondéré pour les dernières N périodes
+param_N_name=Nombre de périodes
+param_N_description=Le nombre de périodes
+param_clrEMA_name=Couleur de la ligne
+param_clrEMA_description=La couleur de la ligne de la moyenne mobile exponentielle pondérée.
+param_widthEMA_name=Largeur de la ligne
+param_widthEMA_description=La largeur de la ligne de la moyenne mobile pondérée exponentielle
+param_styleEMA_name=Style de la ligne
+param_styleEMA_description=Le style de la ligne de la moyenne mobile pondérée exponentielle
+
+[jpn]
+codepage=932
+name=指数加重移動平均線
+description=過去N期間を加重したプライスの計算
+param_N_name=期間数
+param_N_description=期間数
+param_clrEMA_name=ラインの色
+param_clrEMA_description=指数加重移動平均線の色
+param_widthEMA_name=ラインの幅
+param_widthEMA_description=Exponential Weighted Moving Average ラインの幅
+param_styleEMA_name=ラインのスタイル
+param_styleEMA_description=Exponential Weighted Moving Average ラインのスタイル
+
+[kor]
+codepage=949
+name=EWMA (지수 가중이동평균)
+description=이전 N 기간안에의 가중가격 계산
+param_N_name=기간의 개수
+param_N_description=기간의 개수
+param_clrEMA_name=선 색상
+param_clrEMA_description=지수 가중 이동 평균선의 색상
+param_widthEMA_name=
+param_widthEMA_description=
+param_styleEMA_name=
+param_styleEMA_description=
+
+[rus]
+codepage=1251
+name=Экспоненциальное скользящее среднее
+description=Рассчитывает средневзвешенную цену за последние N периодов.
+param_N_name=Количество периодов
+param_N_description=Количество периодов.
+param_clrEMA_name=Цвет линии
+param_clrEMA_description=Цвет линии экспоненциального скользящего среднего
+param_widthEMA_name=Ширина линии
+param_widthEMA_description=Ширина линии экспоненциального скользящего среднего
+param_styleEMA_name=Стиль линии
+param_styleEMA_description=Стиль линии экспоненциального скользящего среднего
+
+[tur]
+codepage=1254
+name=Üstel Ağırlıklı Hareketli Ortalama
+description=Son N periyot için ağırlıklı fiyat hesaplaması.
+param_N_name=Periyot sayısı
+param_N_description=Periyot sayısı.
+param_clrEMA_name=Çizgi Rengi
+param_clrEMA_description=Üstel Ağırlıklı Hareketli Ortalama çizgi rengi
+param_widthEMA_name=Çizgi kalınlığı
+param_widthEMA_description=Üstel Ağırlıklı Hareketli Ortalama çizgi kalınlığı.
+param_styleEMA_name=Çizgi biçimi
+param_styleEMA_description=Üstel Ağırlıklı Hareketli Ortalama çizgi biçimi.
+
+[ita]
+codepage=1252
+name=Media mobile esponenziale ponderata
+description=Il calcolo del prezzo pesato per gli ultimi N periodi
+param_N_name=Numero di periodi
+param_N_description=Il numero di periodi
+param_clrEMA_name=Colore della linea
+param_clrEMA_description=Il colore della linea dell'Exponential Weighted Moving Average
+param_widthEMA_name=Spessore della linea
+param_widthEMA_description=Lo spessore della linea Exponential Weighted Moving Average
+param_styleEMA_name=Stile della linea
+param_styleEMA_description=Lo stile della linea Exponential Weighted Moving Average
+
+[heb]
+codepage=1255
+name=ממוצע נע אקספוננציאלי משוקלל
+description=חישוב המחיר המשוקלל של N התקופות האחרונות.
+param_N_name=מספר תקופות
+param_N_description=מספר התקופות.
+param_clrEMA_name=צבע קו
+param_clrEMA_description=צבע הקו של הממוצע הנע האקספוננציאלי המשוקלל.
+param_widthEMA_name=רוחב קו
+param_widthEMA_description=רוחב קו הממוצע הנע האקספוננציאלי המשוקלל.
+param_styleEMA_name=סוג קו
+param_styleEMA_description=סוג קו הממוצע הנע האקספוננציאלי המשוקלל.
+
+[pol]
+codepage=1250
+name=Eksponencjalnie ważona średnia krocząca
+description=Średnia ważona obliczona dla ostatnich n okresów
+param_N_name=Liczba okresów
+param_N_description=Liczba okresów
+param_clrEMA_name=Kolor linii
+param_clrEMA_description=Kolor linii eksponencjalnie ważonej średniej kroczącej
+param_widthEMA_name=Grubość linii
+param_widthEMA_description=Grubość linii eksponencjalnie ważonej średniej kroczącej
+param_styleEMA_name=Styl linii
+param_styleEMA_description=Styl linii eksponencjalnie ważonej średniej kroczącej
+
+[cze]
+codepage=1250
+name=Exponenciální vážený klouzavý průměr
+description=Vážená cena posledních N period.
+param_N_name=Počet period
+param_N_description=Počet period.
+param_clrEMA_name=Barva linky
+param_clrEMA_description=Barva linky exponenciálního váženého průměru.
+param_widthEMA_name=Šíře linky
+param_widthEMA_description=Šíře linky Exponential Weighted Moving Average
+param_styleEMA_name=Styl linky
+param_styleEMA_description=Styl linky Exponential Weighted Moving Average
+
+[por]
+codepage=1252
+name=Média Móvel Exponencial Ponderada
+description=O cálculo do preço ponderado pelos últimos N períodos
+param_N_name=Número de períodos
+param_N_description=O número de períodos
+param_clrEMA_name=Cor da linha
+param_clrEMA_description=A cor da linha da média móvel exponencial ponderada
+param_widthEMA_name=Largura da linha
+param_widthEMA_description=A largura da linha da Média Móvel Exponencial Ponderada.
+param_styleEMA_name=Estilo da linha
+param_styleEMA_description=O estilo da linha da Média Móvel Exponencial Ponderada.
+
+[gre]
+codepage=1253
+name=Exponential Weighted Moving Average (EWMA)
+description=Ο σταθμισμένος υπολογισμός τιμής των τελευταίων Ν περιόδων.
+param_N_name=Αριθμός περιόδων
+param_N_description=Ο αριθμός των περιόδων.
+param_clrEMA_name=Χρώμα Γραμμής
+param_clrEMA_description=Το χρώμα της γραμμής του Exponential Weighted Moving Average (EWMA).
+param_widthEMA_name=Πάχος γραμμής
+param_widthEMA_description=Το πάχος της γραμμής Exponential Weighted Moving Average (EWMA).
+param_styleEMA_name=Στυλ γραμμής
+param_styleEMA_description=Το στυλ της γραμμής Exponential Weighted Moving Average (EWMA).
+

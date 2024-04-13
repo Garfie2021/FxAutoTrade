@@ -1,0 +1,235 @@
+﻿default=enu
+[enu]
+codepage=1252
+name=Kaufman Adaptive Moving Average
+description=Is an exponential style average with a smoothing that varies according to recent data.
+param_N_name=Number of periods
+param_N_description=The number of periods.
+param_clrKAMA_name=Line color
+param_clrKAMA_description=The color of the Kaufman Adaptive Moving Average line.
+param_widthKAMA_name=Line width
+param_widthKAMA_description=The width of the Kaufman Adaptive Moving Average line.
+param_styleKAMA_name=Line style
+param_styleKAMA_description=The style of the Kaufman Adaptive Moving Average line.
+
+[ara]
+codepage=1256
+name=مؤشر الكاوفمان للمعدل المتحرك المتئقلم
+description=و هو معدل مضاعف يحتوي على تنظيم يعتمد على أخر البيانات
+param_N_name=عدد الفترات
+param_N_description=عدد الفترات
+param_clrKAMA_name=لون الخط
+param_clrKAMA_description=لون خط مؤشر الكاوفمان للمعدل المتحرك المتئقلم
+param_widthKAMA_name=عرض الخط
+param_widthKAMA_description=عرض خط مؤشر الكاوفمان للمعدل المتحرك المتئقلم
+param_styleKAMA_name=نوع الخط
+param_styleKAMA_description=نوع خط مؤشر الكاوفمان للمعدل المتحرك المتئقلم
+
+[chs]
+codepage=936
+name=Kaufman适应性移动平均
+description=利用近期数据平滑过的指数平均线
+param_N_name=时期数目
+param_N_description=时期数目
+param_clrKAMA_name=线颜色
+param_clrKAMA_description=Kaufman适应性移动平均线颜色
+param_widthKAMA_name=线宽
+param_widthKAMA_description=Kaufman适应性移动平均线的宽度
+param_styleKAMA_name=线样式
+param_styleKAMA_description=Kaufman适应性移动平均线样式
+
+[cht]
+codepage=950
+name=Kaufman適應性移動平均
+description=利用近期數據平滑過的指數平均線
+param_N_name=時期數目
+param_N_description=時期數目
+param_clrKAMA_name=線顏色
+param_clrKAMA_description=Kaufman適應性移動平均線顏色
+param_widthKAMA_name=線寬
+param_widthKAMA_description=Kaufman適應性移動平均線的寬度
+param_styleKAMA_name=線樣式
+param_styleKAMA_description=Kaufman適應性移動平均線樣式
+
+[ctt]
+codepage=950
+name=Kaufman適應性移動平均
+description=利用近期數據平滑過的指數平均線
+param_N_name=時期數目
+param_N_description=時期數目
+param_clrKAMA_name=線顏色
+param_clrKAMA_description=Kaufman適應性移動平均線顏色
+param_widthKAMA_name=
+param_widthKAMA_description=
+param_styleKAMA_name=
+param_styleKAMA_description=
+
+[deu]
+codepage=1252
+name=Kaufman Adaptiver gleitender Durchschnitt
+description=Ein exponentieller Durchschnitt mit einer nach aktueller Datei variierten Glättung.
+param_N_name=Anzahl der Perioden
+param_N_description=Anzahl der Perioden
+param_clrKAMA_name=Linienfarbe
+param_clrKAMA_description=Farbe der Kaufman-Adaptive-Moving-Average Linie
+param_widthKAMA_name=Linienbreite
+param_widthKAMA_description=Die Breite der Kaufman Adapative Gleitenden Durchschnittslinie
+param_styleKAMA_name=Linienstil
+param_styleKAMA_description=Der Stil der Kaufman Adaptiven Gleitenden Durchschnittslinie
+
+[esp]
+codepage=1252
+name=Media Móvil Adaptante de Kaufman
+description=Es un estilo de promedio exponencial con una nivelación que varia con la información más reciente.
+param_N_name=Número de periodos
+param_N_description=El número de periodos
+param_clrKAMA_name=Color de la línea
+param_clrKAMA_description=El color de la línea media móvil adaptante de Kaufman
+param_widthKAMA_name=Amplitud de la línea
+param_widthKAMA_description=La amplitud de la línea media móvil adaptante de Kaufman.
+param_styleKAMA_name=Estilo de línea
+param_styleKAMA_description=El estilo de lines de la línea media móvil adaptante de Kaufman.
+
+[fra]
+codepage=1252
+name=Moyenne mobile adaptative de Kaufman
+description=Est une moyenne de style exponentielle avec un lissage qui varie selon des données récentes.
+param_N_name=Nombre de périodes
+param_N_description=Le nombre de périodes.
+param_clrKAMA_name=Couleur de la ligne
+param_clrKAMA_description=La couleur de la ligne de la moyenne mobile adaptative de Kaufman.
+param_widthKAMA_name=Largeur de la ligne
+param_widthKAMA_description=La largeur de la ligne de la moyenne mobile adaptative Kaufman
+param_styleKAMA_name=Style de la ligne
+param_styleKAMA_description=Le style de la ligne de la moyenne mobile adaptative Kaufman
+
+[jpn]
+codepage=932
+name=カウフマン・アダプティブ移動平均線
+description=は最近のデータに基づいて変化する平滑効果を持った、指数的なスタイルの平均です。
+param_N_name=期間数
+param_N_description=期間数
+param_clrKAMA_name=ラインの色
+param_clrKAMA_description=カウフマン・アダプティブ移動平均線ラインの色
+param_widthKAMA_name=ラインの幅
+param_widthKAMA_description=Kaufman Adaptive Moving Averageラインの幅
+param_styleKAMA_name=ラインのスタイル
+param_styleKAMA_description=Kaufman Adaptive Moving Averageラインのスタイル
+
+[kor]
+codepage=949
+name=KAMA (적합 이동평균)
+description=현재의 데이터에 따라 부드러워(smoothing) 지는 기하급수적인 평균
+param_N_name=기간의 개수
+param_N_description=기간의 개수
+param_clrKAMA_name=선 색상
+param_clrKAMA_description=Kaufman Adaptive Moving Average 선의 색상
+param_widthKAMA_name=
+param_widthKAMA_description=
+param_styleKAMA_name=
+param_styleKAMA_description=
+
+[rus]
+codepage=1251
+name=Адаптивное скользящее среднее Кауфмана
+description=Экспоненциальное среднее со сглаживанием, зависящим от последних данных.
+param_N_name=Количество периодов
+param_N_description=Количество периодов.
+param_clrKAMA_name=Цвет линии
+param_clrKAMA_description=Цвет линии адаптивного скользящего среднего Кауфмана.
+param_widthKAMA_name=Ширина линии
+param_widthKAMA_description=Цвет линии адаптивного скользящего среднего Кауфмана.
+param_styleKAMA_name=Цвет линии
+param_styleKAMA_description=Цвет линии адаптивного скользящего среднего Кауфмана.
+
+[tur]
+codepage=1254
+name=Kaufman Uyarlamalı Hareketli Ortalama
+description=Son verilere göre çeşitlilik gösteren düzeltmeleri içeren üstel bir ortalama türüdür.
+param_N_name=Periyot sayısı
+param_N_description=Periyot sayısı.
+param_clrKAMA_name=Çizgi Rengi
+param_clrKAMA_description=Kaufman Uyarlamalı Hareketli Ortalama çizgi rengi
+param_widthKAMA_name=Çizgi kalınlığı
+param_widthKAMA_description=Kaufman Uyarlamalı Hareketli Ortalama çizgi kalınlığı.
+param_styleKAMA_name=Çizgi biçimi
+param_styleKAMA_description=Kaufman Uyarlamalı Hareketli Ortalama çizgi biçimi.
+
+[ita]
+codepage=1252
+name=Kaufman Adaptive Moving Average
+description=E' una media stile esponenziale con uno smoothing ratio che varia in base ai dati recenti
+param_N_name=Numero di periodi
+param_N_description=Il numero di periodi
+param_clrKAMA_name=Colore della linea
+param_clrKAMA_description=Il colore della linea della Kaufman Adaptive Moving Average
+param_widthKAMA_name=Spessore della linea
+param_widthKAMA_description=Lo spessore della linea Kaufman Adaptive Moving Average
+param_styleKAMA_name=Stile della linea
+param_styleKAMA_description=Lo stile della linea Kaufman Adaptive Moving Average
+
+[heb]
+codepage=1255
+name=הממוצע הנע האדפטיבי של קאופמן
+description=ממוצע נע אקספוננציאלי המשתנה בהתאם לנתונים האחרונים.
+param_N_name=מספר תקופות
+param_N_description=מספר התקופות.
+param_clrKAMA_name=צבע קו
+param_clrKAMA_description=צבע הקו של הממוצע הנע האדפטיבי של קאופמן
+param_widthKAMA_name=רוחב קו
+param_widthKAMA_description=רוחב קו הממוצע הנע האדפטיבי של קאופמן.
+param_styleKAMA_name=סוג קו
+param_styleKAMA_description=סוג קו של הממוצע הנע האדפטיבי של קאופמן.
+
+[pol]
+codepage=1250
+name=Adaptacyjna średnia krocząca Kaufmana
+description=Eksponencjalna średnia krocząca ze zmiennym stopniem wygładzania
+param_N_name=Liczba okresów
+param_N_description=Liczba okresów
+param_clrKAMA_name=Kolor linii
+param_clrKAMA_description=Kolor linii adaptacyjnej średniej kroczącej Kaufmana.
+param_widthKAMA_name=Grubość linii
+param_widthKAMA_description=Grubość linii adaptacyjnej średniej kroczącej Kaufmana.
+param_styleKAMA_name=Styl linii
+param_styleKAMA_description=Styl linii adaptacyjnej średniej kroczącej Kaufmana.
+
+[cze]
+codepage=1250
+name=Kaufmanův přizpůsobivý klouzavý průměr
+description=Je vyhlazený exponenciální klouzavý průměr, který reflektuje nejnovější data.
+param_N_name=Počet period
+param_N_description=Počet period.
+param_clrKAMA_name=Barva linky
+param_clrKAMA_description=Barva Kaufmanova přizpůsobivého klouzavého průměru.
+param_widthKAMA_name=Šíře linky
+param_widthKAMA_description=Šíře linky Kaufmanova přizpůsobivého klouzavého průměru.
+param_styleKAMA_name=Styl linky
+param_styleKAMA_description=Styl linky Kaufmanova přizpůsobivého klouzavého průměru.
+
+[por]
+codepage=1252
+name=Media Móvel Adaptativa de Kaufman
+description=É um estilo de média exponencial com uma nivelação que varia com a informação mais recente.
+param_N_name=Número de períodos
+param_N_description=O número de períodos
+param_clrKAMA_name=Cor da linha
+param_clrKAMA_description=A cor da linha media móvel adaptativa de Kaufman
+param_widthKAMA_name=Largura da linha
+param_widthKAMA_description=A largura da linha da Media Móvel Adaptativa de Kaufman.
+param_styleKAMA_name=Estilo da linha
+param_styleKAMA_description=O estilo da linha da Media Móvel Adaptativa de Kaufman.
+
+[gre]
+codepage=1253
+name=Kaufman Adaptive Moving Average
+description=Είναι ένας μέσος όρος εκθετικού τύπου με εξομάλυνση που αλλάζει ανάλογα με τα πρόσφατα δεδομένα.
+param_N_name=Αριθμός περιόδων
+param_N_description=Ο αριθμός των περιόδων.
+param_clrKAMA_name=Χρώμα γραμμής
+param_clrKAMA_description=Το χρώμα της γραμμής του Kaufman Adaptive Moving Average.
+param_widthKAMA_name=Πάχος γραμμής
+param_widthKAMA_description=Το πάχος της γραμμής του Kaufman Adaptive Moving Average
+param_styleKAMA_name=Στυλ γραμμής
+param_styleKAMA_description=Το στυλ της γραμμής του Kaufman Adaptive Moving Average
+

@@ -1,0 +1,271 @@
+﻿default=enu
+[enu]
+codepage=1252
+name=OSC Oscillator
+description=Compares where a security price closed relative to its price range over a given time period.
+param_N_name=Long term
+param_N_description=The number of periods for the long Simple Moving Average.
+param_M_name=Short term
+param_M_description=The number of periods for the short Simple Moving Average.
+param_OSC_name=Line color
+param_OSC_description=The color of the Oscillator line.
+param_widthOSC_name=Line width
+param_widthOSC_description=The width of the Oscillator line.
+param_styleOSC_name=Line style
+param_styleOSC_description=The style of the Oscillator line.
+
+[ara]
+codepage=1256
+name=مؤشر المذبذبات
+description=يقارن سعر الاغلاق مع معدل تحرك السعر خلال فترة معينة
+param_N_name=اعتمد فترة طويلة
+param_N_description=عدد فترات long Simple Moving Average
+param_M_name=اعتمد فترة قصيرة
+param_M_description=عدد فترات short Simple Moving Average
+param_OSC_name=لون الخط
+param_OSC_description=لون خط مؤشر المذبذبات
+param_widthOSC_name=عرض الخط
+param_widthOSC_description=عرض خط مؤشر المذبذبات
+param_styleOSC_name=نوع الخط
+param_styleOSC_description=نوع خط مؤشر المذبذبات
+
+[chs]
+codepage=936
+name=摆荡指标
+description=对比收盘价与过去某一时期的交易区间
+param_N_name=长期
+param_N_description=长移动平均线时期
+param_M_name=短期
+param_M_description=短移动平均线时期
+param_OSC_name=线颜色
+param_OSC_description=摆荡线颜色
+param_widthOSC_name=线宽
+param_widthOSC_description=摆荡指标线的宽度
+param_styleOSC_name=线样式
+param_styleOSC_description=摆荡指标线样式
+
+[cht]
+codepage=950
+name=擺盪指標
+description=對比收盤價與過去某一時期的交易區間
+param_N_name=長期
+param_N_description=長移動平均線時期
+param_M_name=短期
+param_M_description=短移動平均線時期
+param_OSC_name=線顏色
+param_OSC_description=擺盪線顏色
+param_widthOSC_name=線寬
+param_widthOSC_description=擺盪指標線的寬度
+param_styleOSC_name=線樣式
+param_styleOSC_description=擺盪指標線樣式
+
+[ctt]
+codepage=950
+name=擺盪指標
+description=對比收盤價與過去某一時期的交易區間
+param_N_name=長期
+param_N_description=長移動平均線時期
+param_M_name=短期
+param_M_description=短移動平均線時期
+param_OSC_name=線顏色
+param_OSC_description=擺盪線顏色
+param_widthOSC_name=
+param_widthOSC_description=
+param_styleOSC_name=
+param_styleOSC_description=
+
+[deu]
+codepage=1252
+name=OSC Oszillator
+description=Zieht einen verhältnismäßigen Vergleich zwischen dem Schlusspreis eines Wertpapiers und der Kursspanne über einer gewissen Zeitspanne
+param_N_name=Lange Periode definieren
+param_N_description=Anzahl von Perioden des einfachen gleitenden Durchschnitts.
+param_M_name=Kurze Periode definieren
+param_M_description=Anzahl von Perioden des einfachen gleitenden Durchschnitts.
+param_OSC_name=Linienfarbe
+param_OSC_description=Farbe der Oscillator-Linie
+param_widthOSC_name=Linienbreite
+param_widthOSC_description=Die Breite der Oszilatorenlinie
+param_styleOSC_name=Linienstil
+param_styleOSC_description=Der Stil der Oszilatorenlinie
+
+[esp]
+codepage=1252
+name=Oscilador OSC
+description=Compara el precio de un título de valor con respecto a su rango de precios dado en un lapso de tiempo determinado.
+param_N_name=Determinar período largo
+param_N_description=El número de periodos para la media móvil simple
+param_M_name=Determinar período corto
+param_M_description=El número de periodos para la media móvil simple de corto plazo
+param_OSC_name=Color de la línea
+param_OSC_description=El color de la línea osciladora
+param_widthOSC_name=Amplitud de la línea
+param_widthOSC_description=La amplitud de la línea Osciladora.
+param_styleOSC_name=Estilo de la línea
+param_styleOSC_description=El estilo de la línea Osciladora.
+
+[fra]
+codepage=1252
+name=Oscillateur OSC
+description=Compare la où un prix à clôturé en rapport à un prix sur une période donnée.
+param_N_name=Mettre en place une période à long terme
+param_N_description=Le nombre de périodes pour une moyenne mobile simple sur long terme.
+param_M_name=Mettre en place une période à court terme
+param_M_description=Le nombre de périodes pour une moyenne mobile simple sur court terme.
+param_OSC_name=Couleur de la ligne
+param_OSC_description=La couleur de la ligne de l'Oscillateur.
+param_widthOSC_name=Largeur de la ligne
+param_widthOSC_description=La largeur de la ligne de l'oscillateur
+param_styleOSC_name=Style de la ligne
+param_styleOSC_description=Le style de la ligne de l'oscillateur
+
+[jpn]
+codepage=932
+name=OSC オシレーター（相対性指数）
+description=クローズされたセキュリティープライスと特定の期間のプライスレンジの関連性を比較します
+param_N_name=ロング・ピリオドを設定
+param_N_description=ロング・ピリオド単純移動平均の期間
+param_M_name=ショート・ピリオドを設定
+param_M_description=ショート・ピリオド単純移動平均の期間
+param_OSC_name=ラインの色
+param_OSC_description=OSC オシレーター（相対性指数の色
+param_widthOSC_name=ラインの幅
+param_widthOSC_description=Oscillatorラインの幅
+param_styleOSC_name=ラインのスタイル
+param_styleOSC_description=Oscillatorラインのスタイル
+
+[kor]
+codepage=949
+name=OSC (OSC Oscillator)
+description=주어진 기간의 가격 범위네에서 닫힌 담보가격 비교
+param_N_name=장기간 정하기
+param_N_description=긴 단순 이동평균의 기간 개수
+param_M_name=단기간 정하기
+param_M_description=짧은 단순 이동평균의 기간 개수
+param_OSC_name=선 색상
+param_OSC_description=Oscillator 선의 색상
+param_widthOSC_name=
+param_widthOSC_description=
+param_styleOSC_name=
+param_styleOSC_description=
+
+[rus]
+codepage=1251
+name=Осциллятор OSC
+description=Показывает отношение цены, по которой период бы закрыт, с диапазоном цен за этот период.
+param_N_name=Длинный период
+param_N_description=Количество периодов для длинного простого скользящего среднего.
+param_M_name=Короткий период
+param_M_description=Количество периодов для короткого простого скользящего среднего.
+param_OSC_name=Цвет линии
+param_OSC_description=Цвет линии осциллятора OSC.
+param_widthOSC_name=Ширина линии
+param_widthOSC_description=Ширина линии осциллятора OSC.
+param_styleOSC_name=Стиль линии
+param_styleOSC_description=Стиль линии осциллятора OSC.
+
+[tur]
+codepage=1254
+name=OSC Osilatörü
+description=Belirtilen zaman periyodunda kapanış fiyatının fiyat aralığına göre yerini karşılaştırır.
+param_N_name=Uzun dönem
+param_N_description=Uzun Basit Hareketli Ortalama'nın periyot sayısı.
+param_M_name=Kısa dönem
+param_M_description=Kısa Basit Hareketli Ortalama'nın periyot sayısı.
+param_OSC_name=Çizgi Rengi
+param_OSC_description=Osilatör çizgisinin rengi.
+param_widthOSC_name=Çizgi kalınlığı
+param_widthOSC_description=Osilatör çizginin kalınlığı.
+param_styleOSC_name=Çizgi biçimi
+param_styleOSC_description=Osilatör çizgisinin biçimi.
+
+[ita]
+codepage=1252
+name=OSC Oscillator
+description=Paragona la chiusura più recente di un attività finanziaria con la sua escursione calcolata su un dato periodo temporale
+param_N_name=Lungo periodo
+param_N_description=Il numero di periodi per la Long Simple Moving Average
+param_M_name=Breve periodo
+param_M_description=Il numero di periodi per la Short Simple Moving Average
+param_OSC_name=Colore della linea
+param_OSC_description=Il colore della linea dell'oscillatore
+param_widthOSC_name=Spessore della linea
+param_widthOSC_description=Lo spessore della linea dell'Oscillatore
+param_styleOSC_name=Stile della linea
+param_styleOSC_description=Lo stile della linea dell'Oscillatore
+
+[heb]
+codepage=1255
+name=מתנד OSC
+description=בוחן את מחיר הסגירה ביחס לטווח המחיר בתקופה הנתונה.
+param_N_name=טווח ארוך
+param_N_description=מספר התקופות של הממוצע הפשוט הארוך.
+param_M_name=טווח קצר
+param_M_description=מספר התקופות של הממוצע הפשוט הקצר.
+param_OSC_name=צבע קו
+param_OSC_description=צבע הקו של המתנד
+param_widthOSC_name=רוחב קו
+param_widthOSC_description=רוחב הקו של המתנד
+param_styleOSC_name=סגנון קו
+param_styleOSC_description=סגנון הקו של המתנד
+
+[pol]
+codepage=1250
+name=Oscylator zwykły
+description=Porównuje gdzie cena zamknęła się w relacji do zakresu osiąganego w danym okresie
+param_N_name=Długi okres
+param_N_description=Liczba okresów dla długiej zwykłej średniej kroczącej
+param_M_name=Krótki okres
+param_M_description=Liczba okresów dla krótkiej zwykłej średniej kroczącej
+param_OSC_name=Kolor linii
+param_OSC_description=Kolor linii oscylatora.
+param_widthOSC_name=Grubość linii
+param_widthOSC_description=Grubość linii oscylatora.
+param_styleOSC_name=Styl linii
+param_styleOSC_description=Styl linii oscylatora.
+
+[cze]
+codepage=1250
+name=OSC Oscilátor
+description=Porovnává, kde cena uzavřela ve vztahu k rozpětí cen za určité období
+param_N_name=Dlouhodobý
+param_N_description=Počet period dlouhého jednoduchého klouzavého průměru.
+param_M_name=Krátkodobý
+param_M_description=Počet period krátkého jednoduchého klouzavého průměru.
+param_OSC_name=Barva linky
+param_OSC_description=Barva linky oscilátoru.
+param_widthOSC_name=Šíře linky
+param_widthOSC_description=Šíře linky oscilátoru.
+param_styleOSC_name=Styl linky
+param_styleOSC_description=Styl linky oscilátoru.
+
+[por]
+codepage=1252
+name=Oscilador OSC
+description=Compara o preço em que um título de valor fecha relativo ao seu intervalo de preços, dado um lapso de tempo determinado.
+param_N_name=Determinar prazo longo
+param_N_description=O número de períodos para a média móvel simples de longo prazo
+param_M_name=Determinar curto prazo
+param_M_description=O número de períodos para a media móvel simples de curto prazo
+param_OSC_name=Cor da linha
+param_OSC_description=A cor da linha osciladora
+param_widthOSC_name=Largura da linha
+param_widthOSC_description=A largura da linha do Oscilador.
+param_styleOSC_name=Estilo da linha
+param_styleOSC_description=O estilo da linha do Oscilador.
+
+[gre]
+codepage=1253
+name=Ταλαντωτής OSC
+description=Συγκρίνει το κλείσιμο της τιμής ενός αξιόγραφου σε σχέση με τα όρια διακύμανσής της μέσα σε μια συγκεκριμένη χρονική περίοδο.
+param_N_name=Μακροπρόθεσμος
+param_N_description=Ο αριθμός των περιόδων για το μακροπρόθεσμο Απλό Κινητό Μέσο Όρο.
+param_M_name=Βραχυπρόθεσμος
+param_M_description=Ο αριθμός των περιόδων για το βραχυπρόθεσμο Απλό Κινητό Μέσο Όρο.
+param_OSC_name=Χρώμα γραμμής
+param_OSC_description=Το χρώμα της γραμμής του Ταλαντωτή.
+param_widthOSC_name=Πάχος γραμμής
+param_widthOSC_description=Το πάχος της γραμμής Oscillator
+param_styleOSC_name=Στυλ γραμμής
+param_styleOSC_description=Το στυλ της γραμμής Oscillator
+

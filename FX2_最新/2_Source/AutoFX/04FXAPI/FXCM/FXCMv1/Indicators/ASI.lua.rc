@@ -1,0 +1,209 @@
+﻿default=enu
+[enu]
+codepage=1252
+name=Accumulation Swing Index
+description=Gets signals from previous maximums and minimums of price.
+param_T_name=T
+param_T_description=Maximum price changing during the trade session.
+param_clrASI_name=Line color
+param_clrASI_description=The color of the Accumulation Swing Index line.
+param_widthASI_name=Line width
+param_widthASI_description=The width of the Accumulation Swing Index line.
+param_styleASI_name=Line style
+param_styleASI_description=The style of the Accumulation Swing Index line.
+
+[rus]
+codepage=1251
+name=Кумулятивный индекс колебаний
+description=Получает сигналы от предыдущих максимумов и минимумов цены.
+param_T_name=T
+param_T_description=Максимальное изменение цены в течение торговой сессии.
+param_clrASI_name=Цвет линии
+param_clrASI_description=Цвет линии кумулятивного индекса колебаний.
+param_widthASI_name=Ширина линии
+param_widthASI_description=Ширина линии кумулятивного индекса колебаний.
+param_styleASI_name=Стиль линии
+param_styleASI_description=Стиль линии кумулятивного индекса колебаний.
+
+[fra]
+codepage=1252
+name=Accumulation Swing Index
+description=Obtient des signaux des précédents maximum et minimum de prix
+param_T_name=T
+param_T_description=Changement maximum de prix au cours de la session de trade
+param_clrASI_name=Couleur de ligne
+param_clrASI_description=La couleur de la ligne de l'Accumulation Swing Index
+param_widthASI_name=Largeur de la ligne
+param_widthASI_description=La largeur de la ligne de l'Accumulation Swing Index
+param_styleASI_name=Style de la ligne
+param_styleASI_description=Le style de la ligne de l'Accumulation Swing Index
+
+[ara]
+codepage=1256
+name=مؤشر التراكم المتأرجح
+description=تحصل على إشارات من الأسعار العليا والدنيا السابقة
+param_T_name=T
+param_T_description=الحد الأقصى لتغير السعر خلال جلسة التداول
+param_clrASI_name=لون الخط
+param_clrASI_description=لون الخط مؤشر ASI
+param_widthASI_name=عرض الخط
+param_widthASI_description=عرض الخط الخاص بمؤشر ASI.
+param_styleASI_name=نوع الخط
+param_styleASI_description=نوع الخط الخاص بمؤشر ASI.
+
+[chs]
+codepage=936
+name=累计震荡量指标
+description=由以往最高及最低价格获取信号
+param_T_name=于交易时段内最大价格变化
+param_T_description=最高价格在交易时段内改变
+param_clrASI_name=线颜色
+param_clrASI_description=累计震荡量指标线颜色
+param_widthASI_name=线宽
+param_widthASI_description=累计震荡量指标线的宽度
+param_styleASI_name=线样式
+param_styleASI_description=累计震荡量指标线样式
+
+[cht]
+codepage=950
+name=累計震盪量指標
+description=由以往最高及最低價格獲取信號
+param_T_name=於交易時段內最大價格變化
+param_T_description=最高價格在交易時段內改變
+param_clrASI_name=線顏色
+param_clrASI_description=累計震盪量指標線顏色
+param_widthASI_name=線寬
+param_widthASI_description=累計震盪量指標線的寬度
+param_styleASI_name=線樣式
+param_styleASI_description=累計震盪量指標線樣式
+
+[esp]
+codepage=1252
+name=Índice de Acumulación Swing
+description=Obtiene señales de los precios máximos y mínimos anteriores.
+param_T_name=T
+param_T_description=Cambio máximo de precios durante la sesión de operaciones.
+param_clrASI_name=Color de la línea
+param_clrASI_description=El color de la línea del índice de acumulación de Swing
+param_widthASI_name=Amplitud de la línea
+param_widthASI_description=Amplitud de la línea del índice de acumulación Swing.
+param_styleASI_name=Estilo de la línea
+param_styleASI_description=Estilo de la línea del índice de acumulación Swing.
+
+[heb]
+codepage=1255
+name=מדד הצטברות סווינג
+description=קבלת איתותים ממחירי מקסימום ומינימום קודמים
+param_T_name=T
+param_T_description=שינוי המחיר המקסימלי במהלך יום מהסחר
+param_clrASI_name=צבע קו
+param_clrASI_description=צבע של הקו של מדד הצטברות סווינג
+param_widthASI_name=רוחב קו
+param_widthASI_description=רוחב קו מדד הצטברות סווינג.
+param_styleASI_name=סוג קו
+param_styleASI_description=סוג קו מדד הצטברות סווינג.
+
+[ita]
+codepage=1252
+name=Accumulation Swing Index
+description=Ricevi segnali dai precedenti minimi e massimi del prezzo
+param_T_name=T
+param_T_description=Massimo cambiamento del prezzo durante la sessione di trading.
+param_clrASI_name=Colore della linea
+param_clrASI_description=Il colore della linea di Accumulation Swing Index.
+param_widthASI_name=Spessore della linea
+param_widthASI_description=Lo spessore della linea Accumulation Swing Index.
+param_styleASI_name=Stile della linea
+param_styleASI_description=Lo stile della linea Accumulation Swing Index.
+
+[pol]
+codepage=1250
+name=Accumulation Swing Index
+description=Daje sygnały na bazie poprzednich minimów i maksimów ceny.
+param_T_name=T
+param_T_description=Maksymalna zmiana ceny w trakcie sesji.
+param_clrASI_name=Kolor linii
+param_clrASI_description=Kolor linii Accumulation Swing Index.
+param_widthASI_name=Grubość linii
+param_widthASI_description=Grubość linii Accumulation Swing Index
+param_styleASI_name=Styl linii
+param_styleASI_description=Styl linii Accumulation Swing Index
+
+[tur]
+codepage=1254
+name=Toplam Yön Değişim Endeksi
+description=Bir önceki en yüksek ve en düşük fiyata göre sinyalleri getir.
+param_T_name=T
+param_T_description=İşlem süresince gerçekleşen asgari fiyat değişimi
+param_clrASI_name=Çizgi rengi
+param_clrASI_description=Toplam Yön Değişim Endeksi çizgi rengi
+param_widthASI_name=Çizgi kalınlığı
+param_widthASI_description=Toplam Yön Değişim Endeksi çizgi kalınlığı.
+param_styleASI_name=Çizgi biçimi
+param_styleASI_description=Toplam Yön Değişim Endeksi çizgi biçimi.
+
+[cze]
+codepage=1250
+name=Accumulation Swing Index
+description=Získává signály z předchozích cenových maxim a minim
+param_T_name=T
+param_T_description=Maximální cenová změna v průběhu seance
+param_clrASI_name=Barva linky
+param_clrASI_description=Barva linky Accumulation Swing Index
+param_widthASI_name=Šíře linky
+param_widthASI_description=Šíře linky Accumulation Swing Index.
+param_styleASI_name=Styl linky
+param_styleASI_description=Styl linky Accumulation Swing Index.
+
+[gre]
+codepage=1253
+name=Accumulation Swing Index
+description=Λαμβάνει σήματα από προηγούμενα υψηλά και χαμηλά τιμών
+param_T_name=T
+param_T_description=Μέγιστη μεταβολή της τιμής κατά τη διάρκεια της συναλλαγής
+param_clrASI_name=Χρώμα γραμμής
+param_clrASI_description=Το χρώμα της γραμμής του Accumulation Swing Index
+param_widthASI_name=Πάχος γραμμής
+param_widthASI_description=Το πάχος της γραμμής του ταλαντωτή Accumulation Swing
+param_styleASI_name=Στυλ γραμμής
+param_styleASI_description=Το στυλ της γραμμής του ταλαντωτή Accumulation Swing
+
+[jpn]
+codepage=932
+name=アキュミュレーションスイングインデックス
+description=以前の最大値/最小値からシグナルを取得します。
+param_T_name=T
+param_T_description=この取引セッションでの最大価格変動値。
+param_clrASI_name=ラインの色
+param_clrASI_description=アキュミュレーションスイングインデックスラインの色。
+param_widthASI_name=ラインの幅
+param_widthASI_description=Accumulation Swing Index ラインの幅
+param_styleASI_name=ラインのスタイル
+param_styleASI_description=Accumulation Swing Index ラインのスタイル
+
+[por]
+codepage=1252
+name=Accumulation Swing Index
+description=Adquire sinais de máximos e mínimos de preço anteriores.
+param_T_name=T
+param_T_description=Variação máxima de preço durante a sessão de operação.
+param_clrASI_name=Cor de Linha
+param_clrASI_description=Cor da linha do Accumulation Swing Index.
+param_widthASI_name=Largura da linha
+param_widthASI_description=A largura da linha do Accumulation Swing Index.
+param_styleASI_name=Estilo da linha
+param_styleASI_description=O estilo da linha do Accumulation Swing Index.
+
+[deu]
+codepage=1252
+name=Accumulation Swing Index
+description=Signale der vorherigen maximalen und minimalen Preise empfangen.
+param_T_name=T
+param_T_description=Maximale Preisänderung während der Handelssession
+param_clrASI_name=Linienfarbe
+param_clrASI_description=Farbe der Accumulation-Swing-Index-Linie
+param_widthASI_name=Linienbreite
+param_widthASI_description=Die Breite der Accumulation Swing Index Linie.
+param_styleASI_name=Linienstil
+param_styleASI_description=Der Stil der Accumulation Swing Index Linie.
+

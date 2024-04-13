@@ -1,0 +1,209 @@
+﻿default=enu
+[enu]
+codepage=1252
+name=Chande's Variable Index Dynamic Average
+description=Adapts the weighting of the last prices to the volatility of the market.
+param_P_name=Number of periods
+param_P_description=The number of periods.
+param_V_color_name=Line color
+param_V_color_description=The color of the Chande's Variable Index Dynamic Average line.
+param_V_width_name=Line width
+param_V_width_description=The width of the Chande's Variable Index Dynamic Average line.
+param_V_style_name=Line style
+param_V_style_description=The style of the Chande's Variable Index Dynamic Average line.
+
+[rus]
+codepage=1251
+name=Скользящее среднее с динамическим периодом усреднения Чанде
+description=Адаптирует вес последних цен к волатильности рынка.
+param_P_name=Количество периодов
+param_P_description=Количество периодов.
+param_V_color_name=Цвет линии
+param_V_color_description=Цвет линии скользящего среднего с динамическим периодом усреднения Чанде.
+param_V_width_name=Ширина линии
+param_V_width_description=Ширина линии скользящего среднего с динамическим усреднением Чанде.
+param_V_style_name=Стиль линии
+param_V_style_description=Стиль линии скользящего среднего с динамическим усреднением Чанде.
+
+[ara]
+codepage=1256
+name=مؤشر تشاند المتغير المتوسط الديناميكي
+description=يتكيف مع أوزان الأسعار الأخير لتقلبات السوق.
+param_P_name=عدد الفترات
+param_P_description=عدد الفترات.
+param_V_color_name=لون الخط
+param_V_color_description=لون خط مؤشر تشاند المتغير المتوسط الديناميكي
+param_V_width_name=عرض الخط
+param_V_width_description=عرض الخط الخاص بمؤشر تشاند المتغير المتوسط الديناميكي
+param_V_style_name=نوع الخط
+param_V_style_description=نوع الخط الخاص بمؤشر تشاند المتغير المتوسط الديناميكي
+
+[chs]
+codepage=936
+name=弹性指数动态平均
+description=采用最近的价格相对于市场波动的权重
+param_P_name=时期数目
+param_P_description=时期数目
+param_V_color_name=线颜色
+param_V_color_description=弹性指数动态平均线颜色
+param_V_width_name=线宽
+param_V_width_description=弹性指数动态平均线宽度
+param_V_style_name=线样式
+param_V_style_description=弹性指数动态平均线样式
+
+[cht]
+codepage=950
+name=彈性指數動態平均
+description=採用最近的價格相對於市場波動的權重
+param_P_name=時期數目
+param_P_description=時期數目
+param_V_color_name=線顏色
+param_V_color_description=彈性指數動態平均線顏色
+param_V_width_name=線寬
+param_V_width_description=彈性指數動態平均線寬度
+param_V_style_name=線樣式
+param_V_style_description=彈性指數動態平均線樣式
+
+[cze]
+codepage=1250
+name=Chande's Variable Index Dynamic Average
+description=Adaptuje váhu poslední ceny na volatilitu trhu.
+param_P_name=Počet period
+param_P_description=Počet period.
+param_V_color_name=Barva linky
+param_V_color_description=Barva linky Chande's Variable Index Dynamic Average.
+param_V_width_name=Šíře linky
+param_V_width_description=Šíře linky Chande´s Variable Index Dynamix Average.
+param_V_style_name=Styl linky
+param_V_style_description=Styl linky Chande´s Variable Index Dynamix Average.
+
+[deu]
+codepage=1252
+name=Chande's Variable Index Dynamic Average
+description=Adaptiert das Gewicht des letzten Preise zur Volatilität des Marktes
+param_P_name=Anzahl der Perioden
+param_P_description=Die Anzahl der Perioden
+param_V_color_name=Linienfarbe
+param_V_color_description=Die Farbe der Chande's Variable Index Dynamic Average Linie
+param_V_width_name=Linienbreite
+param_V_width_description=Breite von Chandes Variable Index Dynamic Average Linie.
+param_V_style_name=Linienstil
+param_V_style_description=Art von Chandes Variable Index Dynamic Average Linie.
+
+[fra]
+codepage=1252
+name=Indice Chande de variable dynamique moyenne
+description=Adapte le poids des derniers prix à la volatilité du marché
+param_P_name=Nombre de périodes
+param_P_description=Le nombre de périodes
+param_V_color_name=Couleur de la ligne
+param_V_color_description=La couleur de la ligne de l'indice Chande de variable dynamique moyenne
+param_V_width_name=Largeur de la ligne
+param_V_width_description=La largeur de la ligne du Chande Variable Index Dynamic Average
+param_V_style_name=Style de la ligne
+param_V_style_description=Le style de la ligne du Chande Variable Index Dynamic Average
+
+[gre]
+codepage=1253
+name=Chande's Variable Index Dynamic Average
+description=Προσαρμόζει το βάρος των τελευταίων τιμών στην μεταβλητότητα της αγοράς.
+param_P_name=Αριθμός περιόδων
+param_P_description=Ο αριθμός των περιόδων.
+param_V_color_name=Χρώμα γραμμής
+param_V_color_description=Το χρώμα της γραμμής του Chande's Variable Index Dynamic Average.
+param_V_width_name=Πάχος γραμμής
+param_V_width_description=Το πλάτος της γραμμής του Chande's Variable Index Dynamic Average.
+param_V_style_name=Στυλ γραμμής
+param_V_style_description=Το στυλ της γραμμής του Chande's Variable Index Dynamic Average.
+
+[heb]
+codepage=1255
+name=האינדיקס הדינמי המשתנה של צ'נדה
+description=משקלל את המחירים האחרונים כדי לאמוד את תנודתיות השוק.
+param_P_name=מספר תקופות
+param_P_description=מספר התקופות.
+param_V_color_name=צבע קו
+param_V_color_description=צבע הקו של האינדקס של צ'נדה.
+param_V_width_name=רוחב קו
+param_V_width_description=רוחב הקו של האינדיקטור הממוצע הדינמי של שאנדה 
+param_V_style_name=סגנון קו
+param_V_style_description=סגנון הקו של האינדיקטור הממוצע הדינמי של שאנדה 
+
+[ita]
+codepage=1252
+name=Indice Variabile Chande Dynamic Average
+description=Adatta il peso degli ultimi prezzi alla volatilità del mercato
+param_P_name=Numero di periodi
+param_P_description=Il numero dei periodi
+param_V_color_name=Colore linea
+param_V_color_description=Il colore della linea Indice Variabile Chande Dynamic Average
+param_V_width_name=Spessore della linea
+param_V_width_description=Lo spessore della linea della Chande's Variable Index Dynamic Average
+param_V_style_name=Stile della linea
+param_V_style_description=Lo stile della linea della Chande's Variable Index Dynamic Average
+
+[jpn]
+codepage=932
+name=VIDYA
+description=最近のプライスを加重化し、市場のボラティリティを考慮した移動平均線です。
+param_P_name=期間の数
+param_P_description=期間の数
+param_V_color_name=ラインの色
+param_V_color_description=Chande's Variable Index Dynamic Average ラインの色
+param_V_width_name=ラインの幅
+param_V_width_description=VIDYA ラインの幅
+param_V_style_name=ラインのスタイル
+param_V_style_description=VIDYA ラインのスタイル
+
+[tur]
+codepage=1254
+name=Chande'nin Değişken Endeksli Dinamik Ortalaması
+description=Son fiyatın ağırlığını piyasa volatilitesine adapte eder.
+param_P_name=Periyot sayısı
+param_P_description=Periyot sayısı
+param_V_color_name=Çizgi rengi
+param_V_color_description=Chande'nin Değişken Endeksli Dinamik Ortalamasının çizgi rengi
+param_V_width_name=Çizgi kalınlığı
+param_V_width_description=Chande'nin Değişken Endeksli Dinamik Ortalamasının çizgi kalınlığı.
+param_V_style_name=Çizgi biçimi
+param_V_style_description=Chande'nin Değişken Endeksli Dinamik Ortalamasının çizgi biçimi.
+
+[pol]
+codepage=1250
+name=Średnia Dynamicznego Indeksu Zmienności Chandego
+description=Przekłada rozkład wagowy ostatnich cen na zmienności rynku.
+param_P_name=Liczba okresów.
+param_P_description=Liczba okresów.
+param_V_color_name=Kolor lini
+param_V_color_description=Kolor lini Średniej Dynamicznego Indeksu Zmienności Chandego
+param_V_width_name=Grubość linii
+param_V_width_description=The width of the Chande's Variable Index Dynamic Average line.
+param_V_style_name=Styl linii
+param_V_style_description=The style of the Chande's Variable Index Dynamic Average line.
+
+[por]
+codepage=1252
+name=Média Dinâmica do Índice Variável de Chande
+description=Adapta a ponderação dos últimos preços à volatilidade do mercado.
+param_P_name=Número de períodos
+param_P_description=O número de períodos.
+param_V_color_name=Cor da linha
+param_V_color_description=A cor da linha da Média Dinâmica do Índice Variável de Chande.
+param_V_width_name=Largura da linha
+param_V_width_description=A largura da linha da Média Dinâmica do Índice Variável de Chande.
+param_V_style_name=Estilo da linha
+param_V_style_description=O estilo da linha da Média Dinâmica do Índice Variável de Chande.
+
+[esp]
+codepage=1252
+name=Índice Variable del Promedio Dinámico Chandes
+description=Se adapta a la ponderación de los últimos precios de la volatilidad del mercado
+param_P_name=Numero de Periodos
+param_P_description=El numero de periodos
+param_V_color_name=Color de la línea
+param_V_color_description=Color de la línea del índice Variable del Promedio Dinámico Chande's
+param_V_width_name=Amplitud de la línea
+param_V_width_description=La amplitud del promedio de la linea  del Indice Dinamico de la Variable Chande. 
+param_V_style_name=Estilo de la línea
+param_V_style_description=El estilo del promedio de la linea  del Indice Dinamico de la Variable Chande.
+

@@ -1,0 +1,343 @@
+﻿default=enu
+[enu]
+codepage=1252
+name=Directional Movement Index
+description=Identifies whether there is a definable trend in the market.
+param_N_name=Number of periods
+param_N_description=The number of periods.
+param_clrDIP_name=Color of DI+
+param_clrDIP_description=The color of the DI+ line.
+param_widthDIP_name=Width of DI+
+param_widthDIP_description=The width of the DI+ line.
+param_styleDIP_name=Style of DI+
+param_styleDIP_description=The style of the DI+ line.
+param_clrDIM_name=Color of DI-
+param_clrDIM_description=The color of the DI- line.
+param_widthDIM_name=Width of DI-
+param_widthDIM_description=The width of the DI- line.
+param_styleDIM_name=Style of DI-
+param_styleDIM_description=The style of the DI- line.
+
+[ara]
+codepage=1256
+name=مؤشر التوجه المتحرك
+description=تحديد ما إذا كان هناك اتجاه واحد للسوق
+param_N_name=عدد الفترات
+param_N_description=عدد الفترات
+param_clrDIP_name=لون DI+
+param_clrDIP_description=لون خط DI+
+param_widthDIP_name=عرض DI+
+param_widthDIP_description=عرض الخط الخاص بـ DI+.
+param_styleDIP_name=نوع DI+
+param_styleDIP_description=نوع الخط الخاص بـ DI+.
+param_clrDIM_name=لون DI-
+param_clrDIM_description=لون خط DI-
+param_widthDIM_name=عرض DI-
+param_widthDIM_description=عرض الخط الخاص بـ DI-.
+param_styleDIM_name=نوع DI-
+param_styleDIM_description=نوع الخط الخاص بـ DI-.
+
+[chs]
+codepage=936
+name=趋向指标
+description=确认是否有可定义的趋势市
+param_N_name=时期数目
+param_N_description=时期数目
+param_clrDIP_name=DI+颜色
+param_clrDIP_description=DI+线颜色
+param_widthDIP_name=DI+宽度
+param_widthDIP_description=DI+线的宽度
+param_styleDIP_name=DI+样式
+param_styleDIP_description=DI+线的样式
+param_clrDIM_name=DI-线颜色
+param_clrDIM_description=DI-线颜色
+param_widthDIM_name=DI-宽度
+param_widthDIM_description=DI-线的宽度
+param_styleDIM_name=DI-样式
+param_styleDIM_description=DI-线的样式
+
+[cht]
+codepage=950
+name=趨向指標
+description=確認是否有可定義的趨勢市
+param_N_name=時期數目
+param_N_description=時期數目
+param_clrDIP_name=DI+顏色
+param_clrDIP_description=DI+線顏色
+param_widthDIP_name=DI+寬度
+param_widthDIP_description=DI+線的寬度
+param_styleDIP_name=DI+樣式
+param_styleDIP_description=DI+線的樣式
+param_clrDIM_name=DI-線顏色
+param_clrDIM_description=DI-線顏色
+param_widthDIM_name=DI-寬度
+param_widthDIM_description=DI-線的寬度
+param_styleDIM_name=DI-樣式
+param_styleDIM_description=DI-線的樣式
+
+[ctt]
+codepage=950
+name=趨向指標
+description=確認是否有可定義的趨勢市
+param_N_name=時期數目
+param_N_description=時期數目
+param_clrDIP_name=DI+顏色
+param_clrDIP_description=DI+線顏色
+param_widthDIP_name=
+param_widthDIP_description=
+param_styleDIP_name=
+param_styleDIP_description=
+param_clrDIM_name=DI-線顏色
+param_clrDIM_description=DI-線顏色
+param_widthDIM_name=
+param_widthDIM_description=
+param_styleDIM_name=
+param_styleDIM_description=
+
+[deu]
+codepage=1252
+name=Directional Movement Indicator
+description=Zeigt an, ob der Markt nach einem bestimmten Trend sich bewegt.
+param_N_name=Anzahl der Perioden
+param_N_description=Anzahl der Perioden
+param_clrDIP_name=Farbe von DI+
+param_clrDIP_description=Farbe der DI+ Linie.
+param_widthDIP_name=Breite von DI+
+param_widthDIP_description=Die Breite von DI+ Linie
+param_styleDIP_name=Stil von DI+
+param_styleDIP_description=Der Stil von DI+ Linie
+param_clrDIM_name=Farbe von DI-
+param_clrDIM_description=Farbe der DI- Linie
+param_widthDIM_name=Breite von DI-
+param_widthDIM_description=Die Breite von DI- Linie
+param_styleDIM_name=Stil von DI-
+param_styleDIM_description=Der Stil von DI- Linie
+
+[esp]
+codepage=1252
+name=Índice de Movimiento Direccional
+description=Identifica si existe una tendencia que pueda definirse en el mercado.
+param_N_name=Número de periodos
+param_N_description=El número de periodos.
+param_clrDIP_name=Color de DI+
+param_clrDIP_description=El color de la línea DI+.
+param_widthDIP_name=Amplitud de DI+
+param_widthDIP_description=La amplitud de la línea DI+.
+param_styleDIP_name=Estilo de la línea DI+
+param_styleDIP_description=El estilo de la línea DI+.
+param_clrDIM_name=Color de DI-
+param_clrDIM_description=El color de la línea DI-.
+param_widthDIM_name=Amplitud de DI-
+param_widthDIM_description=La amplitud de la línea DI-.
+param_styleDIM_name=Estilo de DI-
+param_styleDIM_description=EL estilo de la línea DI-.
+
+[fra]
+codepage=1252
+name=Indicateur de mouvement directionnel
+description=Identifie s'il y a une tendance clairement définie dans le marché
+param_N_name=Nombre de périodes
+param_N_description=Le nombre de périodes
+param_clrDIP_name=Couleur du DI+
+param_clrDIP_description=La couleur de la ligne du DI+
+param_widthDIP_name=Largeur de DI+
+param_widthDIP_description=La largeur de la ligne de DI+
+param_styleDIP_name=Style de DI+
+param_styleDIP_description=Le style de la ligne de DI+
+param_clrDIM_name=Couleur du DI-
+param_clrDIM_description=La couleur de la ligne du DI-
+param_widthDIM_name=Largeur de DI-
+param_widthDIM_description=La largeur de la ligne de DI-
+param_styleDIM_name=Style de DI-
+param_styleDIM_description=Le style de la ligne de DI-
+
+[jpn]
+codepage=932
+name=ディレクショナル・ムーブメント指数
+description=限定できるトレンドがあるか明確にします
+param_N_name=期間数
+param_N_description=期間数
+param_clrDIP_name=DI+の色
+param_clrDIP_description=DI+ラインの色
+param_widthDIP_name=DI+の幅
+param_widthDIP_description=DI+ ラインの幅
+param_styleDIP_name=DI+のスタイル
+param_styleDIP_description=DI+ラインのスタイル
+param_clrDIM_name=DI-の色
+param_clrDIM_description=DI-ラインの色
+param_widthDIM_name=DI-の幅
+param_widthDIM_description=DI- ラインの幅
+param_styleDIM_name=DI-のスタイル
+param_styleDIM_description=DI- ラインのスタイル
+
+[kor]
+codepage=949
+name=DMI (시장방향성 지표)
+description=시장에서의 정의가능한 경향 확인
+param_N_name=기간의 개수
+param_N_description=기간의 개수
+param_clrDIP_name=DI + 의 색상
+param_clrDIP_description=DI + 선 의 색상
+param_widthDIP_name=
+param_widthDIP_description=
+param_styleDIP_name=
+param_styleDIP_description=
+param_clrDIM_name=DI - 의 색상
+param_clrDIM_description=DI- 선의 색상
+param_widthDIM_name=
+param_widthDIM_description=
+param_styleDIM_name=
+param_styleDIM_description=
+
+[rus]
+codepage=1251
+name=Индекс направленного движения
+description=Показывает есть ли на рынке различимый тренд.
+param_N_name=Количество периодов
+param_N_description=Количество периодов.
+param_clrDIP_name=Цвет DI+
+param_clrDIP_description=Цвет линии DI+.
+param_widthDIP_name=Ширина DI+
+param_widthDIP_description=Ширина линии DI+.
+param_styleDIP_name=Стиль DI+
+param_styleDIP_description=Стиль линии DI+.
+param_clrDIM_name=Цвет DI-
+param_clrDIM_description=Цвет линии DI-.
+param_widthDIM_name=Ширина DI-
+param_widthDIM_description=Ширина линии DI-.
+param_styleDIM_name=Стиль DI-
+param_styleDIM_description=Стиль линии DI-.
+
+[tur]
+codepage=1254
+name=Yönsel Hareket Endeksi
+description=Piyasada tanımlanabilir bir trendin olup olmadığını gösterir.
+param_N_name=Periyot sayısı
+param_N_description=Periyot sayısı.
+param_clrDIP_name=DI+ Rengi
+param_clrDIP_description=DI+ çizgi rengi.
+param_widthDIP_name=DI+ çizgi kalınlığı
+param_widthDIP_description=DI+ çizgisinin kalınlığı
+param_styleDIP_name=DI+ çizgi biçimi
+param_styleDIP_description=DI+ çizgisinin biçimi
+param_clrDIM_name=DI- Rengi
+param_clrDIM_description=DI- çizgi rengi.
+param_widthDIM_name=DI- çizgi kalınlığı
+param_widthDIM_description=DI- çizgisinin kalınlığı
+param_styleDIM_name=DI- çizgi biçimi
+param_styleDIM_description=DI- çizgisinin biçimi
+
+[ita]
+codepage=1252
+name=Directional Movement Index
+description=Indentifica quando è presente un trend definibile nel mercato
+param_N_name=Numero di periodi
+param_N_description=Il numero di periodi
+param_clrDIP_name=Colore di DI+
+param_clrDIP_description=Il colore della linea DI+
+param_widthDIP_name=Spessore di DI+
+param_widthDIP_description=Lo spessore della linea DI+
+param_styleDIP_name=Stile di DI+
+param_styleDIP_description=Lo stile della linea DI+
+param_clrDIM_name=Colore di DI -
+param_clrDIM_description=Il colore della linea DI-
+param_widthDIM_name=Spessore di DI-
+param_widthDIM_description=Lo spessore della linea DI-
+param_styleDIM_name=Stile di DI-
+param_styleDIM_description=Lo stile della linea DI-
+
+[heb]
+codepage=1255
+name=מדד התנועה הכיוונית
+description=מזהה האם השוק נע במגמה ברורה.
+param_N_name=מספר תקופות
+param_N_description=מספר התקופות.
+param_clrDIP_name=צבע ה-DI+
+param_clrDIP_description=צבע קו ה-DI+.
+param_widthDIP_name=רוחב DI+
+param_widthDIP_description=רוחב קו DI+
+param_styleDIP_name=סוג DI+
+param_styleDIP_description=סוג קו DI+
+param_clrDIM_name=צבע ה-DI-
+param_clrDIM_description=צבע קו ה-DI-.
+param_widthDIM_name=רוחב DI-
+param_widthDIM_description=רוחב קו DI-
+param_styleDIM_name=סוג DI-
+param_styleDIM_description=סוג קו DI-
+
+[pol]
+codepage=1250
+name=Wskaźnik ruchu kierunkowego
+description=O ile to możliwe, identyfikuje kierunek trendu
+param_N_name=Liczba okresów
+param_N_description=Liczba okresów
+param_clrDIP_name=Kolor DI+
+param_clrDIP_description=Kolor linii DI+
+param_widthDIP_name=Grubość linii DI+
+param_widthDIP_description=Grubość linii DI+
+param_styleDIP_name=Styl linii DI+
+param_styleDIP_description=Styl linii DI+
+param_clrDIM_name=Kolor DI-
+param_clrDIM_description=Kolor linii DI-
+param_widthDIM_name=Grubość linii DI-
+param_widthDIM_description=Grubość linii DI-
+param_styleDIM_name=Styl linii DI-
+param_styleDIM_description=Styl linii DI-
+
+[cze]
+codepage=1250
+name=DMI
+description=Určení, zda na trhu převládá definovaný trend.
+param_N_name=Počet period
+param_N_description=Počet period.
+param_clrDIP_name=Barva DI+
+param_clrDIP_description=Barva DI+.
+param_widthDIP_name=Šíře DI+
+param_widthDIP_description=Šíře linky DI+.
+param_styleDIP_name=Styl DI+
+param_styleDIP_description=Styl linky DI+.
+param_clrDIM_name=Barva DI-
+param_clrDIM_description=Barva DI-.
+param_widthDIM_name=Šíře DI-
+param_widthDIM_description=Šíře linky DI-.
+param_styleDIM_name=Styl DI-
+param_styleDIM_description=Styl linky DI-.
+
+[por]
+codepage=1252
+name=Índice de Movimento Direcional
+description=Identifica se existe uma tendência que pode ser definida no mercado
+param_N_name=Número de períodos
+param_N_description=O número de períodos
+param_clrDIP_name=Cor do DI+
+param_clrDIP_description=A cor da linha DI+
+param_widthDIP_name=Largura do DI+
+param_widthDIP_description=A largura da linha DI+.
+param_styleDIP_name=Estilo do DI+
+param_styleDIP_description=O estilo da linha DI+.
+param_clrDIM_name=Cor da DI-
+param_clrDIM_description=A cor da linha D-
+param_widthDIM_name=Largura do DI-
+param_widthDIM_description=A largura da linha DI-.
+param_styleDIM_name=Estilo do DI-
+param_styleDIM_description=O estilo da linha DI-.
+
+[gre]
+codepage=1253
+name=Directional Movement Index (DMI)
+description=Αναγνωρίζει εάν η αγορά βρίσκεται σε τάση ή όχι.
+param_N_name=Αριθμός περιόδων
+param_N_description=Ο αριθμός των περιόδων.
+param_clrDIP_name=Χρώμα DI+
+param_clrDIP_description=Το χρώμα της γραμμής DI+.
+param_widthDIP_name=Πάχος DI+
+param_widthDIP_description=Το πάχος της γραμμής του DI+
+param_styleDIP_name=Στυλ DI+
+param_styleDIP_description=Το στυλ της γραμμής DI+
+param_clrDIM_name=Χρώμα DI-
+param_clrDIM_description=Το χρώμα της γραμμής DI-.
+param_widthDIM_name=Πάχος DI-
+param_widthDIM_description=Το πάχος της γραμμής DI-
+param_styleDIM_name=Στυλ DI-
+param_styleDIM_description=Το στυλ της γραμμής DI-
+

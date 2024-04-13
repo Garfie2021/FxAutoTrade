@@ -1,0 +1,29 @@
+USE OANDA_DemoB
+GO
+
+DROP PROCEDURE [oanda].[spGetSUMç∑âv]
+GO
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE PROCEDURE [oanda].[spGetSUMç∑âv]
+    @å˚ç¿No		Int,
+	@FromDate	DateTime,
+	@ToDate		DateTime,
+	@óòâv		FLOAT			output
+AS
+BEGIN
+
+	SET @óòâv = 0;
+
+	SELECT @óòâv = SUM([pl]) + SUM([interest])
+	FROM [oanda].[tTransaction]
+	WHERE å˚ç¿No = @å˚ç¿No AND [type] = 'CloseOrder' AND 
+		(@FromDate <= [Time]) AND ([Time] < @ToDate)
+
+END
+GO
+

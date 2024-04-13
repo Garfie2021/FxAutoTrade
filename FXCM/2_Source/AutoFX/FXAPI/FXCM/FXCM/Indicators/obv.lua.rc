@@ -1,0 +1,193 @@
+﻿default=enu
+[enu]
+codepage=1252
+name=On Balance Volume
+description=Relates volume to price change.
+param_clrV_name=Line color
+param_clrV_description=The color of the On Balance Volume line.
+param_widthV_name=Line width
+param_widthV_description=The width of the On Balance Volume line.
+param_styleV_name=Line style
+param_styleV_description=The style of the On Balance Volume line.
+assert_hasVolume=The source must have volume.
+
+[rus]
+codepage=1251
+name=Индикатор балансового объема
+description=Связывает объем с изменение цены.
+param_clrV_name=Цвет линии
+param_clrV_description=Цвет линии индикатора балансового объема.
+param_widthV_name=Ширина линии
+param_widthV_description=Ширина линии индикатора балансового объема.
+param_styleV_name=Стиль линии
+param_styleV_description=Стиль линии индикатора балансового объема.
+assert_hasVolume=Источник данных должен содержать объем.
+
+[ara]
+codepage=1256
+name=على حجم الرصيد
+description=يربط الحجم مع تغير الأسعار.
+param_clrV_name=لون الخط
+param_clrV_description=لون الخط في مؤشر "على حجم الرصيد".
+param_widthV_name=عرض الخط
+param_widthV_description=عرض الخط الخاص بمؤشر حجم الرصيد
+param_styleV_name=نوع الخط
+param_styleV_description=نوع الخط الخاص بمؤشر حجم الرصيد
+assert_hasVolume=يجب أن يتوفر حجم للمصدر.
+
+[chs]
+codepage=936
+name=能量分析
+description=与价格变动量有关
+param_clrV_name=线颜色
+param_clrV_description=能量分析线颜色
+param_widthV_name=线宽
+param_widthV_description=能量分析线宽度
+param_styleV_name=线样式
+param_styleV_description=能量分析线样式
+assert_hasVolume=来源必须要有价格量
+
+[cht]
+codepage=950
+name=能量分析
+description=與價格變動量有關
+param_clrV_name=線顏色
+param_clrV_description=能量分析線顏色
+param_widthV_name=線寬
+param_widthV_description=能量分析線寬度
+param_styleV_name=線樣式
+param_styleV_description=能量分析線樣式
+assert_hasVolume=來源必須要有價格量
+
+[cze]
+codepage=1250
+name=Objem za periodu
+description=Propojuje objem s cenovou změnou.
+param_clrV_name=Barva linky
+param_clrV_description=Barva linky objemu za danou periodu
+param_widthV_name=Šíře linky
+param_widthV_description=Šíře linky On Balance Volume.
+param_styleV_name=Styl linky
+param_styleV_description=Styl linky On Balance Volume.
+assert_hasVolume=Zdrojová data neobsahují objem.
+
+[deu]
+codepage=1252
+name=On Balance Volumen
+description=Setzt Volumen zur Preisveränderung ins Verhältnis
+param_clrV_name=Linienfarbe
+param_clrV_description=Die Farbe der On Balance Volumen Linie
+param_widthV_name=Linienbreite
+param_widthV_description=Breite der On Balance Volume Linie
+param_styleV_name=Linienstil
+param_styleV_description=Art der On Balance Volume Linie
+assert_hasVolume=Die Quelle muss Volumen haben
+
+[fra]
+codepage=1252
+name=On Balance Volume
+description=Relie le volume aux changements de prix
+param_clrV_name=Couleur de la ligne
+param_clrV_description=La couleur de la ligne du On Balance Volume
+param_widthV_name=Largeur de la ligne
+param_widthV_description=La largeur de la ligne du On Balance Volume
+param_styleV_name=Style de la ligne
+param_styleV_description=Le style de la ligne du On Balance Volume
+assert_hasVolume=La source doit avoir un volume
+
+[gre]
+codepage=1253
+name=On Balance Volume
+description=Συσχετίζει τον όγκο με την μεταβολή των τιμών.
+param_clrV_name=Χρώμα γραμμής
+param_clrV_description=Το χρώμα της γραμμής του On Balance Volume.
+param_widthV_name=Πάχος γραμμής
+param_widthV_description=Το πλάτος της γραμμής του On Balance Volume.
+param_styleV_name=Στυλ γραμμής
+param_styleV_description=Το στυλ της γραμμής του On Balance Volume.
+assert_hasVolume=Η πηγή πρέπει να έχει όγκο.
+
+[heb]
+codepage=1255
+name=נפח מאוזן
+description=משווה את הנפח לשינוי במחיר.
+param_clrV_name=צבע קו
+param_clrV_description=צבע הקו של הנפח המאוזן.
+param_widthV_name=רוחב קו
+param_widthV_description=רוחב קו הנפח המאוזן
+param_styleV_name=סגנון קו
+param_styleV_description=סגנון קו הנפח המאוזן
+assert_hasVolume=המקור חייב להיות בעל נפח.
+
+[ita]
+codepage=1252
+name=Bilanciato sul volume
+description=Collega il volume alla variazione del prezzo
+param_clrV_name=Colore linea
+param_clrV_description=ll colore della linea del Bilancio sul Volume
+param_widthV_name=Spessore della linea
+param_widthV_description=Lo spessore della linea dell'On Balance Volume
+param_styleV_name=Stile della linea
+param_styleV_description=Lo stile della linea dell'On Balance Volume
+assert_hasVolume=La sorgente deve avere un volume
+
+[jpn]
+codepage=932
+name=On Balance Volume
+description=価格変化にプライスを連動させる
+param_clrV_name=ライン色
+param_clrV_description=On Balance Volume ラインの色
+param_widthV_name=ラインの幅
+param_widthV_description=OBV ラインの幅
+param_styleV_name=ラインのスタイル
+param_styleV_description=OBV ラインのスタイル
+assert_hasVolume=ボリュームが伴わないと無効です
+
+[tur]
+codepage=1254
+name=Denge İşlem Hacmi
+description=Hacim ile fiyat değişikliklerini ilişkilendirir.
+param_clrV_name=Çizgi rengi
+param_clrV_description=Denge İşlem Hacmi çizgi rengi.
+param_widthV_name=Çizgi kalınlığı
+param_widthV_description=Denge İşlem Hacmi çizgi kalınlığı. 
+param_styleV_name=Çizgi biçimi
+param_styleV_description=Denge İşlem Hacmi çizgi biçimi. 
+assert_hasVolume=Kaynak hacim olmalı.
+
+[pol]
+codepage=1250
+name=On Balance Volume
+description=Odnosi wolumen do zmiany ceny.
+param_clrV_name=Kolor lini
+param_clrV_description=Kolor lini On Balance Volume
+param_widthV_name=Grubość linii
+param_widthV_description=The width of the On Balance Volume line.
+param_styleV_name=Styl linii
+param_styleV_description=The style of the On Balance Volume line.
+assert_hasVolume=Źródło musi posiadać wolumen
+
+[por]
+codepage=1252
+name=Gráfico do Volume de Transacções
+description=Relaciona o volume com as alterações de preços.
+param_clrV_name=Cor da linha
+param_clrV_description=A cor da linha do Gráfico do Volume de Transacções.
+param_widthV_name=Largura da linha
+param_widthV_description=A largura da linha do Gráfico do Volume de Transacções.
+param_styleV_name=Estilo da linha
+param_styleV_description=O estilo da linha do Gráfico do Volume de Transacções.
+assert_hasVolume=A origem tem de ter um volume.
+
+[esp]
+codepage=1252
+name=Volumen en balance
+description=Relación del volumen al cambio del precio
+param_clrV_name=Color de la línea
+param_clrV_description=Color de línea del volumen en Balance
+param_widthV_name=Amplitud de la línea
+param_widthV_description=La amplitud de la línea On Balance Volume.
+param_styleV_name=Estilo de la línea
+param_styleV_description=El estilo de la línea On Balance Volume.
+assert_hasVolume=El origen debe de tener volumen
+

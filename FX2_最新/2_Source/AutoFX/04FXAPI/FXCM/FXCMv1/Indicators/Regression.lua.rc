@@ -1,0 +1,235 @@
+﻿default=enu
+[enu]
+codepage=1252
+name=Regression Line
+description=Is the linear regression line used to measure trends.
+param_N_name=Number of periods
+param_N_description=The number of periods.
+param_clrLinReg_name=Line color
+param_clrLinReg_description=The color of the Regression line.
+param_widthLinReg_name=Line width
+param_widthLinReg_description=The width of the Regression line.
+param_styleLinReg_name=Line style
+param_styleLinReg_description=The style of the Regression line.
+
+[ara]
+codepage=1256
+name=خط الانحدار
+description=هل يستخدم خط الانحدار لقياس الاتجاه
+param_N_name=عدد الفترات
+param_N_description=عدد الفترات
+param_clrLinReg_name=لون الخط
+param_clrLinReg_description=لون خط الانحدار.
+param_widthLinReg_name=عرض الخط
+param_widthLinReg_description=عرض خط الانحدار.
+param_styleLinReg_name=نوع الخط
+param_styleLinReg_description=نوع خط الانحدار.
+
+[chs]
+codepage=936
+name=回归线
+description=使用线性回归线量度趋势
+param_N_name=时期数目
+param_N_description=时期数目
+param_clrLinReg_name=线颜色
+param_clrLinReg_description=回归线颜色
+param_widthLinReg_name=线宽
+param_widthLinReg_description=回归线的宽度
+param_styleLinReg_name=线样式
+param_styleLinReg_description=回归线样式
+
+[cht]
+codepage=950
+name=回歸線
+description=使用線性回歸線量度趨勢
+param_N_name=時期數目
+param_N_description=時期數目
+param_clrLinReg_name=線顏色
+param_clrLinReg_description=回歸線顏色
+param_widthLinReg_name=線寬
+param_widthLinReg_description=回歸線的寬度
+param_styleLinReg_name=線樣式
+param_styleLinReg_description=回歸線樣式
+
+[ctt]
+codepage=950
+name=回歸線
+description=使用線性回歸線量度趨勢
+param_N_name=時期數目
+param_N_description=時期數目
+param_clrLinReg_name=線顏色
+param_clrLinReg_description=回歸線顏色
+param_widthLinReg_name=
+param_widthLinReg_description=
+param_styleLinReg_name=
+param_styleLinReg_description=
+
+[deu]
+codepage=1252
+name=Regressions-Linie
+description=Regressions-Linie
+param_N_name=Anzahl der Perioden
+param_N_description=Anzahl der Perioden
+param_clrLinReg_name=Linienfarbe
+param_clrLinReg_description=Farbe der Regressionslinie
+param_widthLinReg_name=Linienbreite
+param_widthLinReg_description=Die Breite der Regressionslinie
+param_styleLinReg_name=Linienstil
+param_styleLinReg_description=Der Stil der Regressionslinie
+
+[esp]
+codepage=1252
+name=Línea de Regresión
+description=Es la línea de regresión lineal que se utiliza para medir tendencias
+param_N_name=Número de periodos
+param_N_description=El número de periodos
+param_clrLinReg_name=Color de la línea
+param_clrLinReg_description=El color de la línea de regresión
+param_widthLinReg_name=Amplitud de la línea
+param_widthLinReg_description=La amplitud de la línea de regresión.
+param_styleLinReg_name=Estilo de la línea
+param_styleLinReg_description=El estilo de la línea de regresión.
+
+[fra]
+codepage=1252
+name=Ligne de régression
+description=Est la ligne de régression linéaire utilisée pour mesurer les tendances.
+param_N_name=Nombre de périodes
+param_N_description=Le nombre de périodes.
+param_clrLinReg_name=Couleur de la ligne
+param_clrLinReg_description=La couleur de la ligne de régression.
+param_widthLinReg_name=Largeur de la ligne
+param_widthLinReg_description=La largeur de la ligne de régression
+param_styleLinReg_name=Style de la ligne
+param_styleLinReg_description=Le style de la ligne de régression
+
+[jpn]
+codepage=932
+name=回帰線
+description=リニア加重移動平均線
+param_N_name=期間数
+param_N_description=期間数
+param_clrLinReg_name=ラインの色
+param_clrLinReg_description=回帰線の色
+param_widthLinReg_name=ラインの幅
+param_widthLinReg_description=Regressionラインの幅を設定します
+param_styleLinReg_name=ラインのスタイル
+param_styleLinReg_description=Regressionラインのスタイルを設定します
+
+[kor]
+codepage=949
+name=회귀 선 (Regression Line)
+description=회귀 선 (Regression Line)
+param_N_name=period의 개수
+param_N_description=period의 개수
+param_clrLinReg_name=선 색상
+param_clrLinReg_description=선 색상
+param_widthLinReg_name=
+param_widthLinReg_description=
+param_styleLinReg_name=
+param_styleLinReg_description=
+
+[rus]
+codepage=1251
+name=Линейная регрессия
+description=Используется для измерения трендов.
+param_N_name=Количество периодов
+param_N_description=Количество периодов.
+param_clrLinReg_name=Цвет линии
+param_clrLinReg_description=Цвет линии линейной регрессии.
+param_widthLinReg_name=Ширина линии
+param_widthLinReg_description=Ширина линии линейной регрессии.
+param_styleLinReg_name=Стиль линии
+param_styleLinReg_description=Стиль линии линейной регрессии.
+
+[tur]
+codepage=1254
+name=Regresyon Doğrusu
+description=Trendi ölçmek için kullanılan doğrusal regresyon çizgisi.
+param_N_name=Periyot sayısı
+param_N_description=Periyot sayısı.
+param_clrLinReg_name=Çizgi Rengi
+param_clrLinReg_description=Regresyon çizgisinin rengi.
+param_widthLinReg_name=Çizgi kalınlığı
+param_widthLinReg_description=Regresyon çizgisinin kalınlığı.
+param_styleLinReg_name=Çizgi biçimi
+param_styleLinReg_description=Regresyon çizgisinin biçimi.
+
+[ita]
+codepage=1252
+name=Linea di Regressione
+description=E' la regressione lineare utilizzata per misurare i trend
+param_N_name=Numero di periodi
+param_N_description=Il numero di periodi
+param_clrLinReg_name=Colore della linea
+param_clrLinReg_description=Il colore della Regression line
+param_widthLinReg_name=Spessore della linea
+param_widthLinReg_description=Lo spessore della linea della Regressione
+param_styleLinReg_name=Stile della linea
+param_styleLinReg_description=Lo stile della linea della Regressione
+
+[heb]
+codepage=1255
+name=קו רגרסיה
+description=רגרסיה ליניארית למדידת עוצמתה של המגמה.
+param_N_name=מספר תקופות
+param_N_description=מספר התקופות.
+param_clrLinReg_name=צבע קו
+param_clrLinReg_description=צבע קו הרגרסיה.
+param_widthLinReg_name=רוחב קו
+param_widthLinReg_description=רוחב קו הרגרסיה.
+param_styleLinReg_name=סגנון קו
+param_styleLinReg_description=סגנון קו הרגרסיה.
+
+[pol]
+codepage=1250
+name=Linia regresji
+description=Regresja liniowa wykorzystana do określenia kierunku trendu
+param_N_name=Liczba okresów
+param_N_description=Liczba okresów
+param_clrLinReg_name=Kolor linii
+param_clrLinReg_description=Kolor linii regresji.
+param_widthLinReg_name=Grubość linii
+param_widthLinReg_description=Grubość linii regresji.
+param_styleLinReg_name=Styl linii
+param_styleLinReg_description=Styl linii regresji.
+
+[cze]
+codepage=1250
+name=Regresivní linka
+description=Je lineární regresní linka používána k měření trendů.
+param_N_name=Počet period
+param_N_description=Počet period.
+param_clrLinReg_name=Barva linky
+param_clrLinReg_description=Barva regresní linky.
+param_widthLinReg_name=Šíře linky
+param_widthLinReg_description=Šíře regresní linky.
+param_styleLinReg_name=Styl linky
+param_styleLinReg_description=Styl regresní linky.
+
+[por]
+codepage=1252
+name=Linha de Regressão
+description=É a linha de regressão linear que se utiliza para medir tendências
+param_N_name=Número de períodos
+param_N_description=O número de períodos
+param_clrLinReg_name=Cor da linha
+param_clrLinReg_description=A cor da linha de Regressão.
+param_widthLinReg_name=Largura da linha
+param_widthLinReg_description=A largura da linha de Regressão.
+param_styleLinReg_name=Estilo da linha
+param_styleLinReg_description=O estilo da linha de Regressão.
+
+[gre]
+codepage=1253
+name=Regression Line
+description=Είναι η Regression Line που χρησιμοποιείται για τη μέτρηση των τάσεων.
+param_N_name=Αριθμός περιόδων
+param_N_description=Ο αριθμός των περιόδων.
+param_clrLinReg_name=Χρώμα γραμμής
+param_clrLinReg_description=Το χρώμα της Regression Line
+param_widthLinReg_name=Πάχος γραμμής
+param_widthLinReg_description=Το πάχος της γραμμής Regression
+param_styleLinReg_name=Στυλ γραμμής
+param_styleLinReg_description=Το στυλ της γραμμής Regression
+

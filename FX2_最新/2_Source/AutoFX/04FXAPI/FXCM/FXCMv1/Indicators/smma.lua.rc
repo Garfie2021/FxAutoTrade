@@ -1,0 +1,209 @@
+﻿default=enu
+[enu]
+codepage=1252
+name=Smoothed Moving Average
+description=Gives the recent prices an equal weighting to the historic ones.
+param_N_name=Number of periods
+param_N_description=The number of periods.
+param_clr_name=Line color
+param_clr_description=The color of the Smoothed Moving Average line.
+param_width_name=Line width
+param_width_description=The width of the Smoothed Moving Average line.
+param_style_name=Line style
+param_style_description=The style of the Smoothed Moving Average line.
+
+[rus]
+codepage=1251
+name=Сглаженное скользящее среднее
+description=Придает равное значение недавним и историческим ценам.
+param_N_name=Количество периодов
+param_N_description=Количество периодов.
+param_clr_name=Цвет линии
+param_clr_description=Цвет линии сглаженного скользящего среднего.
+param_width_name=Ширина линии
+param_width_description=Ширина линии сглаженного скользящего среднего.
+param_style_name=Стиль линии
+param_style_description=Стиль линии сглаженного скользящего среднего.
+
+[ara]
+codepage=1256
+name=المتوسط المتحرك المصقول
+description=يعطي الأسعار الأخيرة وزناً متساوي للأسعار التاريخية.
+param_N_name=عدد الفترات
+param_N_description=عدد الفترات.
+param_clr_name=لون الخط
+param_clr_description=لون خط المتوسط المتحرك المتجانس
+param_width_name=خط العرض
+param_width_description=عرض خط المتوسط المتحرك المتجانس
+param_style_name=نوع الخط
+param_style_description=نوع خط المتوسط المتحرك المتجانس
+
+[chs]
+codepage=936
+name=平滑移动平均
+description=相比过去价格赋予近期价格一个平均权值
+param_N_name=时期数目
+param_N_description=时期数目
+param_clr_name=线颜色
+param_clr_description=平滑移动平均线颜色
+param_width_name=线宽度
+param_width_description=平滑移动平均线宽度
+param_style_name=线样式
+param_style_description=平滑移动平均线样式
+
+[cht]
+codepage=950
+name=平滑移動平均
+description=相比過去價格賦予近期價格一個平均權值
+param_N_name=時期數目
+param_N_description=時期數目
+param_clr_name=線顏色
+param_clr_description=平滑移動平均線顏色
+param_width_name=線寬度
+param_width_description=平滑移動平均線寬度
+param_style_name=線樣式
+param_style_description=平滑移動平均線樣式
+
+[cze]
+codepage=1250
+name=Vyhlazený klouzavý průměr
+description=Průměr, kde mají všechny historické ceny stejnou váhu
+param_N_name=Počet period
+param_N_description=Počet period.
+param_clr_name=Barva linky
+param_clr_description=Barva linky vyhlazeného klouzavého průměru.
+param_width_name=Šíře linky
+param_width_description=Šíře linky vyhlazeného klouzavého průměru.
+param_style_name=Styl linky
+param_style_description=Styl linky vyhlazeného klouzavého průměru.
+
+[deu]
+codepage=1252
+name=Smoothed Moving Average
+description=Gibt den letzten Preisen ein gleiches Gewicht wie den historischen Preisen
+param_N_name=Anzahl der Perioden
+param_N_description=Die Anzahl der Perioden
+param_clr_name=Linienfarbe
+param_clr_description=Die Farbe einer Smoothe Moving Average Linie
+param_width_name=Linienbreite
+param_width_description=Die Breite einer Smooted Moving Average Linie
+param_style_name=Linienstil
+param_style_description=Der Stil einerSmooted Moving Average Linie
+
+[fra]
+codepage=1252
+name=Moyenne mobile lissée
+description=Donne aux récents prix un poids égal aux prix historiques
+param_N_name=Nombre de périodes
+param_N_description=Le nombre de périodes
+param_clr_name=Couleur de la ligne
+param_clr_description=La couleur de la ligne de moyenne mobile lissée
+param_width_name=Largeur de la ligne
+param_width_description=La largeur de la ligne de moyenne mobile lissée
+param_style_name=Style de la ligne
+param_style_description=Le style de la ligne de moyenne mobile lissée
+
+[gre]
+codepage=1253
+name=Smoothed Moving Average
+description=Δίνει στις πρόσφατες τιμές μία ίση στάθμιση με τις προηγούμενες.
+param_N_name=Αριθμός περιόδων
+param_N_description=Ο αριθμός των περιόδων.
+param_clr_name=Χρώμα γραμμής
+param_clr_description=Το χρώμα της γραμμής του Smoothed Moving Average.
+param_width_name=Πάχος γραμμής
+param_width_description=Το πάχος της γραμμής του Smoothed Moving Average.
+param_style_name=Στυλ γραμμής
+param_style_description=Το στυλ της γραμμής του Smoothed Moving Average.
+
+[heb]
+codepage=1255
+name=ממוצע נע מוחלק
+description=נותן למחירים הנוכחיים שווה ערך משוקלל למחירים ההיסטוריים.
+param_N_name=מספר תקופות
+param_N_description=מספר התקופות.
+param_clr_name=צבע קו
+param_clr_description=צבע הקו של הממוצע הנע המוחלק.
+param_width_name=רוחב קו
+param_width_description=רוחב הקו של הממוצע הנע המוחלק.
+param_style_name=סגנון קו
+param_style_description=סגנון הקו של הממוצע הנע המוחלק.
+
+[ita]
+codepage=1252
+name=Media Mobile Smoothed
+description=Fornisce ai prezzi recenti un peso uguale ai dati storici
+param_N_name=Numero di periodi
+param_N_description=Il numero dei periodi
+param_clr_name=Colore linea
+param_clr_description=Il colore della linea Smoothed Moving Average
+param_width_name=Spessore Linea
+param_width_description=Lo spessore della linea Smoothed Moving Average
+param_style_name=Stile Linea
+param_style_description=Lo stile della linea Smoothed Moving Average
+
+[jpn]
+codepage=932
+name=平滑移動平均
+description=最近のプライスを平滑化して描いた移動平均線です。
+param_N_name=期間の数
+param_N_description=期間の数
+param_clr_name=ラインの色
+param_clr_description=平滑移動平均ラインの色
+param_width_name=ラインの幅
+param_width_description=平滑移動平均ラインの幅
+param_style_name=ラインのスタイル
+param_style_description=平滑移動平均ラインのスタイル
+
+[tur]
+codepage=1254
+name=Düzeltilmiş Hareketli Ortalama
+description=Son fiyatlara geçmiş fiyatlarla aynı ağırlığı verir.
+param_N_name=Periyot sayısı
+param_N_description=Periyot sayısı.
+param_clr_name=Çizgi rengi
+param_clr_description=Düzeltilmiş Hareketli Ortalama çizgi rengi.
+param_width_name=Çizgi kalınlığı
+param_width_description=Düzeltilmiş Hareketli Ortalama çizgi kalınlığı.
+param_style_name=Çizgi biçimi
+param_style_description=Düzeltilmiş Hareketli Ortalama çizgi biçimi.
+
+[pol]
+codepage=1250
+name=Wygładzona Średnia Krocząca
+description=Daje obecnym cenom rozkład wagowy cen historycznych.
+param_N_name=Liczba okresów.
+param_N_description=Liczba okresów.
+param_clr_name=Kolor lini
+param_clr_description=Kolor lini Wygładzonej Średniej Kroczącej.
+param_width_name=Szerokość lini
+param_width_description=Szerokość lini Wygładzonej Średniej Kroczącej.
+param_style_name=Styl lini
+param_style_description=Styl lini Wygładzonej Średniej Kroczącej.
+
+[por]
+codepage=1252
+name=Média Móvel Atenuada
+description=Dá aos preços recentes uma ponderação igual à dos históricos.
+param_N_name=Número de períodos
+param_N_description=O número de períodos.
+param_clr_name=Cor da linha
+param_clr_description=A cor da linha da Média Móvel Atenuada.
+param_width_name=Largura de linha
+param_width_description=A largura da linha da Média Móvel Atenuada.
+param_style_name=Estilo de linha
+param_style_description=O estilo da linha da Média Móvel Atenuada.
+
+[esp]
+codepage=1252
+name=Promedio Móvil Suavizado
+description=Da a los precios actuales la misma importancia que los precios históricos.
+param_N_name=Numero de periodos
+param_N_description=El numero de periodos
+param_clr_name=La línea del color
+param_clr_description=Color de la línea del Promedio Móvil Suavizado
+param_width_name=Amplitud de la línea
+param_width_description=Amplitud de la línea del Promedio Móvil Suavizado
+param_style_name=Estilo de la línea
+param_style_description=Estilo de la línea del Promedio Móvil Suavizado
+

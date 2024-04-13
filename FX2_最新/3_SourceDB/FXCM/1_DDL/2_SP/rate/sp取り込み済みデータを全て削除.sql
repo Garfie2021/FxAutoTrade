@@ -1,0 +1,22 @@
+USE [FXCM]
+GO
+
+DROP PROCEDURE [rate].[sp取り込み済みデータを全て削除]
+GO
+
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+CREATE PROCEDURE [rate].[sp取り込み済みデータを全て削除]
+AS
+BEGIN
+
+	DELETE FROM rate.Min15;
+	DELETE FROM rate.Day1;
+
+END
+GO

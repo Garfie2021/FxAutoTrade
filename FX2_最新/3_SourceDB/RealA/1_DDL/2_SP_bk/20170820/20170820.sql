@@ -1,0 +1,335 @@
+USE OANDA_DemoB
+GO
+
+
+CREATE NONCLUSTERED INDEX [_dta_index_tSec_5_819534003__K2] ON [hstr].[tSec]
+(
+	[StartDate] ASC
+)WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+CREATE NONCLUSTERED INDEX [_dta_index_tDay1_5_3531096__K2] ON [hstr].[tDay1]
+(
+	[StartDate] ASC
+)WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+CREATE NONCLUSTERED INDEX [_dta_index_tHour1_5_947534459__K2_K1] ON [hstr].[tHour1]
+(
+	[StartDate] ASC,
+	[通貨ペアNo] ASC
+)WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+CREATE NONCLUSTERED INDEX [_dta_index_tHour1_5_947534459__K2_1] ON [hstr].[tHour1]
+(
+	[StartDate] ASC
+)
+INCLUDE (
+ 	[通貨ペアNo]
+) WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+CREATE NONCLUSTERED INDEX [_dta_index_tHour1_5_947534459__K1_K2] ON [hstr].[tHour1]
+(
+	[通貨ペアNo] ASC,
+	[StartDate] ASC
+)WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+CREATE NONCLUSTERED INDEX [_dta_index_tMin1_5_851534117__K1] ON [hstr].[tMin1]
+(
+	[通貨ペアNo] ASC
+)WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+CREATE NONCLUSTERED INDEX [_dta_index_tMin1_5_851534117__K2_K1_7_22] ON [hstr].[tMin1]
+(
+	[StartDate] ASC,
+	[通貨ペアNo] ASC
+)
+INCLUDE (
+ 	[買いRate_終値],
+	[売りRate_終値]
+) WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+CREATE NONCLUSTERED INDEX [_dta_index_tMin1_5_851534117__K2D_K1_7_22] ON [hstr].[tMin1]
+(
+	[StartDate] DESC,
+	[通貨ペアNo] ASC
+)
+INCLUDE (
+ 	[買いRate_終値],
+	[売りRate_終値]
+) WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+CREATE NONCLUSTERED INDEX [_dta_index_tMin1_5_851534117__K2_K1_3_4_18_19] ON [hstr].[tMin1]
+(
+	[StartDate] ASC,
+	[通貨ペアNo] ASC
+)
+INCLUDE (
+ 	[買いSwap],
+	[買いRate_始値],
+	[売りSwap],
+	[売りRate_始値]
+) WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+CREATE NONCLUSTERED INDEX [_dta_index_tMin15_5_915534345__K2] ON [hstr].[tMin15]
+(
+	[StartDate] ASC
+)WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+CREATE NONCLUSTERED INDEX [_dta_index_tMin15_5_915534345__K2_K1_7_22] ON [hstr].[tMin15]
+(
+	[StartDate] ASC,
+	[通貨ペアNo] ASC
+)
+INCLUDE (
+ 	[買いRate_終値],
+	[売りRate_終値]
+) WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+CREATE NONCLUSTERED INDEX [_dta_index_tMin15_5_915534345__K1_K2_3_4_18_19] ON [hstr].[tMin15]
+(
+	[通貨ペアNo] ASC,
+	[StartDate] ASC
+)
+INCLUDE (
+ 	[買いSwap],
+	[買いRate_始値],
+	[売りSwap],
+	[売りRate_始値]
+) WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+CREATE NONCLUSTERED INDEX [_dta_index_tMin5_5_883534231__K1] ON [hstr].[tMin5]
+(
+	[通貨ペアNo] ASC
+)WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+CREATE NONCLUSTERED INDEX [_dta_index_tMin5_5_883534231__K2D_K1_7_22] ON [hstr].[tMin5]
+(
+	[StartDate] DESC,
+	[通貨ペアNo] ASC
+)
+INCLUDE (
+ 	[買いRate_終値],
+	[売りRate_終値]
+) WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+CREATE NONCLUSTERED INDEX [_dta_index_tMin5_5_883534231__K2_1_3_4_18_19] ON [hstr].[tMin5]
+(
+	[StartDate] ASC
+)
+INCLUDE (
+ 	[通貨ペアNo],
+	[買いSwap],
+	[買いRate_始値],
+	[売りSwap],
+	[売りRate_始値]
+) WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+CREATE NONCLUSTERED INDEX [_dta_index_tMin5_5_883534231__K2_K1_5_6_20_21] ON [hstr].[tMin5]
+(
+	[StartDate] ASC,
+	[通貨ペアNo] ASC
+)
+INCLUDE (
+ 	[買いRate_高値],
+	[買いRate_安値],
+	[売りRate_高値],
+	[売りRate_安値]
+) WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+CREATE NONCLUSTERED INDEX [_dta_index_tMin5_5_883534231__K2_K1_3_4_18_19] ON [hstr].[tMin5]
+(
+	[StartDate] ASC,
+	[通貨ペアNo] ASC
+)
+INCLUDE (
+ 	[買いSwap],
+	[買いRate_始値],
+	[売りSwap],
+	[売りRate_始値]
+) WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+CREATE NONCLUSTERED INDEX [_dta_index_tMonth1_5_67531324__K2_K1] ON [hstr].[tMonth1]
+(
+	[StartDate] ASC,
+	[通貨ペアNo] ASC
+)WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+CREATE NONCLUSTERED INDEX [_dta_index_tSec_5_819534003__K2_K1_4_6] ON [hstr].[tSec]
+(
+	[StartDate] ASC,
+	[通貨ペアNo] ASC
+)
+INCLUDE (
+ 	[買いRate],
+	[売りRate]
+) WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+CREATE NONCLUSTERED INDEX [_dta_index_tWeek1_5_35531210__K2_K1_7_22] ON [hstr].[tWeek1]
+(
+	[StartDate] ASC,
+	[通貨ペアNo] ASC
+)
+INCLUDE (
+ 	[買いRate_終値],
+	[売りRate_終値]
+) WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+CREATE NONCLUSTERED INDEX [_dta_index_tWeek1_5_35531210__K2_K1_5_6_20_21] ON [hstr].[tWeek1]
+(
+	[StartDate] ASC,
+	[通貨ペアNo] ASC
+)
+INCLUDE (
+ 	[買いRate_高値],
+	[買いRate_安値],
+	[売りRate_高値],
+	[売りRate_安値]
+) WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+CREATE NONCLUSTERED INDEX [_dta_index_tWeek1_5_35531210__K2_K1_3_4_18_19] ON [hstr].[tWeek1]
+(
+	[StartDate] ASC,
+	[通貨ペアNo] ASC
+)
+INCLUDE (
+ 	[買いSwap],
+	[買いRate_始値],
+	[売りSwap],
+	[売りRate_始値]
+) WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+CREATE NONCLUSTERED INDEX [_dta_index_tWeek1_5_35531210__K2_K1_3_4_5_6_18_19_20_21] ON [hstr].[tWeek1]
+(
+	[StartDate] ASC,
+	[通貨ペアNo] ASC
+)
+INCLUDE (
+ 	[買いSwap],
+	[買いRate_始値],
+	[買いRate_高値],
+	[買いRate_安値],
+	[売りSwap],
+	[売りRate_始値],
+	[売りRate_高値],
+	[売りRate_安値]
+) WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+
+
+CREATE NONCLUSTERED INDEX [_dta_index_tHour1_5_947534459__K2_K1_7_22] ON [hstr].[tHour1]
+(
+	[StartDate] ASC,
+	[通貨ペアNo] ASC
+)
+INCLUDE (
+ 	[買いRate_終値],
+	[売りRate_終値]
+) WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+CREATE NONCLUSTERED INDEX [_dta_index_tHour1_5_947534459__K2_K1_5_6_20_21] ON [hstr].[tHour1]
+(
+	[StartDate] ASC,
+	[通貨ペアNo] ASC
+)
+INCLUDE (
+ 	[買いRate_高値],
+	[買いRate_安値],
+	[売りRate_高値],
+	[売りRate_安値]
+) WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+CREATE NONCLUSTERED INDEX [_dta_index_tHour1_5_947534459__K2_K1_3_4_5_6_18_19_20_21] ON [hstr].[tHour1]
+(
+	[StartDate] ASC,
+	[通貨ペアNo] ASC
+)
+INCLUDE (
+ 	[買いSwap],
+	[買いRate_始値],
+	[買いRate_高値],
+	[買いRate_安値],
+	[売りSwap],
+	[売りRate_始値],
+	[売りRate_高値],
+	[売りRate_安値]
+) WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+CREATE NONCLUSTERED INDEX [_dta_index_tMin15_5_915534345__K2_K1_3_4_18_19] ON [hstr].[tMin15]
+(
+	[StartDate] ASC,
+	[通貨ペアNo] ASC
+)
+INCLUDE (
+ 	[買いSwap],
+	[買いRate_始値],
+	[売りSwap],
+	[売りRate_始値]
+) WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+CREATE NONCLUSTERED INDEX [_dta_index_tMin5_5_883534231__K2] ON [hstr].[tMin5]
+(
+	[StartDate] ASC
+)WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+
+CREATE NONCLUSTERED INDEX [_dta_index_tSec_5_819534003__K2_K1_3_4_5_6] ON [hstr].[tSec]
+(
+	[StartDate] ASC,
+	[通貨ペアNo] ASC
+)
+INCLUDE (
+ 	[買いSwap],
+	[買いRate],
+	[売りSwap],
+	[売りRate]
+) WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+
+
+
+CREATE NONCLUSTERED INDEX [_dta_index_tHour1_5_947534459__K2_K1_3_4_18_19] ON [hstr].[tHour1]
+(
+	[StartDate] ASC,
+	[通貨ペアNo] ASC
+)
+INCLUDE (
+ 	[買いSwap],
+	[買いRate_始値],
+	[売りSwap],
+	[売りRate_始値]
+) WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+
+CREATE NONCLUSTERED INDEX [_dta_index_tMin15_5_915534345__K2_K1] ON [hstr].[tMin15]
+(
+	[StartDate] ASC,
+	[通貨ペアNo] ASC
+)WITH (SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, DATA_COMPRESSION = PAGE) ON [PRIMARY]
+GO
+

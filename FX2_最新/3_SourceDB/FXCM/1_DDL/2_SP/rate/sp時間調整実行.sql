@@ -1,0 +1,24 @@
+USE [FXCM]
+GO
+
+DROP PROCEDURE [rate].[spŽžŠÔ’²®ŽÀs]
+GO
+
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+CREATE PROCEDURE [rate].[spŽžŠÔ’²®ŽÀs]
+AS
+BEGIN
+
+	UPDATE rate.Min15 SET “úŽž = DATEADD(hour,14,“úŽž);
+	
+	UPDATE rate.Day1 SET “úŽž = DATEADD(hour,-11,“úŽž)
+
+
+END
+GO

@@ -1,0 +1,8 @@
+USE [RealB_2370741683_FX]
+GO
+
+-- •ªÍŒn
+CREATE SCHEMA [anls] AUTHORIZATION [db_owner]
+GO
+
+

@@ -1,0 +1,209 @@
+﻿default=enu
+[enu]
+codepage=1252
+name=Fractal
+description=Predicts a reversal in the current trend.
+param_clrUp_name=Up fractal color
+param_clrUp_description=The color of up fractals.
+param_clrDown_name=Down fractal color
+param_clrDown_description=The color of down fractals.
+param_show_price=Show fractal price
+param_show_price_1=Defines whether fractal price values are shown near up and down fractals.
+param_clrPrice_name=Prices color
+param_clrPrice_description=The color of fractal price labels.
+
+[rus]
+codepage=1251
+name=Фрактал
+description=Предсказывает разворот в текущем тренде.
+param_clrUp_name=Цвет фракталов вверх
+param_clrUp_description=Цвет фракталов вверх.
+param_clrDown_name=Цвет фракталов вниз
+param_clrDown_description=Цвет фракталов вниз.
+param_show_price=Показать цены фракталов
+param_show_price_1=Определяет, будут ли цены фракталов показаны рядом с  фракталами вверх и вниз.
+param_clrPrice_name=Цвет цен
+param_clrPrice_description=Цвет меток цен фракталов.
+
+[fra]
+codepage=1252
+name=Fractale
+description=Prédit un renversement dans la tendance actuelle
+param_clrUp_name=Couleur de la fractale du haut
+param_clrUp_description=La couleur des fractales du haut
+param_clrDown_name=Couleur de la fractale du bas
+param_clrDown_description=La couleur des fractales du bas
+param_show_price=Montrer prix fractal
+param_show_price_1=Définit si les valeurs du prix fractal sont affichées près des fractales haussières et baissières
+param_clrPrice_name=Couleur des prix
+param_clrPrice_description=La couleur des étiquettes de prix fractal
+
+[ara]
+codepage=1256
+name=فراكتل
+description=يتوقع التراجع في الاتجاه الحالي.
+param_clrUp_name=لون الخط العلوي للمؤشر
+param_clrUp_description=الألوان العلوية للمؤشر
+param_clrDown_name=لون الخط الأدنى للمؤشر
+param_clrDown_description=الألوان الدنيا للمؤشر
+param_show_price=إظهار السعر الكسري
+param_show_price_1=يحدد ما إذا كانت القيم الكسرية للسعر ستظهر قرب الأسعار الكسرية الصاعدة والهابطة
+param_clrPrice_name=لون الأسعار
+param_clrPrice_description=لون تسميات الأسعار الكسرية.
+
+[chs]
+codepage=936
+name=碎片指标
+description=预测现趋势内的逆转
+param_clrUp_name=向上碎片颜色
+param_clrUp_description=向上碎片颜色
+param_clrDown_name=向下碎片颜色
+param_clrDown_description=向下碎片颜色
+param_show_price=显示碎片价格
+param_show_price_1=定义碎片价格值是否显示于接近上及下碎片
+param_clrPrice_name=价格颜色
+param_clrPrice_description=碎片价格颜色标签
+
+[cht]
+codepage=950
+name=碎片指標
+description=預測現趨勢內的逆轉
+param_clrUp_name=向上碎片顏色
+param_clrUp_description=向上碎片顏色
+param_clrDown_name=向下碎片顏色
+param_clrDown_description=向下碎片顏色
+param_show_price=顯示碎片價格
+param_show_price_1=定義碎片價格值是否顯示於接近上及下碎片
+param_clrPrice_name=價格顏色
+param_clrPrice_description=碎片價格顏色標籤
+
+[esp]
+codepage=1252
+name=Fractal
+description=Predice un reverso en la tendencia actual.
+param_clrUp_name=Color del fractal superior
+param_clrUp_description=El color del fractal superior.
+param_clrDown_name=Color del fractal inferior.
+param_clrDown_description=El color del fractal inferior.
+param_show_price=Indique el precio fractal
+param_show_price_1=Define si el valor del precio fractal se muestra arriba o abajo
+param_clrPrice_name=Color de precios
+param_clrPrice_description=El color de las etiquetas de precios fractales
+
+[heb]
+codepage=1255
+name=פרקטל
+description=חוזה מפנה במגמה הקיימת
+param_clrUp_name=צבע פרקטל עולה
+param_clrUp_description=הצבע של הפרקטלים העולים
+param_clrDown_name=צבע פרקטל יורד
+param_clrDown_description=הצבע של הפרקטלים היורדים
+param_show_price=הצג מחיר פרקטלי
+param_show_price_1=מגדיר האם ערכי מחיר הפרקטל יוצגו ליד הפרקטלים היורדים והעולים.
+param_clrPrice_name=צבע מחירים
+param_clrPrice_description=צבע תגיות מחיר הפרקטל.
+
+[ita]
+codepage=1252
+name=Fractal
+description=Anticipa un cambiamento del trend attuale
+param_clrUp_name=Colore di Up fractal
+param_clrUp_description=Il colore di up fractals
+param_clrDown_name=Colore di Down fractal
+param_clrDown_description=Il colore di down fractal
+param_show_price=Mostra prezzo frattale
+param_show_price_1=Definisce se i valori del prezzo frattale sono mostrati vicino ai frattali up e down
+param_clrPrice_name=Colore prezzi
+param_clrPrice_description=Il colore dell'etichetta del prezzo frattale
+
+[pol]
+codepage=1250
+name=Fraktal
+description=Prognozuje zwroty w bieżącym trendzie.
+param_clrUp_name=Up fractal kolor
+param_clrUp_description=Up fractal kolor.
+param_clrDown_name=Down fractal kolor
+param_clrDown_description=Down fractal kolor.
+param_show_price=Pokaż cenę fraktalną
+param_show_price_1=Okresla czy wartości ceny fraktalnej są przedstawione nad czy pod fraktalami.
+param_clrPrice_name=Kolor cen
+param_clrPrice_description=Kolor etykiet cen fraktalnych
+
+[tur]
+codepage=1254
+name=Fraktal
+description=Geçerli trendin dönüş seviyelerini tahmin eder.
+param_clrUp_name=Üst fraktal rengi
+param_clrUp_description=Üst fraktalın rengi
+param_clrDown_name=Alt fraktal rengi
+param_clrDown_description=Alt fraktalın rengi
+param_show_price=Fraktal fiyatını göster
+param_show_price_1=Fraktal fiyat değerlerinin alt fraktala mı üst fraktala mı yakın gösterileceğini belirtir.
+param_clrPrice_name=Fiyatların rengi
+param_clrPrice_description=Fraktal fiyat etiketlerinin rengi.
+
+[cze]
+codepage=1250
+name=Fractal
+description=Předpovídá obrat daného trendu
+param_clrUp_name=Horní fractal barva
+param_clrUp_description=Barva horní fractal hranice
+param_clrDown_name=Spodní fractal barva
+param_clrDown_description=Barva spodní fractal hranice
+param_show_price=Ukázat fraktální cenu
+param_show_price_1=Definuje zda je zobrazena fraktální cena
+param_clrPrice_name=Barvy cen
+param_clrPrice_description=Barvy popisků fraktálních cen.
+
+[gre]
+codepage=1253
+name=Fractal
+description=Προβλέπει την αντιστροφή της τρέχουσας τάσης
+param_clrUp_name=Χρώμα άνω fractal
+param_clrUp_description=Το χρώμα του άνω fractal
+param_clrDown_name=Χρώμα κάτω fractal
+param_clrDown_description=Το χρώμα του κάτω fractal
+param_show_price=Εμφάνιση τιμών του Fractal
+param_show_price_1=Καθορίζει αν οι τιμές του fractal θα εμφανίζονται κοντά στα ανοδικά και καθοδικά fractals.
+param_clrPrice_name=Χρώμα τιμών
+param_clrPrice_description=Το χρώμα των ετικετών των τιμών του fractal.
+
+[jpn]
+codepage=932
+name=フラクタル
+description=現在のトレンドの反転を予測します。
+param_clrUp_name=上昇フラクタルの色
+param_clrUp_description=上昇フラクタルの色。
+param_clrDown_name=下降フラクタルの色
+param_clrDown_description=下降フラクタルの色。
+param_show_price=Fractal Priceを表示
+param_show_price_1=Fractalの上下近くにプライスを表示するかどうか指定する
+param_clrPrice_name=Fractal Prices の色
+param_clrPrice_description=Fractal Prices の色
+
+[por]
+codepage=1252
+name=Fractal
+description=Prediz uma reversão na tendência atual.
+param_clrUp_name=Cor de fractal pra cima
+param_clrUp_description=A cor dos fractais pra cima.
+param_clrDown_name=Cor de fractal pra baixo
+param_clrDown_description=A cor dos fractais pra baixo
+param_show_price=Mostrar preço fractal
+param_show_price_1=Define se os valores de preços fractais são mostrados perto de valores fractais ascendentes e descendentes.
+param_clrPrice_name=Cor de preços
+param_clrPrice_description=A cor das etiquetas de preços fractais.
+
+[deu]
+codepage=1252
+name=Fraktal
+description=Lässt eine Wende bei der jetzigen Tendenz schätzen.
+param_clrUp_name=Obige Fraktal-Farbe
+param_clrUp_description=Farbe der obigen Fraktal
+param_clrDown_name=Untere Fraktal-Farbe
+param_clrDown_description=Farbe der unteren Fraktal-Farben
+param_show_price=Fraktal Preise anzeigen
+param_show_price_1=Definiert, ob Fraktal Preiswerte nahe der Aufwärts- und Abwärtsfraktale angezeigt werden
+param_clrPrice_name=Preis Farbe
+param_clrPrice_description=Die Farbe der Fraktal Preis Label
+
